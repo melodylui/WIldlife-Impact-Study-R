@@ -1,5 +1,5 @@
 # Environmental Data Analysis and Habitat Preservation Using R
-
+[Link to Write-Up]( https://drive.google.com/file/d/1wkC7ad6oVXZWxJgZCv2xSJT_XlYkwVSb/view?usp=sharing)
 ## Project Overview
 
 This project is an environmental data analysis focusing on wildlife sightings in the Pacific Northwest, leveraging R programming and GIS techniques. The main objective is to identify patterns and correlations between geographic locations, climatic conditions, and wildlife sightings to support habitat preservation efforts.
