@@ -1,0 +1,4499 @@
+﻿FID,ROADNAME,NUM_LANES,SUR_TYPE,Label_Cate
+1,OLD SHASTA RIVER ROAD,2,Paved,County Road
+2,LAURA AV,2,Paved,City Street
+3,MURRAY AV,2,Paved,City Street
+4,CHINA GRADE ROAD,2,Paved,County Road
+5,LAURA AV,2,Paved,City Street
+6,HWY 3,2,Paved,State Highway
+7,RICHMAN LN,2,Paved,City Street
+8,CHINA GRADE ROAD,2,Unpaved,County Road
+9,SCHANTZ ROAD,2,Paved,County Road
+10,FAIRLANE ROAD,2,Paved,County Road
+11,INDIAN CREEK ROAD,2,Unpaved,County Road
+12,WESTSIDE RD,2,Paved,City Street
+13,TECHNOR ROBISON ROAD,2,Unpaved,County Road
+14,HARRY CASH ROAD,2,Paved,County Road
+15,SYLVA ROAD,2,Unpaved,County Road
+16,FAIRLANE ROAD,2,Paved,County Road
+17,HWY 96,2,Paved,State Highway
+18,DAVIS  ROAD,2,Unpaved,County Road
+19,HWY 96,2,Paved,State Highway
+20,HAPPY CAMP DUMP ROAD,2,Paved,County Road
+21,FOURTH AVENUE,2,Paved,County Road
+22,WASHINGTON STREET,2,Paved,County Road
+23,FOURTH AVENUE,2,Paved,County Road
+24,TIMBER INN ROAD,2,Unpaved,County Road
+25,FOURTH AVENUE,2,Paved,County Road
+26,INDIAN CREEK ROAD,2,Paved,County Road
+27,COOK CAMPBELL ROAD,2,Unpaved,County Road
+28,CHINA GRADE ROAD,2,Unpaved,County Road
+29,EAST STREET,2,Paved,County Road
+30,THIRD AVENUE,2,Paved,County Road
+31,THIRD AVENUE,2,Paved,County Road
+32,WASHINGTON STREET,2,Paved,County Road
+33,THIRD AVENUE,2,Paved,County Road
+34,TIMBER INN ROAD,2,Unpaved,County Road
+35,GORDONS FERRY ROAD,2,Unpaved,County Road
+36,THIRD AVENUE,2,Paved,County Road
+37,INDIAN CREEK ROAD,2,Paved,County Road
+38,COOK CAMPBELL ROAD,2,Paved,County Road
+39,HILLSIDE ROAD,2,Paved,County Road
+40,HWY 96,2,Paved,State Highway
+41,SECOND AVENUE,2,Paved,County Road
+42,HEADWAY ROAD,2,Paved,County Road
+43,SECOND AVENUE,2,Paved,County Road
+44,WASHINGTON STREET,2,Paved,County Road
+45,SECOND AVENUE,2,Paved,County Road
+46,TIMBER INN ROAD,2,Unpaved,County Road
+47,SECOND AVENUE,2,Paved,County Road
+48,SYLVA ROAD,2,Paved,County Road
+49,SECOND AVENUE,2,Paved,County Road
+50,HWY 96,2,Paved,State Highway
+51,HWY 96,2,Paved,State Highway
+52,FIRST AVENUE,2,Paved,County Road
+53,INDIAN CREEK ROAD,2,Paved,County Road
+54,SECOND AVENUE,2,Paved,County Road
+55,SYLVA ROAD,2,Unpaved,County Road
+56,ELK CREEK ROAD,2,Paved,County Road
+57,SYLVA ROAD,2,Paved,County Road
+58,INDIAN CREEK ROAD,2,Paved,County Road
+59,SECOND AVENUE,2,Paved,County Road
+60,AIRPORT ROAD,2,Paved,County Road
+61,NUGGET STREET,2,Paved,County Road
+62,ELK CREEK ROAD,2,Paved,County Road
+63,HWY 96,2,Paved,State Highway
+64,SECOND AVENUE,2,Paved,County Road
+65,HUMBUG CREEK ROAD,2,Unpaved,County Road
+66,FIFTH AVENUE EAST,2,Unpaved,County Road
+67,HWY 96,2,Paved,State Highway
+68,ELK CREEK ROAD,2,Paved,County Road
+69,CURLY JACK ROAD,2,Paved,County Road
+70,HWY 96,2,Paved,State Highway
+71,LOWER AIRPORT ROAD,2,Paved,County Road
+72,SYLVA ROAD,2,Unpaved,County Road
+73,AIRPORT ROAD,2,Paved,County Road
+74,FIFTH AVENUE EAST,2,Unpaved,County Road
+75,FIFTH AVENUE EAST,2,Paved,County Road
+76,FIFTH AVENUE EAST,2,Unpaved,County Road
+77,SYLVA ROAD,2,Paved,County Road
+78,COOK CAMPBELL ROAD,2,Unpaved,County Road
+79,SYLVA ROAD,2,Unpaved,County Road
+80,COOK CAMPBELL ROAD,2,Paved,County Road
+81,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+82,WEST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+83,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+84,WEST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+85,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+86,WEST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+87,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+88,COOK CAMPBELL ROAD,2,Paved,County Road
+89,WEST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+90,SHOEMAKER ROAD,2,Paved,County Road
+91,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+92,HWY 97,2,Paved,State Highway
+93,MYERS ROAD,2,Unpaved,County Road
+94,WEST MACDOEL DISTRICT ROAD,2,Paved,County Road
+95,OLD STATE HWY,2,Paved,County Road
+96,EAST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+97,SAGEBRUSH LANE,2,Unpaved,County Road
+98,EAST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+99,SYLVA ROAD,2,Unpaved,County Road
+100,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+101,SNOWDEN HOVEY GULCH ROAD,2,Paved,County Road
+102,GORDONS FERRY ROAD,2,Unpaved,County Road
+103,COOK CAMPBELL ROAD,2,Unpaved,County Road
+104,ELK CREEK ROAD,2,Paved,County Road
+105,GORDONS FERRY ROAD,2,Paved,County Road
+106,KUCK ROAD,2,Unpaved,County Road
+107,ANDERSON GRADE ROAD,2,Unpaved,County Road
+108,ELK CREEK ROAD,2,Paved,County Road
+109,GORDONS FERRY ROAD,2,Unpaved,County Road
+110,HWY 96,2,Paved,State Highway
+111,HOCKADAY ROAD,2,Paved,County Road
+112,FIFTH AVENUE EAST,2,Paved,County Road
+113,KUCK ROAD,2,Unpaved,County Road
+114,FIFTH AVENUE EAST,2,Unpaved,County Road
+115,OLD STATE HWY,2,Paved,County Road
+116,MAIN STREET,2,Paved,County Road
+117,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+118,COOK CAMPBELL ROAD,2,Paved,County Road
+119,HWY 96,2,Paved,State Highway
+120,CURLY JACK ROAD,2,Paved,County Road
+121,HAWKINSVILLE HUMBUG ROAD,2,Unpaved,County Road
+122,SNOWDEN HOVEY GULCH ROAD,2,Paved,County Road
+123,CHINA GRADE ROAD,2,Paved,County Road
+124,HWY 96,2,Paved,State Highway
+125,HWY 96,2,Paved,State Highway
+126,MONTAGUE FIELD ROAD,2,Paved,County Road
+127,MONTAGUE FIELD ROAD,2,Paved,County Road
+128,NORTH HANGAR ROAD,2,Unpaved,County Road
+129,MONTAGUE FIELD ROAD,2,Paved,County Road
+130,AIRPORT ROAD,2,Paved,County Road
+131,OLD SHASTA RIVER ROAD,2,Unpaved,County Road
+132,KUCK ROAD,2,Paved,County Road
+133,I-5,2,Paved,Interstate
+134,SOUTH HANGAR ROAD,2,Unpaved,County Road
+135,I-5R,2,Paved,Interstate Ramp
+136,COOK CAMPBELL ROAD,2,Unpaved,County Road
+137,HWY 97,2,Paved,State Highway
+138,HWY 263,2,Paved,State Highway
+139,OLD SHASTA RIVER ROAD,2,Paved,County Road
+140,YREKA WALKER ROAD,2,Unpaved,County Road
+141,I-5R,2,Paved,Interstate Ramp
+142,I-5R,2,Paved,Interstate Ramp
+143,ELIZA GULCH ROAD,2,Unpaved,County Road
+144,HUMBUG CREEK ROAD,2,Unpaved,County Road
+145,YREKA WALKER ROAD,2,Unpaved,County Road
+146,HUMBUG CREEK ROAD,2,Unpaved,County Road
+147,YREKA WALKER ROAD,2,Unpaved,County Road
+148,HAWKINSVILLE HUMBUG ROAD,2,Unpaved,County Road
+149,I-5,2,Paved,Interstate
+150,I-5R,2,Paved,Interstate Ramp
+151,CANAL GULCH ROAD,2,Unpaved,County Road
+152,CANAL GULCH ROAD,2,Paved,County Road
+153,HWY 263,2,Paved,State Highway
+154,ROXBURY DRIVE,2,Paved,County Road
+155,CANAL GULCH ROAD,2,Unpaved,County Road
+156,ANDERSON GRADE ROAD,2,Paved,County Road
+157,AGER ROAD,2,Paved,County Road
+158,SHELLEY ROAD,2,Paved,County Road
+159,ROXBURY DRIVE,2,Unpaved,County Road
+160,KUCK ROAD,2,Unpaved,County Road
+161,ROXBURY DRIVE,2,Unpaved,County Road
+162,TAYLOR LANE,2,Unpaved,County Road
+163,KUCK ROAD,2,Paved,County Road
+164,SHELLEY ROAD,2,Paved,County Road
+165,AIRPORT ROAD,2,Paved,County Road
+166,SHELLEY ROAD,2,Paved,County Road
+167,ROXBURY DRIVE,2,Unpaved,County Road
+168,TAYLOR LANE,2,Paved,County Road
+169,HAWKINSVILLE HUMBUG ROAD,2,Paved,County Road
+170,CANAL GULCH ROAD,2,Paved,County Road
+171,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+172,TAYLOR LANE,2,Unpaved,County Road
+173,SCOTT RIVER ROAD,2,Paved,County Road
+174,ROXBURY DRIVE,2,Paved,County Road
+175,PERIMETER ROAD,2,Paved,County Road
+176,AIRPORT ROAD,2,Paved,County Road
+177,LOWER HANGAR ROAD,2,Paved,County Road
+178,PERIMETER ROAD,2,Paved,County Road
+179,PERIMETER ROAD,2,Paved,County Road
+180,ELK CREEK ROAD,2,Paved,County Road
+181,LICHENS ROAD,2,Unpaved,County Road
+182,HAWKINSVILLE HUMBUG ROAD,2,Paved,County Road
+183,LONG GULCH ROAD,2,Unpaved,County Road
+184,LONG GULCH ROAD,2,Unpaved,County Road
+185,HWY 263,2,Paved,State Highway
+186,HAWKINSVILLE HUMBUG ROAD,2,Paved,County Road
+187,LONG GULCH ROAD,2,Unpaved,County Road
+188,LONG GULCH ROAD,2,Paved,County Road
+189,MIDDLE FORK HUMBUG ROAD,2,Unpaved,County Road
+190,LONG GULCH ROAD,2,Unpaved,County Road
+191,HAWKINSVILLE ROAD,2,Unpaved,County Road
+192,LONG GULCH ROAD,2,Unpaved,County Road
+193,HWY 263,2,Paved,State Highway
+194,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+195,HWY 263,2,Paved,State Highway
+196,YREKA WALKER ROAD,2,Unpaved,County Road
+197,LOAFER HILL ROAD,2,Unpaved,County Road
+198,SNOWDEN HOVEY GULCH ROAD,2,Paved,County Road
+199,AIRPORT ROAD,2,Paved,County Road
+200,ELK CREEK ROAD,2,Paved,County Road
+201,LICHENS ROAD,2,Paved,County Road
+202,SWIGART ROAD,2,Paved,County Road
+203,ELK CREEK ROAD,2,Paved,County Road
+204,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+205,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+206,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+207,TOWNSEND ROAD,2,Unpaved,County Road
+208,HILL-CUMMINS LN,2,Paved,City Street
+209,SCOTT RIVER ROAD,2,Paved,County Road
+210,MILL CREEK ROAD,2,Unpaved,County Road
+211,QUARRY CT,2,Paved,City Street
+212,LIMESTONE CIR,2,Paved,City Street
+213,MILL CREEK ROAD,2,Paved,County Road
+214,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+215,I-5,2,Paved,Interstate
+216,YREKA WALKER ROAD,2,Unpaved,County Road
+217,QUARRY CT,2,Paved,City Street
+218,QUARRY CIR,2,Paved,City Street
+219,DISCOVERY ST,2,Paved,City Street
+220,NORTH VIEW CIR,2,Paved,City Street
+221,NORTH VIEW CIR,2,Paved,City Street
+222,I-5,2,Paved,Interstate
+223,OVERLOOK ST,2,Paved,City Street
+224,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+225,YREKA AGER ROAD,2,Paved,County Road
+226,VISTA WY,2,Paved,City Street
+227,NORTHRIDGE DR,2,Paved,City Street
+228,QUARRY CT,2,Paved,City Street
+229,HILLCREST DR,2,Paved,City Street
+230,NORTHRIDGE DR,2,Paved,City Street
+231,DISCOVERY ST,2,Paved,City Street
+232,NORTHRIDGE DR,2,Paved,City Street
+233,YREKA WALKER ROAD,2,Paved,County Road
+234,NORTHRIDGE DR,2,Paved,City Street
+235,YREKA AGER RD,2,Paved,City Street
+236,RIVERVIEW DR,2,Paved,City Street
+237,RIVERVIEW DR,2,Paved,City Street
+238,HUMBUG RD,2,Paved,City Street
+239,NORTHRIDGE DR,2,Paved,City Street
+240,TERRACE DR,2,Paved,City Street
+241,DISCOVERY ST,2,Paved,City Street
+242,HUMBUG RD,2,Paved,City Street
+243,TERRACE CT,2,Paved,City Street
+244,TERRACE DR,2,Paved,City Street
+245,YREKA AGER RD,2,Paved,City Street
+246,HWY 3,2,Paved,State Highway
+247,WACKER MINE RD,2,Paved,City Street
+248,SNOWDEN HOVEY GULCH ROAD,2,Paved,County Road
+249,TERRACE DR,2,Paved,City Street
+250,BARHAM ST,2,Paved,City Street
+251,PIONEER ST,2,Paved,City Street
+252,SCENIC CT,2,Paved,City Street
+253,TERRACE DR,2,Paved,City Street
+254,DISCOVERY ST,2,Paved,City Street
+255,LAUREL CT,2,Paved,City Street
+256,TERRACE DR,2,Paved,City Street
+257,OREGON ST,2,Paved,City Street
+258,HWY 263,2,Paved,State Highway
+259,TEBBE ST,2,Paved,City Street
+260,HWY 3,2,Paved,State Highway
+261,HELWEG CT,2,Paved,City Street
+262,HILLCREST DR,2,Paved,City Street
+263,TERRACE DR,2,Paved,City Street
+264,BARHAM ST,2,Paved,City Street
+265,KNAPP ST,2,Paved,City Street
+266,ELENA ST,2,Paved,City Street
+267,CEDAR ST,2,Paved,City Street
+268,DEER CREEK WY,2,Paved,City Street
+269,HWY 3,2,Paved,State Highway
+270,ELM ST,2,Paved,City Street
+271,PIONEER ST,2,Paved,City Street
+272,HWY 3,2,Paved,State Highway
+273,DISCOVERY ST,2,Paved,City Street
+274,TERRACE DR,2,Paved,City Street
+275,I-5R,2,Paved,Interstate Ramp
+276,HWY 3,2,Paved,State Highway
+277,HWY 3,2,Paved,State Highway
+278,CEDAR ST,2,Paved,City Street
+279,I-5,2,Paved,Interstate
+280,HWY 3,2,Paved,State Highway
+281,KNAPP ST,2,Paved,City Street
+282,I-5,2,Paved,Interstate
+283,HWY 3,2,Paved,State Highway
+284,DISCOVERY ST,2,Paved,City Street
+285,HWY 3,2,Paved,State Highway
+286,JUNIPER DR,2,Paved,City Street
+287,CEDAR ST,2,Paved,City Street
+288,ELM ST,2,Paved,City Street
+289,KNAPP ST,2,Paved,City Street
+290,WETZEL WY,2,Paved,City Street
+291,GEORGIA WY,2,Paved,City Street
+292,OREGON ST,2,Paved,City Street
+293,HUMBUG RD,2,Paved,City Street
+294,I-5R,2,Paved,Interstate Ramp
+295,HWY 3,2,Paved,State Highway
+296,DISCOVERY ST,2,Paved,City Street
+297,CEDAR ST,2,Paved,City Street
+298,HUMBUG RD,2,Paved,City Street
+299,GRIZZLY CT,2,Paved,City Street
+300,LENNOX ST,2,Paved,City Street
+301,SISKIYOU ST,2,Paved,City Street
+302,KNAPP ST,2,Paved,City Street
+303,HENIG WY,2,Paved,City Street
+304,NORTH ST,2,Paved,City Street
+305,HWY 3,2,Paved,State Highway
+306,BLAKE ST,2,Paved,City Street
+307,KLAMATH ST,2,Paved,City Street
+308,KNAPP ST,2,Paved,City Street
+309,HILLCREST ST,2,Paved,City Street
+310,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+311,HUMBUG RD,2,Paved,City Street
+312,BLAKE ST,2,Paved,City Street
+313,JUNIPER DR,2,Paved,City Street
+314,OREGON ST,2,Paved,City Street
+315,OREGON ST,2,Paved,City Street
+316,KNAPP ST,2,Paved,City Street
+317,FOOTHILL DRIVE,2,Paved,County Road
+318,HILLCREST ST,2,Paved,City Street
+319,PARK PL,2,Paved,City Street
+320,SUMMIT CT,2,Paved,City Street
+321,MAPLE ST,2,Paved,City Street
+322,BLAKE ST,2,Paved,City Street
+323,KNAPP ST,2,Paved,City Street
+324,BLAKE ST,2,Paved,City Street
+325,HILLCREST ST,2,Paved,City Street
+326,MAPLE ST,2,Paved,City Street
+327,HWY 3,2,Paved,State Highway
+328,JASPER PL,2,Paved,City Street
+329,LENNOX ST,2,Paved,City Street
+330,HWY 3,2,Paved,State Highway
+331,SHERMAN ST,2,Paved,City Street
+332,LENNOX ST,2,Paved,City Street
+333,SPRING ST,2,Paved,City Street
+334,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+335,SHERMAN ST,2,Paved,City Street
+336,BURGESS ST,2,Paved,City Street
+337,COURT ST,2,Paved,City Street
+338,WETZEL WY,2,Paved,City Street
+339,NORTH ST,2,Paved,City Street
+340,DISCOVERY ST,2,Paved,City Street
+341,OAK ST,2,Paved,City Street
+342,PARK PL,2,Paved,City Street
+343,BURGESS ST,2,Paved,City Street
+344,FOOTHILL DRIVE,2,Paved,County Road
+345,HILLCREST ST,2,Paved,City Street
+346,SUMMIT CT,2,Paved,City Street
+347,HILL ST,2,Paved,City Street
+348,FAIRCHILD ST,2,Paved,City Street
+349,CEDAR ST,2,Paved,City Street
+350,SPRING ST,2,Paved,City Street
+351,NORTH ST,2,Paved,City Street
+352,DISCOVERY ST,2,Paved,City Street
+353,PARK PL,2,Paved,City Street
+354,VIRGINIA ST,2,Paved,City Street
+355,LENNOX ST,2,Paved,City Street
+356,HWY 3,2,Paved,State Highway
+357,DEXTER ST,2,Paved,City Street
+358,I-5R,2,Paved,Interstate Ramp
+359,I-5,2,Paved,Interstate
+360,SPRING ST,2,Paved,City Street
+361,DEXTER ST,2,Paved,City Street
+362,SHERMAN ST,2,Paved,City Street
+363,CEDAR ST,2,Paved,City Street
+364,BURGESS ST,2,Paved,City Street
+365,DEXTER ST,2,Paved,City Street
+366,OREGON ST,2,Paved,City Street
+367,LENNOX ST,2,Paved,City Street
+368,FAIRCHILD ST,2,Paved,City Street
+369,OAK ST,2,Paved,City Street
+370,YAMA ST,2,Paved,City Street
+371,I-5,2,Paved,Interstate
+372,I-5R,2,Paved,Interstate Ramp
+373,HILLCREST ST,2,Paved,City Street
+374,YAMA ST,2,Paved,City Street
+375,GOLD ST,2,Paved,City Street
+376,HILL ST,2,Paved,City Street
+377,PROSPECT LN,2,Paved,City Street
+378,YAMA ST,2,Paved,City Street
+379,HILL ST,2,Paved,City Street
+380,OREGON ST,2,Paved,City Street
+381,DISCOVERY ST,2,Paved,City Street
+382,YAMA ST,2,Paved,City Street
+383,W LENNOX ST,2,Paved,City Street
+384,THIRD ST,2,Paved,City Street
+385,W LENNOX ST,2,Paved,City Street
+386,PARK PL,2,Paved,City Street
+387,YAMA ST,2,Paved,City Street
+388,NORTH ST,2,Paved,City Street
+389,SHERMAN ST,2,Paved,City Street
+390,OAK ST,2,Paved,City Street
+391,HWY 3,2,Paved,State Highway
+392,W LENNOX ST,2,Paved,City Street
+393,HILLCREST ST,2,Paved,City Street
+394,NORTH ST,2,Paved,City Street
+395,FAIRCHILD ST,2,Paved,City Street
+396,YAMA ST,2,Paved,City Street
+397,W LENNOX ST,2,Paved,City Street
+398,BURGESS ST,2,Paved,City Street
+399,W LENNOX ST,2,Paved,City Street
+400,N LANGE WY,2,Paved,City Street
+401,MINER ST,2,Paved,City Street
+402,W LENNOX ST,2,Paved,City Street
+403,OREGON ST,2,Paved,City Street
+404,MINER ST,2,Paved,City Street
+405,STAGE ALLEY,2,Paved,City Street
+406,HOWARD ST,2,Paved,City Street
+407,LENNOX ST,2,Paved,City Street
+408,DISCOVERY ST,2,Paved,City Street
+409,NORTH ST,2,Paved,City Street
+410,THIRD ST,2,Paved,City Street
+411,HOWARD ST,2,Paved,City Street
+412,PHILLIPE LN,2,Paved,City Street
+413,HWY 3,2,Paved,State Highway
+414,SHERMAN ST,2,Paved,City Street
+415,YAMA ST,2,Paved,City Street
+416,LENNOX ST,2,Paved,City Street
+417,HWY 3,2,Paved,State Highway
+418,HOWARD ST,2,Paved,City Street
+419,S DEWITT WY,2,Paved,City Street
+420,MINER ST,2,Paved,City Street
+421,PHILLIPE LN,2,Paved,City Street
+422,FOOTHILL DR,2,Paved,City Street
+423,BURGESS ST,2,Paved,City Street
+424,HOWARD ST,2,Paved,City Street
+425,FOOTHILL DR,2,Paved,City Street
+426,FAIRCHILD ST,2,Paved,City Street
+427,NORTH ST,2,Paved,City Street
+428,FOOTHILL DR,2,Paved,City Street
+429,LENNOX ST,2,Paved,City Street
+430,GOLD ST,2,Paved,City Street
+431,YAMA ST,2,Paved,City Street
+432,PINE ST,2,Paved,City Street
+433,YAMA ST,2,Paved,City Street
+434,HWY 97,2,Paved,State Highway
+435,I-5,2,Paved,Interstate
+436,NORTH ST,2,Paved,City Street
+437,KLEAVER DR,2,Paved,City Street
+438,I-5,2,Paved,Interstate
+439,HERZOG BLVD,2,Paved,City Street
+440,WARRENS AV,2,Paved,City Street
+441,OREGON ST,2,Paved,City Street
+442,YAMA ST,2,Paved,City Street
+443,AIRPORT ROAD,2,Paved,County Road
+444,OREGON SLOUGH ROAD,2,Paved,County Road
+445,FAIRCHILD ST,2,Paved,City Street
+446,MINER ST,2,Paved,City Street
+447,STAGE ALLEY,2,Paved,City Street
+448,YAMA ST,2,Paved,City Street
+449,WARRENS AV,2,Paved,City Street
+450,ALLEN ST,2,Paved,City Street
+451,THIRD ST,2,Paved,City Street
+452,YAMA ST,2,Paved,City Street
+453,AIRPORT ROAD,2,Paved,County Road
+454,GOLD ST,2,Paved,City Street
+455,NORTH ST,2,Paved,City Street
+456,HWY 3,2,Paved,State Highway
+457,YAMA ST,2,Paved,City Street
+458,S WEST ST,2,Paved,City Street
+459,MINER ST,2,Paved,City Street
+460,FAIRCHILD ST,2,Paved,City Street
+461,COLLIER CIR,2,Paved,City Street
+462,PINE ST,2,Paved,City Street
+463,NORTH ST,2,Paved,City Street
+464,FAIRCHILD ST,2,Paved,City Street
+465,OREGON ST,2,Paved,City Street
+466,OREGON ST,2,Paved,City Street
+467,NORTH ST,2,Paved,City Street
+468,STAGE ALLEY,2,Paved,City Street
+469,NORTH ST,2,Paved,City Street
+470,AIRPORT ROAD,2,Paved,County Road
+471,THIRD ST,2,Paved,City Street
+472,NORTH ST,2,Paved,City Street
+473,HEARN ST,2,Paved,City Street
+474,GOLD ST,2,Paved,City Street
+475,MINER ST,2,Paved,City Street
+476,BROADWAY ST,2,Paved,City Street
+477,NORTH ST,2,Paved,City Street
+478,ARLENE CT,2,Paved,City Street
+479,STACEY CT,2,Paved,City Street
+480,HWY 3,2,Paved,State Highway
+481,NORTH ST,2,Paved,City Street
+482,FAIRCHILD ST,2,Paved,City Street
+483,S DEWITT WY,2,Paved,City Street
+484,ARLENE CT,2,Paved,City Street
+485,PINE ST,2,Paved,City Street
+486,MINER ST,2,Paved,City Street
+487,SILVA CT,2,Paved,City Street
+488,S WEST ST,2,Paved,City Street
+489,SIERRA VISTA DR,2,Paved,City Street
+490,E NORTH ST,2,Unpaved,City Street
+491,9TH ST,2,Paved,City Street
+492,OREGON ST,2,Paved,City Street
+493,MINER ST,2,Paved,City Street
+494,X,2,Paved,City Street
+495,HEARN ST,2,Paved,City Street
+496,LANE ST,2,Paved,City Street
+497,S LANGE WAY,2,Paved,City Street
+498,LANE ST,2,Paved,City Street
+499,AGER ROAD,2,Paved,County Road
+500,SPIERS ST,2,Paved,City Street
+501,PATRICIA WY,2,Paved,City Street
+502,LANE ST,2,Paved,City Street
+503,MINER ST,2,Paved,City Street
+504,S WEST ST,2,Paved,City Street
+505,THIRD ST,2,Paved,City Street
+506,MINER ST,2,Paved,City Street
+507,LANE ST,2,Paved,City Street
+508,GOLD ST,2,Paved,City Street
+509,I-5R,2,Paved,Interstate Ramp
+510,LANE ST,2,Paved,City Street
+511,LANE ST,2,Paved,City Street
+512,FAIRCHILD ST,2,Paved,City Street
+513,BROADWAY ST,2,Paved,City Street
+514,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+515,AGER BESWICK ROAD,2,Unpaved,County Road
+516,HWY 97,2,Paved,State Highway
+517,WALTERS LANE,2,Paved,County Road
+518,HORNBROOK ROAD,2,Paved,County Road
+519,I-5,2,Paved,Interstate
+520,HWY 97,2,Paved,State Highway
+521,HORNBROOK ROAD,2,Paved,County Road
+522,WALTERS LANE,2,Paved,County Road
+523,I-5,2,Paved,Interstate
+524,MCADAMS CREEK ROAD,2,Unpaved,County Road
+525,WALTERS LANE,2,Paved,County Road
+526,WESTSIDE ROAD,2,Paved,County Road
+527,FAIRLANE ROAD,2,Paved,County Road
+528,MCADAMS CREEK ROAD,2,Paved,County Road
+529,EASY STREET,2,Paved,County Road
+530,WALTERS LANE,2,Paved,County Road
+531,DEWITT PARK ROAD,2,Paved,County Road
+532,MONTAGUE GRENADA ROAD,2,Paved,County Road
+533,EASY STREET,2,Paved,County Road
+534,WALTERS LANE,2,Paved,County Road
+535,OAK VIEW COURT,2,Unpaved,County Road
+536,INDIAN CREEK ROAD,2,Paved,County Road
+537,PRUETT DRIVE,2,Paved,County Road
+538,FREEMAN ROAD,2,Paved,County Road
+539,MCADAMS CREEK ROAD,2,Unpaved,County Road
+540,ORCHARD COURT,2,Paved,County Road
+541,PRUETT DRIVE,2,Paved,County Road
+542,PRUETT DRIVE,2,Paved,County Road
+543,INDIAN CREEK ROAD,2,Paved,County Road
+544,MCADAMS CREEK ROAD,2,Paved,County Road
+545,MCADAMS INDIAN CREEK CONNECTION ROAD,2,Unpaved,County Road
+546,OAKWOOD LANE,2,Paved,County Road
+547,HWY 97,3,Paved,State Highway
+548,PINEVIEW DRIVE,2,Paved,County Road
+549,LONG PRAIRIE ROAD,2,Unpaved,County Road
+550,SCOTT RIVER ROAD,2,Paved,County Road
+551,I-5,2,Paved,Interstate
+552,KILLGORE HILLS ROAD,2,Unpaved,County Road
+553,KILLGORE HILLS ROAD,2,Paved,County Road
+554,SHAMROCK ROAD,2,Paved,County Road
+555,I-5,2,Paved,Interstate
+556,SHAMROCK ROAD,2,Paved,County Road
+557,ACCESS ROAD,2,Paved,County Road
+558,I-5R,2,Paved,Interstate Ramp
+559,ACCESS ROAD,2,Paved,County Road
+560,I-5,2,Paved,Interstate
+561,ACCESS ROAD,2,Paved,County Road
+562,I-5,2,Paved,Interstate
+563,ACCESS ROAD,2,Paved,County Road
+564,I-5R,2,Paved,Interstate Ramp
+565,ACCESS ROAD,2,Paved,County Road
+566,ACCESS ROAD,2,Paved,County Road
+567,OLD STATE HWY,2,Unpaved,County Road
+568,I-5R,2,Paved,Interstate Ramp
+569,I-5,2,Paved,Interstate
+570,I-5,2,Paved,Interstate
+571,DE SOZA LANE,2,Unpaved,County Road
+572,DE SOZA LANE,2,Paved,County Road
+573,SHAMROCK ROAD,2,Paved,County Road
+574,EASY STREET,2,Paved,County Road
+575,HARRY CASH ROAD,2,Paved,County Road
+576,DE SOZA LANE,2,Unpaved,County Road
+577,TECHNOR ROBISON ROAD,2,Unpaved,County Road
+578,TECHNOR ROBISON ROAD,2,Unpaved,County Road
+579,TENNANT ROAD,2,Unpaved,County Road
+580,TECHNOR ROBISON ROAD,2,Unpaved,County Road
+581,TENNANT ROAD,2,Unpaved,County Road
+582,BIG SPRINGS ROAD,2,Unpaved,County Road
+583,BIG SPRINGS ROAD,2,Paved,County Road
+584,HART ROAD,2,Paved,County Road
+585,DE SOZA LANE,2,Paved,County Road
+586,DE SOZA LANE,2,Paved,County Road
+587,MONTAGUE GRENADA ROAD,2,Paved,County Road
+588,OLD 99 HIGHWAY,2,Paved,County Road
+589,SCOTT RIVER ROAD,2,Paved,County Road
+590,LONG PRAIRIE ROAD,2,Unpaved,County Road
+591,I-5,2,Paved,Interstate
+592,I-5,2,Paved,Interstate
+593,KELSEY CREEK ROAD,2,Unpaved,County Road
+594,99-97 CUTOFF,2,Paved,County Road
+595,99-97 CUTOFF,2,Paved,County Road
+596,99-97 CUTOFF,2,Paved,County Road
+597,MONTAGUE GRENADA ROAD,2,Paved,County Road
+598,99-97 CUTOFF,2,Paved,County Road
+599,I-5R,2,Paved,Interstate Ramp
+600,99-97 CUTOFF,2,Paved,County Road
+601,99-97 CUTOFF,2,Paved,County Road
+602,I-5R,2,Paved,Interstate Ramp
+603,I-5R,2,Paved,Interstate Ramp
+604,99-97 CUTOFF,2,Paved,County Road
+605,99-97 CUTOFF,2,Paved,County Road
+606,FOURTH AVENUE,2,Paved,County Road
+607,SECOND STREET,2,Paved,County Road
+608,THIRD AVENUE,2,Paved,County Road
+609,SECOND STREET,2,Paved,County Road
+610,SISKIYOU AVENUE,2,Paved,County Road
+611,SECOND STREET,2,Paved,County Road
+612,99-97 CUTOFF,2,Paved,County Road
+613,I-5,2,Paved,Interstate
+614,99-97 CUTOFF,2,Paved,County Road
+615,I-5,2,Paved,Interstate
+616,99-97 CUTOFF,2,Paved,County Road
+617,99-97 CUTOFF,2,Paved,County Road
+618,99-97 CUTOFF,2,Paved,County Road
+619,FOURTH AVENUE,2,Paved,County Road
+620,SHASTA BOULEVARD,2,Paved,County Road
+621,99-97 CUTOFF,2,Paved,County Road
+622,THIRD AVENUE,2,Paved,County Road
+623,SHASTA BOULEVARD,2,Paved,County Road
+624,SISKIYOU AVENUE,2,Paved,County Road
+625,SHASTA BOULEVARD,2,Paved,County Road
+626,SHASTA BOULEVARD,2,Unpaved,County Road
+627,99-97 CUTOFF,2,Paved,County Road
+628,OLD 99 HIGHWAY,2,Paved,County Road
+629,FOURTH STREET,2,Paved,County Road
+630,SISKIYOU AVENUE,2,Paved,County Road
+631,THIRD AVENUE,2,Paved,County Road
+632,FOURTH STREET,2,Paved,County Road
+633,FOURTH STREET,2,Paved,County Road
+634,4TH AVENUE,2,Paved,County Road
+635,THIRD AVENUE,2,Paved,County Road
+636,FIFTH STREET,2,Paved,County Road
+637,SISKIYOU AVENUE,2,Paved,County Road
+638,FIFTH STREET,2,Paved,County Road
+639,OLD STATE HWY,2,Paved,County Road
+640,OLD STATE HWY,2,Unpaved,County Road
+641,4TH AVENUE,2,Paved,County Road
+642,THIRD AVENUE,2,Paved,County Road
+643,SIXTH STREET,2,Paved,County Road
+644,SISKIYOU AVENUE,2,Paved,County Road
+645,SIXTH STREET,2,Paved,County Road
+646,I-5R,2,Paved,Interstate Ramp
+647,I-5,2,Paved,Interstate
+648,I-5,2,Paved,Interstate
+649,RALSTON ROAD,2,Unpaved,County Road
+650,HWY 97,3,Paved,State Highway
+651,SCOTT RIVER ROAD,2,Paved,County Road
+652,TENNANT ROAD,2,Paved,County Road
+653,LONG PRAIRIE ROAD,2,Unpaved,County Road
+654,CRAM GULCH ROAD,2,Paved,County Road
+655,SCOTT RIVER ROAD,2,Paved,County Road
+656,CANYON CREEK ROAD,2,Unpaved,County Road
+657,STERCHI LANE,2,Paved,County Road
+658,HWY 3,2,Paved,State Highway
+659,BIG SPRINGS ROAD,2,Paved,County Road
+660,MACHADO LANE,2,Paved,County Road
+661,CANYON CREEK ROAD,2,Paved,County Road
+662,CANYON CREEK ROAD,2,Unpaved,County Road
+663,SCOTT RIVER ROAD,2,Paved,County Road
+664,HWY 3,2,Paved,State Highway
+665,SOAP CREEK ROAD,2,Paved,County Road
+666,OLD STATE HWY,2,Unpaved,County Road
+667,OLD STATE HWY,2,Paved,County Road
+668,TENNANT ROAD,2,Paved,County Road
+669,PEACH ORCHARD ROAD,2,Paved,County Road
+670,RATTLESNAKE CREEK ROAD,2,Unpaved,County Road
+671,EAST MOFFETT CREEK ROAD,2,Paved,County Road
+672,BOULDER CREEK ROAD,2,Unpaved,County Road
+673,CANYON CREEK ROAD,2,Unpaved,County Road
+674,SCOTT RIVER ROAD,2,Paved,County Road
+675,SCOTT RIVER ROAD,2,Paved,County Road
+676,99-97 CUTOFF,2,Paved,County Road
+677,HWY 3,2,Paved,State Highway
+678,QUARTZ VALLEY ROAD,2,Paved,County Road
+679,QUARTZ VALLEY ROAD,2,Paved,County Road
+680,MACHADO LANE,2,Paved,County Road
+681,99-97 CUTOFF,2,Paved,County Road
+682,HWY 97,2,Paved,State Highway
+683,HWY 3,2,Paved,State Highway
+684,OLD 99 HIGHWAY,2,Paved,County Road
+685,WHITE ROCK ROAD,2,Paved,County Road
+686,PEACH ORCHARD ROAD,2,Paved,County Road
+687,OLD 99 HIGHWAY,2,Paved,County Road
+688,SISKIYOU AVENUE,2,Paved,County Road
+689,RATTLESNAKE CREEK ROAD,2,Paved,County Road
+690,SCOTT RIVER ROAD,2,Paved,County Road
+691,GUYS GULCH ROAD,2,Paved,County Road
+692,EAST MOFFETT CREEK ROAD,2,Paved,County Road
+693,INDIAN CREEK ROAD,2,Paved,County Road
+694,SCOTT RIVER ROAD,2,Paved,County Road
+695,HWY 97,4,Paved,State Highway
+696,SISKIYOU AVENUE,2,Paved,County Road
+697,I-5,2,Paved,Interstate
+698,SISKIYOU AVENUE,2,Paved,County Road
+699,I-5,2,Paved,Interstate
+700,SISKIYOU AVENUE,2,Paved,County Road
+701,WHITE ROCK ROAD,2,Paved,County Road
+702,QUARTZ VALLEY ROAD,2,Paved,County Road
+703,HWY 3,2,Paved,State Highway
+704,MCADAMS CREEK ROAD,2,Paved,County Road
+705,EAST MOFFETT CREEK ROAD,2,Unpaved,County Road
+706,EAST MOFFETT CREEK ROAD,2,Paved,County Road
+707,WEST MOFFETT CREEK ROAD,2,Paved,County Road
+708,BIG SPRINGS ROAD,2,Paved,County Road
+709,99-97 CUTOFF,2,Paved,County Road
+710,99-97 CUTOFF,2,Paved,County Road
+711,HWY 3,2,Paved,State Highway
+712,LONG PRAIRIE ROAD,2,Unpaved,County Road
+713,NELSON ROAD,2,Unpaved,County Road
+714,HWY 3,2,Paved,State Highway
+715,QUARTZ VALLEY ROAD,2,Paved,County Road
+716,OLD 99 HIGHWAY,2,Paved,County Road
+717,SISKIYOU AVENUE,2,Paved,County Road
+718,TRUITMAN LANE,2,Paved,County Road
+719,BIG MEADOWS ROAD,2,Paved,County Road
+720,HWY 97,3,Paved,State Highway
+721,MARBLE VIEW DR,2,Paved,City Street
+722,GUYS GULCH ROAD,2,Unpaved,County Road
+723,HWY 3,2,Paved,State Highway
+724,HAMILTON ST,2,Paved,City Street
+725,MARBLE VIEW DR,2,Paved,City Street
+726,HWY 3,2,Paved,State Highway
+727,DOUGLAS ST,2,Paved,City Street
+728,HWY 3,2,Paved,State Highway
+729,DON ST,2,Paved,City Street
+730,DON ST,2,Paved,City Street
+731,COWAN ST,2,Paved,City Street
+732,HWY 3,2,Paved,State Highway
+733,ALLISON WAY,2,Paved,City Street
+734,BUTTE ST,2,Paved,City Street
+735,OAK MILL DR,2,Paved,City Street
+736,BUTTE ST,2,Paved,City Street
+737,HWY 96,2,Paved,State Highway
+738,DIGGLES ST,2,Paved,City Street
+739,HWY 3,2,Paved,State Highway
+740,BUTTE ST,2,Paved,City Street
+741,EAST MOFFETT CREEK ROAD,2,Unpaved,County Road
+742,BOWER ST,2,Paved,City Street
+743,JANE DR,2,Paved,City Street
+744,HWY 3,2,Paved,State Highway
+745,OLD 99 HIGHWAY,2,Paved,County Road
+746,HIGH ST,2,Paved,City Street
+747,FERN WAY,2,Paved,City Street
+748,DIGGLES ST,2,Paved,City Street
+749,ALLEY,2,Unpaved,City Street
+750,ALLEY,2,Unpaved,City Street
+751,STERLING ST,2,Paved,City Street
+752,STERLING ST,2,Paved,City Street
+753,HIGH ST,2,Paved,City Street
+754,PINE ST,2,Paved,City Street
+755,STERLING ST,2,Paved,City Street
+756,HIGH ST,2,Paved,City Street
+757,STERLING ST,2,Paved,City Street
+758,HWY 3,2,Paved,State Highway
+759,DIGGLES ST,2,Paved,City Street
+760,EAST ST,2,Paved,City Street
+761,STERLING ST,2,Paved,City Street
+762,EAST MOFFETT CREEK ROAD,2,Paved,County Road
+763,ALLEY,2,Unpaved,City Street
+764,HWY 3,2,Paved,State Highway
+765,NEWTON ST,2,Paved,City Street
+766,GARLOCK ST,2,Unpaved,City Street
+767,NEWTON ST,2,Paved,City Street
+768,ALLEY,2,Paved,City Street
+769,NEWTON ST,2,Paved,City Street
+770,GARLOCK ST,2,Unpaved,City Street
+771,GARLOCK ST,2,Paved,City Street
+772,EAST ST,2,Paved,City Street
+773,HORN ST,2,Paved,City Street
+774,BRIDGE ST,2,Paved,City Street
+775,NEWTON ST,2,Paved,City Street
+776,HWY 3,2,Paved,State Highway
+777,NEWTON ST,2,Paved,City Street
+778,SCOTT RIVER ROAD,2,Paved,County Road
+779,MATHEWS ST,2,Paved,City Street
+780,GARLOCK ST,2,Paved,City Street
+781,HWY 3,2,Paved,State Highway
+782,GARLOCK ST,2,Paved,City Street
+783,QUARTZ VALLEY ROAD,2,Paved,County Road
+784,BRIDGE ST,2,Paved,City Street
+785,SCOTT RIVER RD,2,Paved,City Street
+786,TENNANT ROAD,2,Unpaved,County Road
+787,EAST ST,2,Paved,City Street
+788,QUARTZ VALLEY DRIVE,2,Paved,County Road
+789,MATHEWS ST,2,Paved,City Street
+790,DALE AVE,2,Paved,City Street
+791,DALE AVE,2,Paved,City Street
+792,SCOTT RIVER RD,2,Paved,City Street
+793,HWY 3,2,Paved,State Highway
+794,MATHEWS ST,2,Paved,City Street
+795,MITTAN WAY,2,Paved,City Street
+796,SCOTT RIVER RD,2,Paved,City Street
+797,OLD WESTSIDE ROAD,2,Paved,County Road
+798,SISKIYOU AVENUE,2,Paved,County Road
+799,OLD 99 HIGHWAY,2,Paved,County Road
+800,PUMPHOUSE ROAD,2,Paved,County Road
+801,PUMPHOUSE ROAD,2,Unpaved,County Road
+802,PUMPHOUSE ROAD,2,Unpaved,County Road
+803,HWY 3,2,Paved,State Highway
+804,SCOTT RIVER RD,2,Paved,City Street
+805,HWY 3,2,Paved,State Highway
+806,SISKIYOU AVENUE,2,Paved,County Road
+807,OLD 99 HIGHWAY,2,Paved,County Road
+808,LIGHTHILL ROAD,2,Unpaved,County Road
+809,OLD 99 HIGHWAY,2,Paved,County Road
+810,LIGHTHILL ROAD,2,Unpaved,County Road
+811,CRAM GULCH ROAD,2,Paved,County Road
+812,99-97 CUTOFF,2,Paved,County Road
+813,BIG SPRINGS ROAD,2,Paved,County Road
+814,EAST LOUIE ROAD,2,Unpaved,County Road
+815,EAST LOUIE ROAD,2,Unpaved,County Road
+816,EAST LOUIE ROAD,2,Unpaved,County Road
+817,EASTSIDE ROAD,2,Paved,County Road
+818,SCARFACE ROAD,2,Unpaved,County Road
+819,EAST LOUIE ROAD,2,Unpaved,County Road
+820,LIGHTHILL ROAD,2,Unpaved,County Road
+821,CEMETERY ROAD,2,Paved,County Road
+822,CEMETERY ROAD,2,Paved,County Road
+823,EASTSIDE ROAD,2,Paved,County Road
+824,DANGEL LANE,2,Unpaved,County Road
+825,CEMETERY ROAD,2,Paved,County Road
+826,EAST LOUIE ROAD,2,Paved,County Road
+827,HWY 3,2,Paved,State Highway
+828,LIGHTHILL ROAD,2,Paved,County Road
+829,LONG PRAIRIE ROAD,2,Unpaved,County Road
+830,MINER ST,2,Paved,City Street
+831,I-5,2,Paved,Interstate
+832,HWY 161,2,Paved,State Highway
+833,S DEWITT WY,2,Paved,City Street
+834,HORNBROOK ROAD,2,Paved,County Road
+835,HWY 161,2,Paved,State Highway
+836,HWY 161,2,Paved,State Highway
+837,I-5,2,Paved,Interstate
+838,HWY 161,2,Paved,State Highway
+839,I-5R,2,Paved,Interstate Ramp
+840,HWY 161,2,Paved,State Highway
+841,HWY 97,2,Paved,State Highway
+842,SHEEPY CREEK ROAD,2,Unpaved,County Road
+843,HWY 161,2,Paved,State Highway
+844,DORRIS BROWNELL ROAD,2,Paved,County Road
+845,DORRIS BROWNELL ROAD,2,Paved,County Road
+846,SAMS NECK ROAD,2,Unpaved,County Road
+847,INDIAN POINT ROAD,2,Unpaved,County Road
+848,I-5R,2,Paved,Interstate Ramp
+849,I-5,2,Paved,Interstate
+850,INDIAN POINT ROAD,2,Paved,County Road
+851,OKLAHOMA SCHOOL ROAD,2,Unpaved,County Road
+852,SAMS NECK ROAD,2,Paved,County Road
+853,I-5,2,Paved,Interstate
+854,MAPLE STREET,2,Unpaved,County Road
+855,MAPLE STREET,2,Unpaved,County Road
+856,FOURTH STREET,2,Unpaved,County Road
+857,FIRST AVENUE,2,Paved,County Road
+858,MAPLE STREET,2,Unpaved,County Road
+859,MAPLE STREET,2,Paved,County Road
+860,THIRD STREET,2,Paved,County Road
+861,FIRST AVENUE,2,Paved,County Road
+862,TARPON DRIVE,2,Paved,County Road
+863,SECOND STREET,2,Paved,County Road
+864,MAPLE STREET,2,Paved,County Road
+865,HORNBROOK ROAD,2,Paved,County Road
+866,SECOND STREET,2,Paved,County Road
+867,FIRST AVENUE,2,Paved,County Road
+868,HORNBROOK ROAD,2,Paved,County Road
+869,SAMS NECK ROAD,2,Unpaved,County Road
+870,SECOND STREET,2,Paved,County Road
+871,FRONT STREET,2,Paved,County Road
+872,MAPLE STREET,2,Paved,County Road
+873,FIRST AVENUE,2,Paved,County Road
+874,FIRST AVENUE,2,Paved,County Road
+875,SAMS NECK ROAD,2,Paved,County Road
+876,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+877,FIRST STREET,2,Paved,County Road
+878,FRONT STREET,2,Paved,County Road
+879,FRONT STREET,2,Paved,County Road
+880,CAVIN STREET,2,Unpaved,County Road
+881,FIRST AVENUE,2,Paved,County Road
+882,HENLEY HORNBROOK ROAD,2,Paved,County Road
+883,HORNBROOK ROAD,2,Paved,County Road
+884,LANE ST,2,Paved,City Street
+885,HENLEY HORNBROOK ROAD,2,Paved,County Road
+886,OREGON ROAD,2,Paved,County Road
+887,FRONT STREET,2,Paved,County Road
+888,FIRST AVENUE,2,Paved,County Road
+889,FRONT STREET,2,Unpaved,County Road
+890,SAMS NECK ROAD,2,Unpaved,County Road
+891,MEISS LAKE SAMS NECK ROAD,2,Paved,County Road
+892,FIRST AVENUE,2,Paved,County Road
+893,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+894,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+895,FIRST AVENUE,2,Unpaved,County Road
+896,I-5,2,Paved,Interstate
+897,I-5,2,Paved,Interstate
+898,OREGON ROAD,2,Paved,County Road
+899,PILOT ROAD,2,Paved,County Road
+900,OREGON ROAD,2,Paved,County Road
+901,MAIN STREET,2,Paved,County Road
+902,MAIN STREET,2,Paved,County Road
+903,MAIN STREET,2,Paved,County Road
+904,OREGON ROAD,2,Paved,County Road
+905,COPCO ROAD,2,Paved,County Road
+906,DRY CREEK ROAD,2,Unpaved,County Road
+907,COPCO ROAD,2,Paved,County Road
+908,COPCO ROAD,2,Paved,County Road
+909,I-5,2,Paved,Interstate
+910,COPCO ROAD,2,Paved,County Road
+911,RANCHERIA CREEK ROAD,2,Paved,County Road
+912,I-5,2,Paved,Interstate
+913,RANCHERIA CREEK ROAD,2,Paved,County Road
+914,RANCHERIA CREEK ROAD,2,Paved,County Road
+915,I-5R,2,Paved,Interstate Ramp
+916,RANCHERIA CREEK ROAD,2,Paved,County Road
+917,RANCHERIA CREEK ROAD,2,Paved,County Road
+918,RANCHERIA CREEK ROAD,2,Paved,County Road
+919,INDIAN POINT ROAD,2,Unpaved,County Road
+920,SALMON STREET,2,Paved,County Road
+921,COPCO ROAD,2,Paved,County Road
+922,COPCO ROAD,2,Paved,County Road
+923,STEELHEAD COURT,2,Paved,County Road
+924,COPCO PLACE,2,Paved,County Road
+925,COPCO ROAD,2,Paved,County Road
+926,COPCO ROAD,2,Paved,County Road
+927,SALMON STREET,2,Paved,County Road
+928,HORNBROOK ROAD,2,Paved,County Road
+929,MAIN STREET,2,Paved,County Road
+930,SALMON COURT,2,Paved,County Road
+931,SALMON PLACE,2,Paved,County Road
+932,COPCO COURT,2,Paved,County Road
+933,COPCO ROAD,2,Paved,County Road
+934,HORNBROOK ROAD,2,Paved,County Road
+935,ROY JONES ROAD,2,Paved,County Road
+936,AGER ROAD,2,Paved,County Road
+937,KLAMATHON  ROAD,2,Paved,County Road
+938,COPCO ROAD,2,Paved,County Road
+939,DRY CREEK ROAD,2,Unpaved,County Road
+940,COPCO ROAD,2,Paved,County Road
+941,COPCO ROAD,2,Paved,County Road
+942,SALMON STREET,2,Paved,County Road
+943,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+944,COPCO ROAD,2,Paved,County Road
+945,WHITEFISH PLACE,2,Paved,County Road
+946,I-5R,2,Paved,Interstate Ramp
+947,I-5,2,Paved,Interstate
+948,I-5,2,Paved,Interstate
+949,KLAMATHON  ROAD,2,Unpaved,County Road
+950,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+951,FIR DRIVE,2,Paved,County Road
+952,AGER ROAD,2,Paved,County Road
+953,PINE COURT,2,Paved,County Road
+954,AGER ROAD,2,Paved,County Road
+955,KLAMATHON  ROAD,2,Paved,County Road
+956,RIVER COURT,2,Paved,County Road
+957,KLAMATHON  ROAD,2,Paved,County Road
+958,BEAVER COURT,2,Unpaved,County Road
+959,RAINBOW WAY,2,Paved,County Road
+960,AGER ROAD,2,Paved,County Road
+961,SCHOOLHOUSE ROAD,2,Paved,County Road
+962,MEISS LAKE SAMS NECK ROAD,2,Paved,County Road
+963,HWY 97,2,Paved,State Highway
+964,MEISS LAKE SAMS NECK ROAD,2,Paved,County Road
+965,RIVER STREET,2,Paved,County Road
+966,DENNIS PLACE,2,Paved,County Road
+967,FIR STREET,2,Unpaved,County Road
+968,FIR STREET,2,Unpaved,County Road
+969,FIR STREET,2,Paved,County Road
+970,FIR DRIVE,2,Paved,County Road
+971,ROOSTER PLACE,2,Unpaved,County Road
+972,ROOSTER DRIVE,2,Unpaved,County Road
+973,DENNIS PLACE,2,Paved,County Road
+974,INDIAN CREEK ROAD,2,Paved,County Road
+975,BIRCH STREET,2,Paved,County Road
+976,BIRCH PLACE,2,Unpaved,County Road
+977,FIR STREET,2,Paved,County Road
+978,FIR COURT,2,Paved,County Road
+979,DENNIS LANE,2,Paved,County Road
+980,CREEK STREET,2,Unpaved,County Road
+981,RAINBOW STREET,2,Paved,County Road
+982,AGER ROAD,2,Paved,County Road
+983,REDWOOD STREET,2,Paved,County Road
+984,AGER ROAD,2,Paved,County Road
+985,BIRCH STREET,2,Paved,County Road
+986,BIRCH COURT,2,Unpaved,County Road
+987,CREEK STREET,2,Unpaved,County Road
+988,DENNIS LANE,2,Paved,County Road
+989,BIRCH STREET,2,Paved,County Road
+990,DENNIS PLACE,2,Paved,County Road
+991,DENNIS PLACE,2,Unpaved,County Road
+992,SCHOOLHOUSE ROAD,2,Unpaved,County Road
+993,FIR STREET,2,Paved,County Road
+994,AGER ROAD,2,Paved,County Road
+995,SUGARPINE STREET,2,Paved,County Road
+996,SCHOOLHOUSE ROAD,2,Paved,County Road
+997,DENNIS LANE,2,Paved,County Road
+998,AGER ROAD,2,Paved,County Road
+999,SOUTH FORK ROAD,2,Paved,County Road
+1000,SUGARPINE PLACE,2,Unpaved,County Road
+1001,KLAMATHON  ROAD,2,Unpaved,County Road
+1002,BUTTE VALLEY AIRPORT ROAD,2,Paved,County Road
+1003,BULLPINE PLACE,2,Paved,County Road
+1004,AGER ROAD,2,Paved,County Road
+1005,HORNBROOK ROAD,2,Paved,County Road
+1006,DENNIS PLACE,2,Unpaved,County Road
+1007,HWY 97,2,Paved,State Highway
+1008,BUTTE VALLEY AIRPORT ROAD,2,Unpaved,County Road
+1009,SUGARPINE STREET,2,Paved,County Road
+1010,SUGARPINE STREET,2,Unpaved,County Road
+1011,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+1012,SOUTH FORK ROAD,2,Unpaved,County Road
+1013,PONDEROSA STREET,2,Paved,County Road
+1014,PONDEROSA COURT,2,Paved,County Road
+1015,SUGARPINE STREET,2,Unpaved,County Road
+1016,AGER ROAD,2,Paved,County Road
+1017,KLAMATHON  ROAD,2,Paved,County Road
+1018,WOLF COURT,2,Unpaved,County Road
+1019,WHITEPINE PLACE,2,Unpaved,County Road
+1020,WHITEPINE STREET,2,Paved,County Road
+1021,WHITEPINE STREET,2,Paved,County Road
+1022,WHITEPINE COURT,2,Unpaved,County Road
+1023,PONDEROSA STREET,2,Paved,County Road
+1024,BEAR COURT,2,Paved,County Road
+1025,PONDEROSA PLACE,2,Paved,County Road
+1026,PONDEROSA PLACE,2,Unpaved,County Road
+1027,PONDEROSA STREET,2,Paved,County Road
+1028,AGER ROAD,2,Paved,County Road
+1029,PONDEROSA STREET,2,Paved,County Road
+1030,PONDEROSA PLACE,2,Unpaved,County Road
+1031,AGER ROAD,2,Paved,County Road
+1032,ELK COURT,2,Paved,County Road
+1033,OWENS WAY,2,Paved,County Road
+1034,DEER COURT,2,Unpaved,County Road
+1035,PONDEROSA STREET,2,Paved,County Road
+1036,OWENS WAY,2,Paved,County Road
+1037,PONDEROSA STREET,2,Paved,County Road
+1038,SQUIRREL PLACE,2,Paved,County Road
+1039,MINK COURT,2,Paved,County Road
+1040,AGER ROAD,2,Paved,County Road
+1041,MILTON WAY,2,Paved,County Road
+1042,OWENS WAY,2,Paved,County Road
+1043,SQUIRREL COURT,2,Paved,County Road
+1044,AGER ROAD,2,Paved,County Road
+1045,OWENS WAY,2,Paved,County Road
+1046,AGER BESWICK ROAD,2,Paved,County Road
+1047,OWENS WAY,2,Paved,County Road
+1048,CHIPMUNK COURT,2,Paved,County Road
+1049,OWENS WAY,2,Paved,County Road
+1050,OWENS WAY,2,Paved,County Road
+1051,PONDEROSA STREET,2,Paved,County Road
+1052,WHITEPINE STREET,2,Paved,County Road
+1053,OWENS WAY,2,Paved,County Road
+1054,RACOON DRIVE,2,Paved,County Road
+1055,RACOON DRIVE,2,Paved,County Road
+1056,RABBIT PLACE,2,Unpaved,County Road
+1057,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+1058,SABLE COURT,2,Paved,County Road
+1059,AGER ROAD,2,Paved,County Road
+1060,RACOON  COURT,2,Paved,County Road
+1061,CHIPMUNK PLACE,2,Paved,County Road
+1062,CHINCHILLA COURT,2,Unpaved,County Road
+1063,AGER ROAD,2,Paved,County Road
+1064,BEAVER CREEK ROAD,2,Paved,County Road
+1065,SHADY DELL ROAD,2,Paved,County Road
+1066,SHADY DELL ROAD,2,Unpaved,County Road
+1067,SHADY DELL ROAD,2,Paved,County Road
+1068,EAST BUTTE VALLEY ROAD,2,Paved,County Road
+1069,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+1070,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+1071,KLAMATHON  ROAD,2,Unpaved,County Road
+1072,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+1073,AGER ROAD,2,Paved,County Road
+1074,AGER BESWICK ROAD,2,Paved,County Road
+1075,HWY 97,2,Paved,State Highway
+1076,SHADY DELL ROAD,2,Paved,County Road
+1077,SHADY DELL ROAD,2,Paved,County Road
+1078,SHADY DELL ROAD,2,Paved,County Road
+1079,I-5,2,Paved,Interstate
+1080,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1081,I-5,2,Paved,Interstate
+1082,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1083,MACDOEL DORRIS ROAD,2,Unpaved,County Road
+1084,I-5R,2,Paved,Interstate Ramp
+1085,I-5,2,Paved,Interstate
+1086,I-5R,2,Paved,Interstate Ramp
+1087,I-5,2,Paved,Interstate
+1088,MACDOEL DORRIS ROAD,2,Paved,County Road
+1089,I-5R,2,Paved,Interstate Ramp
+1090,I-5R,2,Paved,Interstate Ramp
+1091,HWY 96,2,Paved,State Highway
+1092,DORRIS BROWNELL ROAD,2,Unpaved,County Road
+1093,KLAMATHON  ROAD,2,Unpaved,County Road
+1094,HWY 96,2,Paved,State Highway
+1095,KLAMATHON  ROAD,2,Paved,County Road
+1096,KLAMATHON  ROAD,2,Paved,County Road
+1097,I-5,2,Paved,Interstate
+1098,KLAMATHON  ROAD,2,Paved,County Road
+1099,I-5,2,Paved,Interstate
+1100,KLAMATHON  ROAD,2,Paved,County Road
+1101,KLAMATHON  ROAD,2,Paved,County Road
+1102,KLAMATHON  ROAD,2,Paved,County Road
+1103,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1104,SEIAD CREEK ROAD,2,Paved,County Road
+1105,HWY 96,2,Paved,State Highway
+1106,INDIAN CREEK ROAD,2,Paved,County Road
+1107,I-5R,2,Paved,Interstate Ramp
+1108,I-5,2,Paved,Interstate
+1109,SEIAD CREEK ROAD,2,Paved,County Road
+1110,SEIAD OAKS ROAD,2,Paved,County Road
+1111,I-5,2,Paved,Interstate
+1112,I-5R,2,Paved,Interstate Ramp
+1113,PINE PLACE ROAD,2,Paved,County Road
+1114,INDIAN CREEK ROAD,2,Paved,County Road
+1115,I-5R,2,Paved,Interstate Ramp
+1116,I-5,2,Paved,Interstate
+1117,I-5R,2,Paved,Interstate Ramp
+1118,DORRIS TECHNOR ROADS CONNECTION,2,Unpaved,County Road
+1119,DORRIS TECHNOR ROADS CONNECTION,2,Paved,County Road
+1120,DORRIS TECHNOR ROADS CONNECTION,2,Paved,County Road
+1121,SHEEP MOUNTAIN ROAD,2,Paved,County Road
+1122,MACDOEL DORRIS ROAD,2,Unpaved,County Road
+1123,SHEEP MOUNTAIN ROAD,2,Unpaved,County Road
+1124,I-5R,2,Paved,Interstate Ramp
+1125,SHEEP MOUNTAIN ROAD,2,Unpaved,County Road
+1126,AGER ROAD,2,Paved,County Road
+1127,SEIAD CREEK ROAD,2,Paved,County Road
+1128,YORK ROAD,2,Paved,County Road
+1129,YORK ROAD,2,Unpaved,County Road
+1130,YORK ROAD,2,Paved,County Road
+1131,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1132,KLAMATH RIVER ROAD,2,Paved,County Road
+1133,HORSE CREEK ROAD,2,Unpaved,County Road
+1134,YORK ROAD,2,Unpaved,County Road
+1135,HORSE CREEK ROAD,2,Unpaved,County Road
+1136,HORSE CREEK ROAD,2,Paved,County Road
+1137,OLD SEIAD CREEK ROAD,2,Paved,County Road
+1138,HWY 96,2,Paved,State Highway
+1139,HWY 96,2,Paved,State Highway
+1140,YORK ROAD,2,Paved,County Road
+1141,YORK ROAD,2,Unpaved,County Road
+1142,AIRPORT ROAD,2,Paved,County Road
+1143,HWY 97,2,Paved,State Highway
+1144,SHEEP MOUNTAIN ROAD,2,Paved,County Road
+1145,YORK ROAD,2,Paved,County Road
+1146,HWY 96,2,Paved,State Highway
+1147,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1148,KLAMATH RIVER ROAD,2,Paved,County Road
+1149,LADD ROAD,2,Paved,County Road
+1150,WALKER CREEK ROAD,2,Paved,County Road
+1151,HWY 96,2,Paved,State Highway
+1152,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1153,WALKER BRIDGE CONNECTION,2,Paved,County Road
+1154,WALKER ROAD,2,Unpaved,County Road
+1155,MEISS LAKE ROAD,2,Paved,County Road
+1156,WALKER ROAD,2,Paved,County Road
+1157,KLAMATH RIVER ROAD,2,Paved,County Road
+1158,MEISS LAKE ROAD,2,Unpaved,County Road
+1159,HWY 96,2,Paved,State Highway
+1160,YREKA WALKER ROAD,2,Paved,County Road
+1161,WALKER ROAD,2,Paved,County Road
+1162,MEISS LAKE ROAD,2,Unpaved,County Road
+1163,INDIAN CREEK ROAD,2,Paved,County Road
+1164,WALKER CREEK ROAD,2,Paved,County Road
+1165,HORSE CREEK ROAD,2,Paved,County Road
+1166,MEISS LAKE ROAD,2,Paved,County Road
+1167,WALKER CREEK ROAD,2,Unpaved,County Road
+1168,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1169,HWY 96,2,Paved,State Highway
+1170,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1171,WALKER ROAD,2,Unpaved,County Road
+1172,WALKER ROAD,2,Unpaved,County Road
+1173,HILL ROAD,2,Paved,County Road
+1174,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1175,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1176,YORK ROAD,2,Unpaved,County Road
+1177,GRIDER ROAD,2,Paved,County Road
+1178,DOOLITTLE CREEK ROAD,2,Paved,County Road
+1179,YORK ROAD,2,Paved,County Road
+1180,HILL ROAD,2,Paved,County Road
+1181,KLAMATH RIVER ROAD,2,Paved,County Road
+1182,YORK ROAD,2,Unpaved,County Road
+1183,YORK ROAD,2,Paved,County Road
+1184,YORK ROAD,2,Unpaved,County Road
+1185,HWY 97,2,Paved,State Highway
+1186,COLIMA STREET,2,Paved,County Road
+1187,MT PITT ROAD,2,Paved,County Road
+1188,YORK ROAD,2,Paved,County Road
+1189,YORK ROAD,2,Unpaved,County Road
+1190,YORK ROAD,2,Unpaved,County Road
+1191,YORK ROAD,2,Unpaved,County Road
+1192,YORK ROAD,2,Unpaved,County Road
+1193,YORK ROAD,2,Paved,County Road
+1194,HWY 96,2,Paved,State Highway
+1195,HWY 97,2,Paved,State Highway
+1196,RAILROAD AVENUE,2,Unpaved,County Road
+1197,VERA CRUZ STREET,2,Paved,County Road
+1198,OLD STATE HWY,2,Paved,County Road
+1199,VERA CRUZ STREET,2,Paved,County Road
+1200,VERA CRUZ STREET,2,Paved,County Road
+1201,HWY 97,2,Paved,State Highway
+1202,VERA CRUZ STREET,2,Paved,County Road
+1203,MT PITT ROAD,2,Paved,County Road
+1204,RAILROAD AVENUE,2,Paved,County Road
+1205,DORRIS TECHNOR ROADS CONNECTION,2,Unpaved,County Road
+1206,VERA CRUZ STREET,2,Paved,County Road
+1207,TACOMA STREET,2,Paved,County Road
+1208,HWY 96,2,Paved,State Highway
+1209,RAILROAD AVENUE,2,Paved,County Road
+1210,CORTEZ STREET,2,Paved,County Road
+1211,OLD STATE HWY,2,Paved,County Road
+1212,CORTEZ STREET,2,Paved,County Road
+1213,HWY 97,2,Paved,State Highway
+1214,MT PITT ROAD,2,Paved,County Road
+1215,CORTEZ STREET,2,Paved,County Road
+1216,CORTEZ STREET,2,Paved,County Road
+1217,TACOMA STREET,2,Paved,County Road
+1218,CORTEZ STREET,2,Paved,County Road
+1219,HORSE CREEK ROAD,2,Paved,County Road
+1220,HWY 96,2,Paved,State Highway
+1221,HWY 96,2,Paved,State Highway
+1222,TACOMA STREET,2,Paved,County Road
+1223,RAILROAD AVENUE,2,Paved,County Road
+1224,JUNIPER KNOLL ROAD,2,Paved,County Road
+1225,OLD STATE HWY,2,Paved,County Road
+1226,JUNIPER KNOLL ROAD,2,Paved,County Road
+1227,JUNIPER KNOLL ROAD,2,Paved,County Road
+1228,HWY 97,2,Paved,State Highway
+1229,LADD ROAD,2,Unpaved,County Road
+1230,KLAMATH RIVER ROAD,2,Unpaved,County Road
+1231,RAILROAD AVENUE,2,Paved,County Road
+1232,ALVARADO STREET,2,Paved,County Road
+1233,OLD STATE HWY,2,Paved,County Road
+1234,MT PITT ROAD,2,Paved,County Road
+1235,ALVARADO STREET,2,Paved,County Road
+1236,JUNIPER KNOLL ROAD,2,Paved,County Road
+1237,JUNIPER KNOLL ROAD,2,Paved,County Road
+1238,JUNIPER KNOLL ROAD,2,Unpaved,County Road
+1239,WALKER ROAD,2,Paved,County Road
+1240,OLD STATE HWY,2,Paved,County Road
+1241,LA PAZ STREET,2,Paved,County Road
+1242,MT PITT ROAD,2,Paved,County Road
+1243,MULLOY ROAD,2,Unpaved,County Road
+1244,LAKEVIEW CEMETERY ROAD,2,Paved,County Road
+1245,LADD ROAD,2,Unpaved,County Road
+1246,OLD STATE HWY,2,Paved,County Road
+1247,POTOSI STREET,2,Paved,County Road
+1248,MT PITT ROAD,2,Paved,County Road
+1249,MT PITT ROAD,2,Paved,County Road
+1250,RAILROAD AVENUE,2,Paved,County Road
+1251,DURANGO STREET,2,Paved,County Road
+1252,OLD STATE HWY,2,Paved,County Road
+1253,YORK ROAD,2,Paved,County Road
+1254,OLD STATE HWY,2,Paved,County Road
+1255,HWY 97,2,Paved,State Highway
+1256,YREKA WALKER ROAD,2,Unpaved,County Road
+1257,MEISS LAKE ROAD,2,Unpaved,County Road
+1258,MEISS LAKE ROAD,2,Unpaved,County Road
+1259,MEISS LAKE ROAD,2,Paved,County Road
+1260,MEISS LAKE ROAD,2,Paved,County Road
+1261,MEISS LAKE ROAD,2,Paved,County Road
+1262,MEISS LAKE ROAD,2,Paved,County Road
+1263,OLD STATE HWY,2,Paved,County Road
+1264,EAST MEISS LAKE ROAD,2,Paved,County Road
+1265,MULLOY ROAD,2,Paved,County Road
+1266,HWY 97,2,Paved,State Highway
+1267,MEISS LAKE ROAD,2,Paved,County Road
+1268,HWY 263,2,Paved,State Highway
+1269,HUDSON ROAD,2,Paved,County Road
+1270,SHOEMAKER ROAD,2,Paved,County Road
+1271,MULLOY ROAD,2,Unpaved,County Road
+1272,AIRPORT ROAD,2,Unpaved,County Road
+1273,HWY 97,2,Paved,State Highway
+1274,SAGEBRUSH LANE,2,Unpaved,County Road
+1275,WILLOW CREEK ROAD,2,Unpaved,County Road
+1276,YREKA WALKER ROAD,2,Unpaved,County Road
+1277,OLD STATE HWY,2,Paved,County Road
+1278,EVERGREEN LANE,2,Paved,County Road
+1279,INDIAN MEADOWS DRIVE,2,Paved,County Road
+1280,DORRIS TECHNOR ROADS CONNECTION,2,Unpaved,County Road
+1281,DORRIS TECHNOR ROADS CONNECTION,2,Paved,County Road
+1282,INDIAN MEADOWS DRIVE,2,Paved,County Road
+1283,BARKHOUSE CREEK ROAD,2,Unpaved,County Road
+1284,BARKHOUSE CREEK ROAD,2,Unpaved,County Road
+1285,SAGEBRUSH LANE,2,Unpaved,County Road
+1286,SAGEBRUSH LANE,2,Paved,County Road
+1287,YREKA WALKER ROAD,2,Unpaved,County Road
+1288,AIRPORT ROAD,2,Unpaved,County Road
+1289,AIRPORT ROAD,2,Paved,County Road
+1290,WILLOW CREEK ROAD,2,Paved,County Road
+1291,SYLVA ROAD,2,Paved,County Road
+1292,LIVE OAK DRIVE,2,Paved,County Road
+1293,AGER ROAD,2,Paved,County Road
+1294,LIVE OAK DRIVE,2,Paved,County Road
+1295,SAGEBRUSH LANE,2,Unpaved,County Road
+1296,WEST CRISS ROAD,2,Unpaved,County Road
+1297,COOK CAMPBELL ROAD,2,Unpaved,County Road
+1298,CHINA GRADE ROAD,2,Paved,County Road
+1299,SHOEMAKER ROAD,2,Unpaved,County Road
+1300,COUNTY ROAD,2,Unpaved,County Road
+1301,WEST CRISS ROAD,2,Paved,County Road
+1302,WEST CRISS ROAD,2,Unpaved,County Road
+1303,SHOEMAKER ROAD,2,Paved,County Road
+1304,WEST CRISS ROAD,2,Paved,County Road
+1305,EAST CRISS ROAD,2,Paved,County Road
+1306,SAGEBRUSH LANE,2,Paved,County Road
+1307,MYERS ROAD,2,Unpaved,County Road
+1308,WEST CRISS ROAD,2,Paved,County Road
+1309,EAST CRISS ROAD,2,Paved,County Road
+1310,OLD STATE HWY,2,Paved,County Road
+1311,SPRING STREET,2,Paved,County Road
+1312,EAST CRISS ROAD,2,Unpaved,County Road
+1313,WEST CRISS ROAD,2,Paved,County Road
+1314,EAST CRISS ROAD,2,Paved,County Road
+1315,HWY 97,2,Paved,State Highway
+1316,WEST CRISS ROAD,2,Paved,County Road
+1317,EAST CRISS ROAD,2,Unpaved,County Road
+1318,DAVIS ROAD,2,Paved,County Road
+1319,SAGEBRUSH LANE,2,Paved,County Road
+1320,HWY 96,2,Paved,State Highway
+1321,DAVIS ROAD,2,Paved,County Road
+1322,CRUMPTON STREET,2,Paved,County Road
+1323,DOOLITTLE STREET,2,Paved,County Road
+1324,CHINA GRADE ROAD,2,Unpaved,County Road
+1325,AGER ROAD,2,Paved,County Road
+1326,HWY 96,2,Paved,State Highway
+1327,DOOLITTLE STREET,2,Paved,County Road
+1328,HEAD STREET,2,Paved,County Road
+1329,HUMBUG CREEK ROAD,2,Unpaved,County Road
+1330,COOLEY ROAD,2,Paved,County Road
+1331,WILLOW CREEK ROAD,2,Paved,County Road
+1332,ATTEBERY STREET,2,Paved,County Road
+1333,ATTEBERY STREET,2,Paved,County Road
+1334,WILLOW CREEK ROAD,2,Paved,County Road
+1335,HWY 96,2,Paved,State Highway
+1336,OLD SHASTA RIVER ROAD,2,Unpaved,County Road
+1337,HWY 139,4,Paved,State Highway
+1338,HWY 161,2,Paved,State Highway
+1339,HWY 139,5,Paved,State Highway
+1340,HWY 161,2,Paved,State Highway
+1341,STATE LINE ROAD,2,Paved,County Road
+1342,STATE LINE ROAD,2,Paved,County Road
+1343,STATE LINE ROAD,2,Paved,County Road
+1344,STATE LINE ROAD,2,Paved,County Road
+1345,HWY 139,5,Paved,State Highway
+1346,STATE LINE ROAD,2,Paved,County Road
+1347,STATE LINE ROAD,2,Paved,County Road
+1348,STATE LINE ROAD,2,Paved,County Road
+1349,I-5,2,Paved,Interstate
+1350,HWY 139,5,Paved,State Highway
+1351,I-5,2,Paved,Interstate
+1352,HWY 139,4,Paved,State Highway
+1353,HILT ROAD,2,Paved,County Road
+1354,JEFFERSON ROAD,2,Paved,County Road
+1355,HILT ROAD,2,Paved,County Road
+1356,I-5R,2,Paved,Interstate Ramp
+1357,I-5R,2,Paved,Interstate Ramp
+1358,JEFFERSON ROAD,2,Paved,County Road
+1359,HILT ROAD,2,Paved,County Road
+1360,I-5,2,Paved,Interstate
+1361,HILT ROAD,2,Paved,County Road
+1362,I-5,2,Paved,Interstate
+1363,HILT ROAD,2,Paved,County Road
+1364,I-5R,2,Paved,Interstate Ramp
+1365,HILT ROAD,2,Paved,County Road
+1366,HILT ROAD,2,Paved,County Road
+1367,LOWER KLAMATH LAKE ROAD,2,Paved,County Road
+1368,HWY 161,2,Paved,State Highway
+1369,HWY 161,2,Paved,State Highway
+1370,JEFFERSON ROAD,2,Unpaved,County Road
+1371,OWENS ROAD,2,Unpaved,County Road
+1372,AKINS ROAD,2,Paved,County Road
+1373,ZLABEK ROAD,2,Unpaved,County Road
+1374,ZLABEK ROAD,2,Paved,County Road
+1375,ZLABEK ROAD,2,Unpaved,County Road
+1376,WALSH ROAD,2,Paved,County Road
+1377,ZLABEK ROAD,2,Paved,County Road
+1378,I-5R,2,Paved,Interstate Ramp
+1379,I-5,2,Paved,Interstate
+1380,I-5,2,Paved,Interstate
+1381,HWY 97,2,Paved,State Highway
+1382,OWENS ROAD,2,Paved,County Road
+1383,I-5,2,Paved,Interstate
+1384,DRAIN 10 ROAD,2,Paved,County Road
+1385,ZLABEK ROAD,2,Unpaved,County Road
+1386,ZLABEK ROAD,2,Paved,County Road
+1387,ZLABEK ROAD,2,Unpaved,County Road
+1388,ZLABEK ROAD,2,Paved,County Road
+1389,AGER ROAD,2,Paved,County Road
+1390,ZLABEK ROAD,2,Unpaved,County Road
+1391,ZLABEK ROAD,2,Unpaved,County Road
+1392,ZLABEK ROAD,2,Paved,County Road
+1393,ZLABEK ROAD,2,Unpaved,County Road
+1394,ZLABEK ROAD,2,Paved,County Road
+1395,AKINS ROAD,2,Paved,County Road
+1396,ZLABEK ROAD,2,Unpaved,County Road
+1397,OKEEFFE ROAD,2,Paved,County Road
+1398,HASKINS ROAD,2,Paved,County Road
+1399,OKEEFFE ROAD,2,Paved,County Road
+1400,AGER BESWICK ROAD,2,Unpaved,County Road
+1401,HILT HUNGRY ROAD,2,Paved,County Road
+1402,HILT HUNGRY ROAD,2,Paved,County Road
+1403,WALSH ROAD,2,Paved,County Road
+1404,HWY 139,2,Paved,State Highway
+1405,HILT HUNGRY ROAD,2,Unpaved,County Road
+1406,FALL CREEK ROAD,2,Unpaved,County Road
+1407,COPCO ROAD,2,Unpaved,County Road
+1408,COPCO ROAD,2,Unpaved,County Road
+1409,PICARD ROAD,2,Unpaved,County Road
+1410,COPCO ROAD,2,Unpaved,County Road
+1411,COPCO ROAD,2,Paved,County Road
+1412,COPCO ROAD,2,Paved,County Road
+1413,COPCO ROAD,2,Unpaved,County Road
+1414,LOG HOUSE ROAD,2,Unpaved,County Road
+1415,LOG HOUSE ROAD,2,Paved,County Road
+1416,INDIAN TOM LAKE ROAD,2,Unpaved,County Road
+1417,HWY 97,2,Paved,State Highway
+1418,DRAIN 10 ROAD,2,Paved,County Road
+1419,FIOCK ROAD,2,Unpaved,County Road
+1420,TSCHIRKY ROAD,2,Paved,County Road
+1421,TSCHIRKY ROAD,2,Paved,County Road
+1422,AGER ROAD,2,Paved,County Road
+1423,TSCHIRKY ROAD,2,Paved,County Road
+1424,TSCHIRKY ROAD,2,Paved,County Road
+1425,AKINS ROAD,2,Paved,County Road
+1426,TSCHIRKY ROAD,2,Paved,County Road
+1427,HWY 139,2,Paved,State Highway
+1428,HWY 139,2,Paved,State Highway
+1429,KANDRA ROAD,2,Paved,County Road
+1430,HASKINS ROAD,2,Paved,County Road
+1431,KANDRA ROAD,2,Paved,County Road
+1432,KANDRA ROAD,2,Paved,County Road
+1433,KANDRA ROAD,2,Paved,County Road
+1434,HILL ROAD,2,Paved,County Road
+1435,BENTLEY ROAD,2,Paved,County Road
+1436,JANICE  ROAD,2,Paved,County Road
+1437,SHEEPY CREEK ROAD,2,Unpaved,County Road
+1438,PICARD ROAD,2,Unpaved,County Road
+1439,HILT HUNGRY ROAD,2,Paved,County Road
+1440,HWY 139,2,Paved,State Highway
+1441,PICARD ROAD,2,Paved,County Road
+1442,PATRICIA AVENUE,2,Paved,County Road
+1443,COPCO ROAD,2,Paved,County Road
+1444,DRAIN 10 ROAD,2,Paved,County Road
+1445,JACQUELINE  AVENUE,2,Unpaved,County Road
+1446,SHEEPY CREEK ROAD,2,Paved,County Road
+1447,SHEEPY CREEK ROAD,2,Unpaved,County Road
+1448,HILL ROAD,2,Paved,County Road
+1449,COUNTY ROAD,2,Unpaved,County Road
+1450,COPCO ROAD,2,Unpaved,County Road
+1451,PICARD ROAD,2,Unpaved,County Road
+1452,NORTH ST,2,Unpaved,City Street
+1453,NORTH ST,2,Unpaved,City Street
+1454,NORTH ST,2,Unpaved,City Street
+1455,NORTH ST,2,Paved,City Street
+1456,NORTH ST,2,Paved,City Street
+1457,NORTH ST,2,Unpaved,City Street
+1458,NORTH ST,2,Paved,City Street
+1459,NORTH ST,2,Paved,City Street
+1460,BUTTE STREET,2,Paved,County Road
+1461,JACQUELINE  AVENUE,2,Paved,County Road
+1462,PATRICIA AVENUE,2,Paved,County Road
+1463,LOG HOUSE ROAD,2,Unpaved,County Road
+1464,HWY 139,2,Paved,State Highway
+1465,HILT HUNGRY ROAD,2,Unpaved,County Road
+1466,N RAILROAD AV,2,Paved,City Street
+1467,SLY ST,2,Paved,City Street
+1468,SAGE ST,2,Paved,City Street
+1469,JUNIPER ST,2,Paved,City Street
+1470,SLY ST,2,Paved,City Street
+1471,MAIN ST,2,Paved,City Street
+1472,PINE ST,2,Paved,City Street
+1473,SLY ST,2,Paved,City Street
+1474,SLY ST,2,Paved,City Street
+1475,SLY ST,2,Paved,City Street
+1476,CALIFORNIA ST,2,Paved,City Street
+1477,OREGON ST,2,Paved,City Street
+1478,SLY ST,2,Paved,City Street
+1479,BUTTE STREET,2,Paved,County Road
+1480,SLY ST,2,Paved,City Street
+1481,SAGE ST,2,Paved,City Street
+1482,PICARD ROAD,2,Paved,County Road
+1483,LOG HOUSE ROAD,2,Paved,County Road
+1484,AKINS ROAD,2,Paved,County Road
+1485,HWY 139,3,Paved,State Highway
+1486,HWY 139,3,Paved,State Highway
+1487,SHEEPY CREEK ROAD,2,Unpaved,County Road
+1488,SAGE ST,2,Unpaved,City Street
+1489,N RAILROAD AV,2,Unpaved,City Street
+1490,HAZEN ST,2,Paved,City Street
+1491,JUNIPER ST,2,Paved,City Street
+1492,HAZEN ST,2,Paved,City Street
+1493,PINE ST,2,Paved,City Street
+1494,HAZEN ST,2,Paved,City Street
+1495,MAIN ST,2,Paved,City Street
+1496,HAZEN ST,2,Paved,City Street
+1497,PATRICIA AVENUE,2,Paved,County Road
+1498,CALIFORNIA ST,2,Paved,City Street
+1499,HAZEN ST,2,Paved,City Street
+1500,BUTTE STREET,2,Paved,County Road
+1501,OREGON ST,2,Paved,City Street
+1502,HAZEN ST,2,Paved,City Street
+1503,HAZEN ST,2,Paved,City Street
+1504,AGER BESWICK ROAD,2,Paved,County Road
+1505,N RAILROAD AV,2,Unpaved,City Street
+1506,SAGE ST,2,Unpaved,City Street
+1507,HWY 139,3,Paved,State Highway
+1508,HWY 97,2,Paved,State Highway
+1509,N RAILROAD AV,2,Unpaved,City Street
+1510,HWY 97,2,Paved,State Highway
+1511,JUNIPER ST,2,Paved,City Street
+1512,HWY 97,2,Paved,State Highway
+1513,HWY 97,2,Paved,State Highway
+1514,PINE ST,2,Paved,City Street
+1515,HWY 97,2,Paved,State Highway
+1516,FIRST ST,2,Paved,City Street
+1517,MAIN ST,2,Paved,City Street
+1518,CALIFORNIA ST,2,Paved,City Street
+1519,FIRST ST,2,Paved,City Street
+1520,OREGON ST,2,Paved,City Street
+1521,FIRST ST,2,Paved,City Street
+1522,FIRST ST,2,Paved,City Street
+1523,BUTTE STREET,2,Paved,County Road
+1524,BUTTE STREET,2,Paved,County Road
+1525,PICARD ROAD,2,Paved,County Road
+1526,X,2,Paved,City Street
+1527,PICARD ROAD,2,Paved,County Road
+1528,PICARD ROAD,2,Paved,County Road
+1529,HWY 97,2,Paved,State Highway
+1530,MAIN ST,2,Paved,City Street
+1531,LOG HOUSE ROAD,2,Unpaved,County Road
+1532,PICARD ROAD,2,Paved,County Road
+1533,MATHEWS ROAD,2,Paved,County Road
+1534,PICARD ROAD,2,Paved,County Road
+1535,PICARD ROAD,2,Unpaved,County Road
+1536,PICARD ROAD,2,Unpaved,County Road
+1537,CEMETERY ROAD,2,Paved,County Road
+1538,PICARD ROAD,2,Paved,County Road
+1539,TEAL ROAD,2,Paved,County Road
+1540,COPCO ROAD,2,Paved,County Road
+1541,SHEEPY CREEK ROAD,2,Paved,County Road
+1542,SECOND ST,2,Unpaved,City Street
+1543,PINE ST,2,Paved,City Street
+1544,HWY 97,2,Paved,State Highway
+1545,SECOND ST,2,Paved,City Street
+1546,CALIFORNIA ST,2,Paved,City Street
+1547,SECOND ST,2,Paved,City Street
+1548,SECOND ST,2,Paved,City Street
+1549,OREGON ST,2,Paved,City Street
+1550,BUTTE ST,2,Paved,City Street
+1551,SECOND ST,2,Paved,City Street
+1552,PORTLAND ST,2,Paved,City Street
+1553,SECOND ST,2,Paved,City Street
+1554,SECOND ST,2,Paved,City Street
+1555,STATE ST,2,Paved,City Street
+1556,SECOND ST,2,Paved,City Street
+1557,TRIANGLE ST,2,Paved,City Street
+1558,QUAIL LANE,2,Paved,County Road
+1559,TEAL ROAD,2,Paved,County Road
+1560,PINE ST,2,Paved,City Street
+1561,VALERIE ROAD,2,Unpaved,County Road
+1562,COPCO ROAD,2,Paved,County Road
+1563,BETTY LANE,2,Unpaved,County Road
+1564,MALLAROAD RD,2,Paved,County Road
+1565,COPCO ROAD,2,Paved,County Road
+1566,QUAIL LANE,2,Paved,County Road
+1567,COPCO ROAD,2,Paved,County Road
+1568,S RAILROAD AV,2,Unpaved,City Street
+1569,PINE ST,2,Unpaved,City Street
+1570,SHEEPY ISLAND ROAD,2,Unpaved,County Road
+1571,PICARD ROAD,2,Paved,County Road
+1572,S RAILROAD AV,2,Unpaved,City Street
+1573,HWY 97,2,Paved,State Highway
+1574,THIRD ST,2,Paved,City Street
+1575,THIRD ST,2,Paved,City Street
+1576,CALIFORNIA ST,2,Paved,City Street
+1577,BUTTE ST,2,Paved,City Street
+1578,OREGON ST,2,Paved,City Street
+1579,THIRD ST,2,Paved,City Street
+1580,THIRD ST,2,Paved,City Street
+1581,SEATTLE ST,2,Paved,City Street
+1582,THIRD ST,2,Paved,City Street
+1583,PORTLAND ST,2,Paved,City Street
+1584,THIRD ST,2,Paved,City Street
+1585,TRIANGLE ST,2,Paved,City Street
+1586,STATE ST,2,Paved,City Street
+1587,THIRD ST,2,Paved,City Street
+1588,THIRD ST,2,Paved,City Street
+1589,TRIANGLE ST,2,Paved,City Street
+1590,VALERIE ROAD,2,Unpaved,County Road
+1591,AGER BESWICK ROAD,2,Paved,County Road
+1592,COPCO ROAD,2,Paved,County Road
+1593,TRIANGLE ST,2,Paved,City Street
+1594,AGER BESWICK ROAD,2,Paved,County Road
+1595,SHEEPY ISLAND ROAD,2,Paved,County Road
+1596,X,2,Unpaved,City Street
+1597,4TH ST,2,Paved,City Street
+1598,4TH ST,2,Paved,City Street
+1599,OREGON ST,2,Paved,City Street
+1600,S RAILROAD AV,2,Unpaved,City Street
+1601,4TH ST,2,Paved,City Street
+1602,HWY 97,2,Paved,State Highway
+1603,BUTTE ST,2,Paved,City Street
+1604,FOURTH ST,2,Paved,City Street
+1605,4TH ST,2,Paved,City Street
+1606,SEATTLE ST,2,Paved,City Street
+1607,CALIFORNIA ST,2,Paved,City Street
+1608,HWY 97,2,Paved,State Highway
+1609,FOURTH ST,2,Paved,City Street
+1610,HWY 97,2,Paved,State Highway
+1611,X,2,Unpaved,City Street
+1612,X,2,Paved,City Street
+1613,HWY 97,2,Paved,State Highway
+1614,BUTTE ST,2,Paved,City Street
+1615,BUTTE ST,2,Paved,City Street
+1616,I-5,3,Paved,Interstate
+1617,AGER BESWICK ROAD,2,Unpaved,County Road
+1618,HIGHWAY ST,2,Paved,City Street
+1619,HIGHWAY ST,2,Paved,City Street
+1620,HIGHWAY ST,2,Unpaved,City Street
+1621,AGER BESWICK ROAD,2,Unpaved,County Road
+1622,SEATTLE ST,2,Paved,City Street
+1623,I-5,2,Paved,Interstate
+1624,FIRST ST,2,Paved,City Street
+1625,TRIANGLE ST,2,Unpaved,City Street
+1626,PINE ST,2,Unpaved,City Street
+1627,HWY 97,2,Paved,State Highway
+1628,S RAILROAD AV,2,Paved,City Street
+1629,OREGON ST,2,Paved,City Street
+1630,FIFTH ST,2,Paved,City Street
+1631,FIFTH ST,2,Paved,City Street
+1632,CALIFORNIA ST,2,Paved,City Street
+1633,FIFTH ST,2,Paved,City Street
+1634,OREGON ST,2,Paved,City Street
+1635,HWY 139,2,Paved,State Highway
+1636,OREGON ST,2,Unpaved,City Street
+1637,BAILEY HILL ROAD,2,Unpaved,County Road
+1638,BAILEY HILL ROAD,2,Paved,County Road
+1639,MODOC AVENUE,2,Paved,City Street
+1640,BAILEY HILL ROAD,2,Paved,County Road
+1641,BAILEY HILL ROAD,2,Paved,County Road
+1642,X,2,Paved,City Street
+1643,EAST AV,2,Unpaved,City Street
+1644,SIXTH ST,2,Unpaved,City Street
+1645,SECOND ST,2,Paved,City Street
+1646,MODOC AVENUE,2,Paved,City Street
+1647,A ST,2,Paved,City Street
+1648,A ST,2,Paved,City Street
+1649,FIRST ST,2,Paved,City Street
+1650,A ST,2,Paved,City Street
+1651,SISKIYOU ST,2,Paved,City Street
+1652,A ST,2,Paved,City Street
+1653,HAVLINA ROAD,2,Paved,County Road
+1654,HWY 139,3,Paved,State Highway
+1655,I-5,2,Paved,Interstate
+1656,SHEEPY ISLAND ROAD,2,Unpaved,County Road
+1657,MAIN ST,2,Paved,City Street
+1658,MODOC AVENUE,2,Paved,City Street
+1659,MAIN ST,2,Paved,City Street
+1660,B ST,2,Paved,City Street
+1661,SECOND ST,2,Paved,City Street
+1662,B ST,2,Paved,City Street
+1663,FIRST ST,2,Paved,City Street
+1664,B ST,2,Paved,City Street
+1665,SISKIYOU ST,2,Paved,City Street
+1666,B ST,2,Paved,City Street
+1667,SHEEPY ISLAND ROAD,2,Paved,County Road
+1668,HWY 139,3,Paved,State Highway
+1669,MODOC AVENUE,2,Paved,City Street
+1670,HWY 97,2,Paved,State Highway
+1671,MODOC AVENUE,2,Paved,City Street
+1672,C ST,2,Paved,City Street
+1673,FOURTH ST,2,Paved,City Street
+1674,MAIN ST,2,Paved,City Street
+1675,C ST,2,Paved,City Street
+1676,C ST,2,Paved,City Street
+1677,SECOND ST,2,Paved,City Street
+1678,C ST,2,Paved,City Street
+1679,FIRST ST,2,Paved,City Street
+1680,C ST,2,Paved,City Street
+1681,MERIDIAN ROAD,2,Paved,County Road
+1682,BAILEY HILL ROAD,2,Paved,County Road
+1683,LEMOS ROAD,2,Paved,County Road
+1684,MODOC AVENUE,2,Paved,City Street
+1685,LEMOS ROAD,2,Paved,County Road
+1686,LEMOS ROAD,2,Paved,County Road
+1687,I-5,2,Paved,Interstate
+1688,LEMOS ROAD,2,Paved,County Road
+1689,I-5,2,Paved,Interstate
+1690,HWY 139,2,Paved,State Highway
+1691,MODOC AVENUE,2,Paved,City Street
+1692,FIFTH ST,2,Paved,City Street
+1693,D ST,2,Paved,City Street
+1694,D ST,2,Paved,City Street
+1695,FOURTH ST,2,Paved,City Street
+1696,MAIN ST,2,Paved,City Street
+1697,D ST,2,Paved,City Street
+1698,SECOND ST,2,Paved,City Street
+1699,D ST,2,Paved,City Street
+1700,LEMOS ROAD,2,Paved,County Road
+1701,I-5R,2,Paved,Interstate Ramp
+1702,LEMOS ROAD,2,Paved,County Road
+1703,LEMOS ROAD,2,Unpaved,County Road
+1704,LEMOS ROAD,2,Paved,County Road
+1705,HWY 139,3,Paved,State Highway
+1706,ROSE ROAD,2,Paved,County Road
+1707,OSBORNE ROAD,2,Paved,County Road
+1708,SCOTT ROAD,2,Paved,County Road
+1709,OSBORNE ROAD,2,Paved,County Road
+1710,E ST,2,Paved,City Street
+1711,MODOC AVENUE,2,Paved,City Street
+1712,EAST WEST ROAD,2,Paved,County Road
+1713,E ST,2,Paved,City Street
+1714,FIFTH ST,2,Paved,City Street
+1715,FOURTH ST,2,Paved,City Street
+1716,E ST,2,Paved,City Street
+1717,MAIN ST,2,Paved,City Street
+1718,E ST,2,Paved,City Street
+1719,E ST,2,Paved,City Street
+1720,SECOND ST,2,Paved,City Street
+1721,E ST,2,Paved,City Street
+1722,E ST,2,Paved,City Street
+1723,E ST,2,Paved,City Street
+1724,EAST WEST ROAD,2,Paved,County Road
+1725,YOST ROAD,2,Paved,County Road
+1726,EAST WEST ROAD,2,Paved,County Road
+1727,GOLDEN ROAD,2,Paved,County Road
+1728,COPCO ROAD,2,Paved,County Road
+1729,EAST WEST ROAD,2,Paved,County Road
+1730,EAST WEST ROAD,2,Paved,County Road
+1731,FENSLER ROAD,2,Paved,County Road
+1732,EAST WEST ROAD,2,Paved,County Road
+1733,HASKINS ROAD,2,Paved,County Road
+1734,EAST WEST ROAD,2,Paved,County Road
+1735,GANGER ROAD,2,Paved,County Road
+1736,HILL ROAD,2,Paved,County Road
+1737,EAST WEST ROAD,2,Paved,County Road
+1738,GANGER ROAD,2,Paved,County Road
+1739,SHEEPY CREEK ROAD,2,Unpaved,County Road
+1740,BERGMAN ROAD,2,Paved,County Road
+1741,MODOC AVENUE,2,Paved,City Street
+1742,FIFTH ST,2,Paved,City Street
+1743,F ST,2,Paved,City Street
+1744,FOURTH ST,2,Paved,City Street
+1745,F ST,2,Paved,City Street
+1746,F ST,2,Paved,City Street
+1747,MAIN ST,2,Paved,City Street
+1748,F ST,2,Paved,City Street
+1749,SECOND ST,2,Paved,City Street
+1750,F ST,2,Paved,City Street
+1751,FIRST ST,2,Paved,City Street
+1752,F ST,2,Paved,City Street
+1753,PARK ST,2,Paved,City Street
+1754,F ST,2,Paved,City Street
+1755,F ST,2,Unpaved,City Street
+1756,HWY 139,3,Paved,State Highway
+1757,MERIDIAN ROAD,2,Unpaved,County Road
+1758,I-5R,2,Paved,Interstate Ramp
+1759,I-5,2,Paved,Interstate
+1760,SHEEPY CREEK ROAD,2,Paved,County Road
+1761,SHEEPY ISLAND ROAD,2,Unpaved,County Road
+1762,DORRIS BROWNELL ROAD,2,Paved,County Road
+1763,HWY 97,2,Paved,State Highway
+1764,MODOC AVENUE,2,Paved,City Street
+1765,G ST,2,Paved,City Street
+1766,FIFTH ST,2,Paved,City Street
+1767,RICHAROADSON RD,2,Unpaved,County Road
+1768,G ST,2,Paved,City Street
+1769,FOURTH ST,2,Paved,City Street
+1770,G ST,2,Paved,City Street
+1771,MAIN ST,2,Paved,City Street
+1772,G ST,2,Paved,City Street
+1773,G ST,2,Paved,City Street
+1774,SECOND ST,2,Paved,City Street
+1775,G ST,2,Paved,City Street
+1776,FIRST ST,2,Paved,City Street
+1777,PARK ST,2,Paved,City Street
+1778,G ST,2,Paved,City Street
+1779,MAIN ST,2,Paved,City Street
+1780,RICHAROADSON RD,2,Unpaved,County Road
+1781,RICHAROADSON RD,2,Unpaved,County Road
+1782,PICARD SAMS NECK ROAD,2,Unpaved,County Road
+1783,RICHAROADSON RD,2,Unpaved,County Road
+1784,RICHAROADSON RD,2,Unpaved,County Road
+1785,YOST ROAD,2,Paved,County Road
+1786,HWY 139,2,Paved,State Highway
+1787,I-5,2,Paved,Interstate
+1788,MERIDIAN ROAD,2,Paved,County Road
+1789,DEAN CALLAS WAY,2,Paved,City Street
+1790,GANGER ROAD,2,Unpaved,County Road
+1791,RAY OEHLERICH WAY,2,Paved,City Street
+1792,DEAN CALLAS WAY,2,Paved,City Street
+1793,RIDGEVIEW ST,2,Paved,City Street
+1794,RIDGEVIEW ST,2,Paved,City Street
+1795,RIDGEVIEW ST,2,Paved,City Street
+1796,RIDGEVIEW ST,2,Paved,City Street
+1797,MAIN STREET,2,Paved,County Road
+1798,RIDGEVIEW ST,2,Paved,City Street
+1799,BERGMAN ROAD,2,Unpaved,County Road
+1800,TEAL CT,2,Paved,City Street
+1801,MALLARD CT,2,Paved,City Street
+1802,PINTAIL CT,2,Paved,City Street
+1803,HONKER CT,2,Paved,City Street
+1804,YOST ROAD,2,Unpaved,County Road
+1805,BERGMAN ROAD,2,Paved,County Road
+1806,YOST ROAD,2,Paved,County Road
+1807,HOLZHAUSER ROAD,2,Unpaved,County Road
+1808,BAILEY HILL ROAD,2,Paved,County Road
+1809,HWY 139,2,Paved,State Highway
+1810,WRIGHT ROAD,2,Paved,County Road
+1811,MAIN STREET,2,Paved,County Road
+1812,WRIGHT ROAD,2,Paved,County Road
+1813,YOST ROAD,2,Unpaved,County Road
+1814,WRIGHT ROAD,2,Paved,County Road
+1815,OLD COTTONWOOD CREEK ROAD,2,Paved,County Road
+1816,OLD COTTONWOOD CREEK ROAD,2,Unpaved,County Road
+1817,OLD COTTONWOOD CREEK ROAD,2,Unpaved,County Road
+1818,COPCO ROAD,2,Paved,County Road
+1819,BRUSH CREEK ROAD,2,Unpaved,County Road
+1820,DORRIS BROWNELL ROAD,2,Paved,County Road
+1821,LOWER KLAMATH LAKE ROAD,2,Unpaved,County Road
+1822,I-5,2,Paved,Interstate
+1823,I-5,2,Paved,Interstate
+1824,AGER BESWICK ROAD,2,Paved,County Road
+1825,AGER BESWICK ROAD,2,Paved,County Road
+1826,FOSTER ROAD,2,Unpaved,County Road
+1827,HILL ROAD,2,Paved,County Road
+1828,HWY 3,2,Paved,State Highway
+1829,HWY 3,2,Paved,State Highway
+1830,MINER ST,2,Paved,City Street
+1831,I-5R,2,Paved,Interstate Ramp
+1832,LANE ST,2,Paved,City Street
+1833,SPIERS ST,2,Paved,City Street
+1834,OREGON ST,2,Paved,City Street
+1835,CENTER ST,2,Paved,City Street
+1836,GREEN HERON DR,2,Paved,City Street
+1837,MINER ST,2,Paved,City Street
+1838,GOLD ST,2,Paved,City Street
+1839,LANE ST,2,Paved,City Street
+1840,FOURTH ST,2,Paved,City Street
+1841,CENTER ST,2,Paved,City Street
+1842,E DEL MONTE,2,Paved,City Street
+1843,9TH ST,2,Paved,City Street
+1844,TECHNOR ROBISON ROAD,2,Paved,County Road
+1845,SPIERS ST,2,Paved,City Street
+1846,FOOTHILL DR,2,Paved,City Street
+1847,I-5R,2,Paved,Interstate Ramp
+1848,BROADWAY ST,2,Paved,City Street
+1849,CENTER ST,2,Paved,City Street
+1850,I-5R,2,Paved,Interstate Ramp
+1851,FOOTHILL DR,2,Paved,City Street
+1852,15TH ST,2,Paved,City Street
+1853,FOOTHILL DR,2,Paved,City Street
+1854,I-5,2,Paved,Interstate
+1855,FOOTHILL DR,2,Paved,City Street
+1856,S WEST ST,2,Paved,City Street
+1857,I-5,2,Paved,Interstate
+1858,FOOTHILL DR,2,Paved,City Street
+1859,FOOTHILL DR,2,Paved,City Street
+1860,FOOTHILL DR,2,Paved,City Street
+1861,FOOTHILL DR,2,Paved,City Street
+1862,I-5,2,Paved,Interstate
+1863,HWY 3,2,Paved,State Highway
+1864,CENTER ST,2,Paved,City Street
+1865,I-5,2,Paved,Interstate
+1866,FOOTHILL DR,2,Paved,City Street
+1867,FOOTHILL DR,2,Paved,City Street
+1868,FOOTHILL DR,2,Paved,City Street
+1869,S WEST ST,2,Paved,City Street
+1870,BUTTE ST,2,Paved,City Street
+1871,OREGON ST,2,Paved,City Street
+1872,LANE ST,2,Paved,City Street
+1873,FOOTHILL DR,2,Paved,City Street
+1874,MINER ST,2,Paved,City Street
+1875,MINER ST,2,Paved,City Street
+1876,E CHURCHILL ST,2,Paved,City Street
+1877,BUTTE ST,2,Paved,City Street
+1878,I-5R,2,Paved,Interstate Ramp
+1879,FOURTH ST,2,Paved,City Street
+1880,LANE ST,2,Paved,City Street
+1881,HWY 3,2,Paved,State Highway
+1882,SPIERS ST,2,Paved,City Street
+1883,GOLD ST,2,Paved,City Street
+1884,14TH ST,2,Paved,City Street
+1885,PRATHER ST,2,Paved,City Street
+1886,FOOTHILL DR,2,Paved,City Street
+1887,BROADWAY ST,2,Paved,City Street
+1888,LANE ST,2,Paved,City Street
+1889,16TH ST,2,Paved,City Street
+1890,WEBB ST,2,Paved,City Street
+1891,HWY 3,2,Paved,State Highway
+1892,LANE ST,2,Paved,City Street
+1893,SHASTA AV,2,Paved,City Street
+1894,CENTER ST,2,Paved,City Street
+1895,11TH ST,2,Paved,City Street
+1896,SPIERS ST,2,Paved,City Street
+1897,OREGON ST,2,Paved,City Street
+1898,BUTTE ST,2,Paved,City Street
+1899,CENTER ST,2,Paved,City Street
+1900,13TH ST,2,Paved,City Street
+1901,PRATHER ST,2,Paved,City Street
+1902,S WEST ST,2,Paved,City Street
+1903,SOUTH ST,2,Paved,City Street
+1904,15TH ST,2,Paved,City Street
+1905,WEBB ST,2,Paved,City Street
+1906,FOURTH ST,2,Paved,City Street
+1907,BUTTE ST,2,Paved,City Street
+1908,SOUTH ST,2,Paved,City Street
+1909,EAST ST,2,Paved,City Street
+1910,BROADWAY ST,2,Paved,City Street
+1911,BUTTE ST,2,Paved,City Street
+1912,GOLD ST,2,Paved,City Street
+1913,SOUTH ST,2,Paved,City Street
+1914,EXECUTIVE CT,2,Paved,City Street
+1915,CHANDLER WY,2,Paved,City Street
+1916,SOUTH ST,2,Paved,City Street
+1917,HWY 3,2,Paved,State Highway
+1918,BUTTE ST,2,Paved,City Street
+1919,SHASTA AV,2,Paved,City Street
+1920,JACKSON ST,2,Paved,City Street
+1921,12TH ST,2,Paved,City Street
+1922,PRATHER ST,2,Paved,City Street
+1923,JACKSON ST,2,Paved,City Street
+1924,SHASTA AV,2,Paved,City Street
+1925,14TH ST,2,Paved,City Street
+1926,WEBB ST,2,Paved,City Street
+1927,14TH ST,2,Paved,City Street
+1928,S WEST ST,2,Paved,City Street
+1929,JACKSON ST,2,Paved,City Street
+1930,OREGON ST,2,Paved,City Street
+1931,SOUTH ST,2,Paved,City Street
+1932,11TH ST,2,Paved,City Street
+1933,PRATHER ST,2,Paved,City Street
+1934,9TH ST,2,Paved,City Street
+1935,HWY 3,2,Paved,State Highway
+1936,GOLD ST,2,Paved,City Street
+1937,JACKSON ST,2,Paved,City Street
+1938,FOURTH ST,2,Paved,City Street
+1939,SOUTH ST,2,Paved,City Street
+1940,13TH ST,2,Paved,City Street
+1941,WEBB ST,2,Paved,City Street
+1942,15TH ST,2,Paved,City Street
+1943,BROADWAY ST,2,Paved,City Street
+1944,SOUTH ST,2,Paved,City Street
+1945,I-5R,2,Paved,Interstate Ramp
+1946,I-5,2,Paved,Interstate
+1947,RAYMOND ST,2,Paved,City Street
+1948,RAYMOND ST,2,Paved,City Street
+1949,HWY 3,2,Paved,State Highway
+1950,SOUTH ST,2,Paved,City Street
+1951,GOLD ST,2,Paved,City Street
+1952,E SPIERS ST,2,Paved,City Street
+1953,GREENHORN ROAD,2,Paved,County Road
+1954,PHILLIPE LN,2,Paved,City Street
+1955,12TH ST,2,Paved,City Street
+1956,WEBB ST,2,Paved,City Street
+1957,OREGON ST,2,Paved,City Street
+1958,JACKSON ST,2,Paved,City Street
+1959,14TH ST,2,Paved,City Street
+1960,KING ST,2,Paved,City Street
+1961,6TH ST,2,Paved,City Street
+1962,FOURTH ST,2,Paved,City Street
+1963,JACKSON ST,2,Paved,City Street
+1964,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+1965,FRENCH ST,2,Paved,City Street
+1966,SHASTA AV,2,Paved,City Street
+1967,I-5,2,Paved,Interstate
+1968,I-5R,2,Paved,Interstate Ramp
+1969,BROADWAY ST,2,Paved,City Street
+1970,JACKSON ST,2,Paved,City Street
+1971,X,2,Paved,City Street
+1972,RIDGEVIEW DR,2,Paved,City Street
+1973,11TH ST,2,Paved,City Street
+1974,WEBB ST,2,Paved,City Street
+1975,9TH ST,2,Paved,City Street
+1976,E PRATHER ST,2,Paved,City Street
+1977,13TH ST,2,Paved,City Street
+1978,KING ST,2,Paved,City Street
+1979,15TH ST,2,Paved,City Street
+1980,15TH ST,2,Paved,City Street
+1981,SCOBIE ST,2,Paved,City Street
+1982,6TH ST,2,Paved,City Street
+1983,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+1984,FOURTH ST,2,Paved,City Street
+1985,8TH ST,2,Paved,City Street
+1986,E PRATHER ST,2,Paved,City Street
+1987,12TH ST,2,Paved,City Street
+1988,KING ST,2,Paved,City Street
+1989,BROADWAY ST,2,Paved,City Street
+1990,ANNIE ST,2,Paved,City Street
+1991,SUNSET ST,2,Paved,City Street
+1992,14TH ST,2,Paved,City Street
+1993,SCOBIE ST,2,Paved,City Street
+1994,BROADWAY ST,2,Paved,City Street
+1995,DILLON WY,2,Paved,City Street
+1996,BROADWAY ST,2,Paved,City Street
+1997,DILLON WY,2,Paved,City Street
+1998,14TH ST,2,Paved,City Street
+1999,FRENCH ST,2,Paved,City Street
+2000,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+2001,SNOWDEN HOVEY GULCH ROAD,2,Unpaved,County Road
+2002,E SPIERS ST,2,Paved,City Street
+2003,EAST ST,2,Unpaved,City Street
+2004,E SPIERS ST,2,Paved,City Street
+2005,FOOTHILL DR,2,Paved,City Street
+2006,SUNSET ST,2,Paved,City Street
+2007,TOWNSEND ROAD,2,Unpaved,County Road
+2008,E PRATHER ST,2,Paved,City Street
+2009,HWY 3,2,Paved,State Highway
+2010,BROADWAY ST,2,Paved,City Street
+2011,OREGON ST,2,Paved,City Street
+2012,HWY 3,2,Paved,State Highway
+2013,KING ST,2,Paved,City Street
+2014,9TH ST,2,Paved,City Street
+2015,HWY 3,2,Paved,State Highway
+2016,13TH ST,2,Paved,City Street
+2017,SCOBIE ST,2,Paved,City Street
+2018,FOURTH ST,2,Paved,City Street
+2019,YREKA ST,2,Paved,City Street
+2020,ANNIE ST,2,Paved,City Street
+2021,STATE ST,2,Paved,City Street
+2022,CARLTON ROAD,2,Unpaved,County Road
+2023,X,2,Paved,City Street
+2024,OLD MONTAGUE ROAD,2,Paved,County Road
+2025,15TH ST,2,Paved,City Street
+2026,6TH ST,2,Paved,City Street
+2027,E PRATHER ST,2,Paved,City Street
+2028,BROADWAY ST,2,Paved,City Street
+2029,YREKA ST,2,Paved,City Street
+2030,HWY 3,2,Paved,State Highway
+2031,YREKA ST,2,Paved,City Street
+2032,FOOTHILL DR,2,Paved,City Street
+2033,STATE ST,2,Paved,City Street
+2034,8TH ST,2,Paved,City Street
+2035,HWY 3,2,Paved,State Highway
+2036,OLD MONTAGUE ROAD,2,Paved,County Road
+2037,PRATHER ST,2,Paved,City Street
+2038,12TH ST,2,Paved,City Street
+2039,SCOBIE ST,2,Paved,City Street
+2040,10TH ST,2,Paved,City Street
+2041,KING ST,2,Paved,City Street
+2042,BREWER LN,2,Paved,City Street
+2043,OREGON ST,2,Paved,City Street
+2044,14TH ST,2,Paved,City Street
+2045,JULIAN ST,2,Paved,City Street
+2046,5TH ST,2,Paved,City Street
+2047,PRATHER ST,2,Paved,City Street
+2048,HWY 3,2,Paved,State Highway
+2049,BROADWAY ST,2,Paved,City Street
+2050,7TH ST,2,Paved,City Street
+2051,HWY 3,2,Paved,State Highway
+2052,HWY 3,2,Paved,State Highway
+2053,SCOBIE ST,2,Paved,City Street
+2054,9TH ST,2,Paved,City Street
+2055,KING ST,2,Paved,City Street
+2056,LICHENS ROAD,2,Paved,County Road
+2057,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+2058,13TH ST,2,Paved,City Street
+2059,JULIAN ST,2,Paved,City Street
+2060,EVERGREEN ST,2,Paved,City Street
+2061,5TH ST,2,Paved,City Street
+2062,6TH ST,2,Paved,City Street
+2063,HWY 3,2,Paved,State Highway
+2064,8TH ST,2,Paved,City Street
+2065,KING ST,2,Paved,City Street
+2066,BULLE ST,2,Paved,City Street
+2067,14TH ST,2,Paved,City Street
+2068,OREGON ST,2,Paved,City Street
+2069,MIDDLE ST,2,Paved,City Street
+2070,10TH ST,2,Paved,City Street
+2071,SCOBIE ST,2,Paved,City Street
+2072,FOURTH ST,2,Paved,City Street
+2073,MIDDLE ST,2,Paved,City Street
+2074,5TH ST,2,Paved,City Street
+2075,HWY 3,2,Paved,State Highway
+2076,COLLIER LANE,2,Paved,County Road
+2077,7TH ST,2,Paved,City Street
+2078,KING ST,2,Paved,City Street
+2079,HWY 3,2,Paved,State Highway
+2080,HWY 3,2,Paved,State Highway
+2081,OLD MONTAGUE ROAD,2,Paved,County Road
+2082,HWY 3,2,Paved,State Highway
+2083,9TH ST,2,Paved,City Street
+2084,SCOBIE ST,2,Paved,City Street
+2085,MONTAGUE AIRPORT ROAD,2,Paved,County Road
+2086,HWY 3,2,Paved,State Highway
+2087,EVERGREEN ST,2,Paved,City Street
+2088,SHASTA AV,2,Paved,City Street
+2089,13TH ST,2,Paved,City Street
+2090,HWY 3,2,Paved,State Highway
+2091,HWY 3,2,Paved,State Highway
+2092,HWY 3,2,Paved,State Highway
+2093,EVERGREEN ST,2,Paved,City Street
+2094,6TH ST,2,Paved,City Street
+2095,KING ST,2,Paved,City Street
+2096,8TH ST,2,Paved,City Street
+2097,SCOBIE ST,2,Paved,City Street
+2098,SCOBIE ST,2,Paved,City Street
+2099,10TH ST,2,Paved,City Street
+2100,EVERGREEN ST,2,Paved,City Street
+2101,EVERGREEN ST,2,Paved,City Street
+2102,MEADOWLARK LN,2,Paved,City Street
+2103,TURRE LN,2,Paved,City Street
+2104,OREGON ST,2,Paved,City Street
+2105,TURRE LN,2,Paved,City Street
+2106,FOURTH ST,2,Paved,City Street
+2107,TURRE LN,2,Paved,City Street
+2108,TURRE LN,2,Paved,City Street
+2109,LAWRENCE LN,2,Paved,City Street
+2110,HWY 3,2,Paved,State Highway
+2111,TURRE LN,2,Paved,City Street
+2112,TURRE LN,2,Paved,City Street
+2113,MEADOWLARK LN,2,Paved,City Street
+2114,TURRE LN,2,Paved,City Street
+2115,SUNRISE WY,2,Paved,City Street
+2116,SUNRISE CT,2,Paved,City Street
+2117,OREGON ST,2,Paved,City Street
+2118,FOURTH ST,2,Paved,City Street
+2119,ROSE LN,2,Paved,City Street
+2120,HWY 3,2,Paved,State Highway
+2121,ROSE LN,2,Paved,City Street
+2122,LAWRENCE LN,2,Paved,City Street
+2123,MEADOWLARK LN,2,Paved,City Street
+2124,EMERSON DR,2,Paved,City Street
+2125,DAWN DR,2,Paved,City Street
+2126,FOURTH ST,2,Paved,City Street
+2127,9TH ST,2,Paved,City Street
+2128,OREGON ST,2,Paved,City Street
+2129,DAWN DR,2,Paved,City Street
+2130,SUNRISE WY,2,Paved,City Street
+2131,SHADOW LN,2,Paved,City Street
+2132,LAWRENCE LN,2,Paved,City Street
+2133,MEADOWLARK LN,2,Paved,City Street
+2134,LAWRENCE LN,2,Paved,City Street
+2135,LEWIS ST,2,Paved,City Street
+2136,SUNRISE WY,2,Paved,City Street
+2137,LAWRENCE LN,2,Paved,City Street
+2138,MEADOWLARK LN,2,Paved,City Street
+2139,OREGON ST,2,Paved,City Street
+2140,LAWRENCE LN,2,Paved,City Street
+2141,OREGON ST,2,Paved,City Street
+2142,LAWRENCE LN,2,Paved,City Street
+2143,HWY 3,2,Paved,State Highway
+2144,LAWRENCE LN,2,Paved,City Street
+2145,OREGON ST,2,Paved,City Street
+2146,FLORENTINE,2,Paved,City Street
+2147,4TH ST,2,Paved,City Street
+2148,ORR ST,2,Paved,City Street
+2149,OREGON ST,2,Paved,City Street
+2150,ANDERSON RD,2,Paved,City Street
+2151,ANDERSON RD,2,Paved,City Street
+2152,HARRY CASH ROAD,2,Unpaved,County Road
+2153,11TH ST,2,Paved,City Street
+2154,WENDY DR,2,Paved,City Street
+2155,BRUCE ST,2,Paved,City Street
+2156,OAKVIEW CIR,2,Paved,City Street
+2157,4TH ST,2,Paved,City Street
+2158,BRUCE ST,2,Paved,City Street
+2159,OREGON ST,2,Paved,City Street
+2160,BRUCE ST,2,Paved,City Street
+2161,HWY 3,2,Paved,State Highway
+2162,BRUCE ST,2,Paved,City Street
+2163,TECHNOR ROBISON ROAD,2,Unpaved,County Road
+2164,LONG PRAIRIE ROAD,2,Unpaved,County Road
+2165,MCADAMS CREEK ROAD,2,Paved,County Road
+2166,OREGON ST,2,Paved,City Street
+2167,HARRY CASH ROAD,2,Unpaved,County Road
+2168,OBERLIN LN,2,Paved,City Street
+2169,HWY 3,2,Paved,State Highway
+2170,OREGON RD,2,Paved,City Street
+2171,I-5,2,Paved,Interstate
+2172,OBERLIN RD,2,Paved,City Street
+2173,I-5,2,Paved,Interstate
+2174,OBERLIN RD,2,Paved,City Street
+2175,OBERLIN RD,2,Paved,City Street
+2176,OBERLIN RD,2,Paved,City Street
+2177,OREGON ST,2,Paved,City Street
+2178,PAYNE LN,2,Paved,City Street
+2179,KEGLER LN,2,Paved,City Street
+2180,PAYNE LN,2,Paved,City Street
+2181,HWY 3,2,Paved,State Highway
+2182,PAYNE LN,2,Paved,City Street
+2183,OBERLIN RD,2,Paved,City Street
+2184,HARRY CASH ROAD,2,Paved,County Road
+2185,OBERLIN ROAD,2,Paved,County Road
+2186,CAMPBELL AV,2,Paved,City Street
+2187,GREENHORN ROAD,2,Paved,County Road
+2188,OBERLIN ROAD,2,Paved,County Road
+2189,FAIRLANE RD,2,Paved,City Street
+2190,TABLEROCK ROAD,2,Unpaved,County Road
+2191,CAMPBELL AV,2,Paved,City Street
+2192,MILL RD,2,Paved,City Street
+2193,DAVIS RD,2,Paved,City Street
+2194,OREGON ST,2,Paved,City Street
+2195,HIRAM PAGE RD,2,Paved,City Street
+2196,YELLOWHAMMER ST,2,Paved,City Street
+2197,THOOK DR,2,Paved,City Street
+2198,COMSTOCK DR,2,Paved,City Street
+2199,CAMPBELL AV,2,Paved,City Street
+2200,CAMPBELL AV,2,Paved,City Street
+2201,COMSTOCK DR,2,Paved,City Street
+2202,YELLOWHAMMER ST,2,Paved,City Street
+2203,MUH CHEE SHEE,2,Paved,City Street
+2204,OREGON ST,2,Paved,City Street
+2205,HWY 3,2,Paved,State Highway
+2206,GREENHORN RD,2,Paved,City Street
+2207,FAIRLANE RD,2,Paved,City Street
+2208,GREENHORN RD,2,Paved,City Street
+2209,GREENHORN RD,2,Paved,City Street
+2210,YELLOWHAMMER ST,2,Paved,City Street
+2211,PUH NAY FITCH,2,Paved,City Street
+2212,MILL RD,2,Paved,City Street
+2213,E GREENHORN RD,2,Paved,City Street
+2214,YELLOWHAMMER ST,2,Paved,City Street
+2215,KUTCHY KAWTCH,2,Paved,City Street
+2216,CAMPBELL AV,2,Paved,City Street
+2217,CAMPBELL AV,2,Paved,City Street
+2218,CAMPBELL AV,2,Paved,City Street
+2219,SOUTH PHILLIPE LANE,2,Paved,County Road
+2220,OBERLIN ROAD,2,Paved,County Road
+2221,PLACER DR,2,Paved,City Street
+2222,LOWER LITTLE SHASTA ROAD,2,Paved,County Road
+2223,OLD STATE HWY,2,Unpaved,County Road
+2224,EE TUCKA TUCKA TEE,2,Paved,City Street
+2225,YELLOWHAMMER ST,2,Paved,City Street
+2226,PLACER DR,2,Paved,City Street
+2227,COMSTOCK DR,2,Paved,City Street
+2228,YELLOWHAMMER ST,2,Paved,City Street
+2229,BIG SPRINGS ROAD,2,Paved,County Road
+2230,SOULE LANE,2,Paved,County Road
+2231,LOWER LITTLE SHASTA ROAD,2,Paved,County Road
+2232,HARRY CASH ROAD,2,Unpaved,County Road
+2233,FLUME CT,2,Paved,City Street
+2234,LUCAS RD,2,Paved,City Street
+2235,DOVE LN,2,Paved,City Street
+2236,QUAIL AV,2,Paved,City Street
+2237,SANDPIPER CT,2,Paved,City Street
+2238,BLUEBIRD ST,2,Paved,City Street
+2239,BLUEBIRD ST,2,Paved,City Street
+2240,FAIRLANE RD,2,Paved,City Street
+2241,HWY 3,2,Paved,State Highway
+2242,RANCH LN,2,Paved,City Street
+2243,OREGON ST,2,Paved,City Street
+2244,NUGGET WY,2,Paved,City Street
+2245,SUTTER ST,2,Paved,City Street
+2246,COMSTOCK DR,2,Paved,City Street
+2247,RANCH LN,2,Paved,City Street
+2248,SHARPS RD,2,Paved,City Street
+2249,I-5,2,Paved,Interstate
+2250,OLD STATE HWY,2,Paved,County Road
+2251,PLACER DR,2,Paved,City Street
+2252,LOWER LITTLE SHASTA ROAD,2,Paved,County Road
+2253,HARRY CASH ROAD,2,Paved,County Road
+2254,PYRITE DR,2,Paved,City Street
+2255,COMSTOCK DR,2,Paved,City Street
+2256,PYRITE DR,2,Paved,City Street
+2257,NUGGET WY,2,Paved,City Street
+2258,I-5,2,Paved,Interstate
+2259,CAMPUS DR,2,Paved,City Street
+2260,OREGON ST,2,Paved,City Street
+2261,4-H WY,2,Paved,City Street
+2262,HWY 3,2,Paved,State Highway
+2263,4-H WY,2,Paved,City Street
+2264,DOVE LN,2,Paved,City Street
+2265,SANDPIPER CT,2,Paved,City Street
+2266,SWALLOW CIR,2,Paved,City Street
+2267,SANDPIPER CT,2,Paved,City Street
+2268,MCADAMS CREEK ROAD,2,Unpaved,County Road
+2269,OBERLIN ROAD,2,Paved,County Road
+2270,OBERLIN ROAD,2,Paved,County Road
+2271,MONTAGUE GRENADA ROAD,2,Paved,County Road
+2272,OBERLIN ROAD,2,Paved,County Road
+2273,MCADAMS CREEK ROAD,2,Paved,County Road
+2274,CAMPUS DR,2,Paved,City Street
+2275,FAIRLANE RD,2,Paved,City Street
+2276,MOONLIT OAKS AV,2,Paved,City Street
+2277,I-5,2,Paved,Interstate
+2278,MOONLIT OAKS AV,2,Paved,City Street
+2279,I-5,2,Paved,Interstate
+2280,MOONLIT OAKS AV,2,Paved,City Street
+2281,MCADAMS CREEK ROAD,2,Unpaved,County Road
+2282,MOONLIT OAKS AV,2,Paved,City Street
+2283,MOONLIT OAKS AV,2,Paved,City Street
+2284,HWY 3,2,Paved,State Highway
+2285,MOONLIT OAKS AV,2,Paved,City Street
+2286,HI YOU GULCH ROAD,2,Unpaved,County Road
+2287,SCOTT RIVER ROAD,2,Paved,County Road
+2288,MCADAMS CREEK ROAD,2,Paved,County Road
+2289,FAIRLANE RD,2,Paved,City Street
+2290,HWY 96,2,Paved,State Highway
+2291,I-5R,2,Paved,Interstate Ramp
+2292,I-5,2,Paved,Interstate
+2293,BIG SPRINGS ROAD,2,Unpaved,County Road
+2294,I-5,2,Paved,Interstate
+2295,HWY 3,2,Paved,State Highway
+2296,OUTSEN RD,2,Paved,City Street
+2297,ROLLING HILLS DRIVE,2,Paved,County Road
+2298,ROLLING HILLS DRIVE,2,Paved,County Road
+2299,ROLLING HILLS DRIVE,2,Paved,County Road
+2300,FAIRLANE ROAD,2,Paved,County Road
+2301,VALLEY DRIVE,2,Paved,County Road
+2302,BRECEDA LANE,2,Paved,County Road
+2303,MONTAGUE GRENADA ROAD,2,Paved,County Road
+2304,FAIRLANE ROAD,2,Paved,County Road
+2305,ARROYO DRIVE,2,Paved,County Road
+2306,BIG SPRINGS ROAD,2,Paved,County Road
+2307,ARROYO DRIVE,2,Paved,County Road
+2308,MCADAMS CREEK ROAD,2,Unpaved,County Road
+2309,HWY 3,2,Paved,State Highway
+2310,DEL COURT,2,Paved,County Road
+2311,HI YOU GULCH ROAD,2,Unpaved,County Road
+2312,MCADAMS CREEK ROAD,2,Paved,County Road
+2313,SCOTT BAR ROAD,2,Unpaved,County Road
+2314,HI YOU GULCH ROAD,2,Unpaved,County Road
+2315,HI YOU GULCH ROAD,2,Unpaved,County Road
+2316,INDIAN CREEK ROAD,2,Unpaved,County Road
+2317,DELPHIC ROAD,2,Paved,County Road
+2318,DELPHIC ROAD,2,Paved,County Road
+2319,TAYLOR AV,2,Paved,City Street
+2320,TAYLOR AV,2,Paved,City Street
+2321,HWY 3,2,Paved,State Highway
+2322,LAURA AV,2,Paved,City Street
+2323,BELLE AV,2,Paved,City Street
+2324,EAST MOFFETT CREEK ROAD,2,Unpaved,County Road
+2325,EAST MOFFETT CREEK ROAD,2,Paved,County Road
+2326,SCARFACE ROAD,2,Unpaved,County Road
+2327,HARRY CASH ROAD,2,Paved,County Road
+2328,99-97 CUTOFF,2,Paved,County Road
+2329,HWY 97,2,Paved,State Highway
+2330,ORO FINO ROAD,2,Paved,County Road
+2331,LIGHTHILL ROAD,2,Paved,County Road
+2332,TENNANT ROAD,2,Unpaved,County Road
+2333,TENNANT ROAD,2,Paved,County Road
+2334,LONG PRAIRIE ROAD,2,Paved,County Road
+2335,LONG PRAIRIE ROAD,2,Unpaved,County Road
+2336,DANGEL LANE,2,Paved,County Road
+2337,QUARTZ VALLEY ROAD,2,Paved,County Road
+2338,TENNANT ROAD,2,Paved,County Road
+2339,SCARFACE ROAD,2,Unpaved,County Road
+2340,SCARFACE ROAD,2,Paved,County Road
+2341,EASTSIDE ROAD,2,Paved,County Road
+2342,HWY 3,2,Paved,State Highway
+2343,SCARFACE ROAD,2,Unpaved,County Road
+2344,SCARFACE ROAD,2,Unpaved,County Road
+2345,SCARFACE ROAD,2,Paved,County Road
+2346,SCARFACE ROAD,2,Unpaved,County Road
+2347,QUARTZ VALLEY ROAD,2,Paved,County Road
+2348,OLD WESTSIDE ROAD,2,Paved,County Road
+2349,SOUTH HAMLIN GULCH ROAD,2,Unpaved,County Road
+2350,SPRING ST,2,Paved,City Street
+2351,MILL CREEK ROAD,2,Paved,County Road
+2352,TENNANT ROAD,2,Paved,County Road
+2353,E INEZ ST,2,Paved,City Street
+2354,SOUTH HAMLIN GULCH ROAD,2,Paved,County Road
+2355,ISGRIGG AVE,2,Paved,City Street
+2356,SERPA LANE,2,Paved,County Road
+2357,EASTSIDE ROAD,2,Paved,County Road
+2358,ISLAND ROAD,2,Paved,County Road
+2359,DUZEL CREEK ROAD,2,Unpaved,County Road
+2360,ORO FINO ROAD,2,Paved,County Road
+2361,QUARTZ VALLEY ROAD,2,Paved,County Road
+2362,SCARFACE ROAD,2,Unpaved,County Road
+2363,MILL CREEK ROAD,2,Unpaved,County Road
+2364,SOUTH HAMLIN GULCH ROAD,2,Unpaved,County Road
+2365,MILL CREEK ROAD,2,Unpaved,County Road
+2366,SCARFACE ROAD,2,Unpaved,County Road
+2367,EAST LOUIE ROAD,2,Unpaved,County Road
+2368,SOUTH HAMLIN GULCH ROAD,2,Paved,County Road
+2369,EASTSIDE ROAD,2,Paved,County Road
+2370,ISLAND ROAD,2,Paved,County Road
+2371,SCOTT VALLEY AIRPORT ROAD,2,Paved,County Road
+2372,SCARFACE ROAD,2,Unpaved,County Road
+2373,SCARFACE ROAD,2,Unpaved,County Road
+2374,I-5,2,Paved,Interstate
+2375,I-5,2,Paved,Interstate
+2376,HWY 3,2,Paved,State Highway
+2377,HWY 3,2,Paved,State Highway
+2378,QUARTZ VALLEY ROAD,2,Paved,County Road
+2379,QUARTZ VALLEY ROAD,2,Paved,County Road
+2380,QUARTZ VALLEY ROAD,2,Paved,County Road
+2381,EAST LOUIE ROAD,2,Paved,County Road
+2382,QUARTZ VALLEY ROAD,2,Paved,County Road
+2383,I-5R,2,Paved,Interstate Ramp
+2384,I-5R,2,Paved,Interstate Ramp
+2385,FIRST STREET,2,Paved,County Road
+2386,WEST LOUIE ROAD,2,Paved,County Road
+2387,I-5,2,Paved,Interstate
+2388,MAIN STREET,2,Paved,County Road
+2389,MAPLE STREET,2,Paved,County Road
+2390,MYRTLE STREET,2,Paved,County Road
+2391,WEST LOUIE ROAD,2,Paved,County Road
+2392,I-5,2,Paved,Interstate
+2393,SCARFACE ROAD,2,Unpaved,County Road
+2394,I-5R,2,Paved,Interstate Ramp
+2395,WEST LOUIE ROAD,2,Paved,County Road
+2396,I-5R,2,Paved,Interstate Ramp
+2397,CRAM GULCH ROAD,2,Unpaved,County Road
+2398,WEST LOUIE ROAD,2,Paved,County Road
+2399,OLD WESTSIDE ROAD,2,Paved,County Road
+2400,FOULKE LANE,2,Unpaved,County Road
+2401,MAIN STREET,2,Paved,County Road
+2402,FIRST STREET,2,Paved,County Road
+2403,EASTSIDE ROAD,2,Paved,County Road
+2404,MAIN STREET,2,Paved,County Road
+2405,I-5R,2,Paved,Interstate Ramp
+2406,I-5,2,Paved,Interstate
+2407,MOUNTAIN VIEW ROAD,2,Paved,County Road
+2408,MOUNTAIN VIEW ROAD,2,Paved,County Road
+2409,SCARFACE ROAD,2,Paved,County Road
+2410,I-5,2,Paved,Interstate
+2411,I-5R,2,Paved,Interstate Ramp
+2412,MAIN STREET,2,Paved,County Road
+2413,HWY 3,2,Paved,State Highway
+2414,MAIN STREET,2,Paved,County Road
+2415,GREENVIEW ROAD,2,Paved,County Road
+2416,HWY 3,2,Paved,State Highway
+2417,SCARFACE ROAD,2,Unpaved,County Road
+2418,SCARFACE ROAD,2,Paved,County Road
+2419,CRAM GULCH ROAD,2,Unpaved,County Road
+2420,SCARFACE ROAD,2,Unpaved,County Road
+2421,SCARFACE ROAD,2,Unpaved,County Road
+2422,OLD WESTSIDE ROAD,2,Paved,County Road
+2423,SCARFACE ROAD,2,Paved,County Road
+2424,WEST LOUIE ROAD,2,Paved,County Road
+2425,SCARFACE ROAD,2,Paved,County Road
+2426,WEST LOUIE ROAD,2,Paved,County Road
+2427,HWY 97,3,Paved,State Highway
+2428,99-97 CUTOFF,2,Paved,County Road
+2429,HWY 97,3,Paved,State Highway
+2430,KELLEMS LANE,2,Paved,County Road
+2431,HWY 3,2,Paved,State Highway
+2432,KELLEMS LANE,2,Paved,County Road
+2433,HWY 3,2,Paved,State Highway
+2434,PINE CONE DRIVE,2,Paved,County Road
+2435,PINE CONE DRIVE,2,Paved,County Road
+2436,BALSAM LANE,2,Paved,County Road
+2437,PINE CONE DRIVE,2,Paved,County Road
+2438,PINE CONE DRIVE,2,Paved,County Road
+2439,PINE CONE DRIVE,2,Paved,County Road
+2440,RED FIR LANE,2,Paved,County Road
+2441,SECOND STREET,2,Unpaved,County Road
+2442,OLD 99 HIGHWAY,2,Paved,County Road
+2443,SECOND STREET,2,Unpaved,County Road
+2444,SECOND STREET,2,Unpaved,County Road
+2445,HAYES LANE,2,Unpaved,County Road
+2446,SECOND STREET,2,Unpaved,County Road
+2447,SUGAR PINE LANE,2,Paved,County Road
+2448,WHITE FIR LANE,2,Paved,County Road
+2449,SLOUGH ROAD,2,Unpaved,County Road
+2450,ISLAND ROAD,2,Paved,County Road
+2451,EASTSIDE ROAD,2,Paved,County Road
+2452,ELLER LANE,2,Paved,County Road
+2453,OLD 99 HIGHWAY,2,Paved,County Road
+2454,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+2455,HAYES LANE,2,Unpaved,County Road
+2456,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+2457,OLD WESTSIDE ROAD,2,Paved,County Road
+2458,ISLAND ROAD,2,Paved,County Road
+2459,HWY 3,2,Paved,State Highway
+2460,HWY 3,2,Paved,State Highway
+2461,SLOUGH ROAD,2,Paved,County Road
+2462,PATTERSON CREEK  ROAD,2,Paved,County Road
+2463,PATTERSON CREEK  ROAD,2,Unpaved,County Road
+2464,HWY 96,2,Paved,State Highway
+2465,SLOUGH ROAD,2,Unpaved,County Road
+2466,EASTSIDE ROAD,2,Paved,County Road
+2467,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+2468,MACKS GULCH ROAD,2,Paved,County Road
+2469,EASTSIDE ROAD,2,Paved,County Road
+2470,SHELL GULCH ROAD,2,Paved,County Road
+2471,MACKS GULCH ROAD,2,Unpaved,County Road
+2472,SLOUGH ROAD,2,Paved,County Road
+2473,HWY 3,2,Paved,State Highway
+2474,DWINNELL WAY,2,Paved,County Road
+2475,JACKSON RANCH ROAD,2,Paved,County Road
+2476,JACKSON RANCH ROAD,2,Paved,County Road
+2477,JACKSON RANCH ROAD,2,Paved,County Road
+2478,ISLAND ROAD,2,Paved,County Road
+2479,HOLZHAUSER LANE,2,Paved,County Road
+2480,SLOUGH ROAD,2,Unpaved,County Road
+2481,I-5,2,Paved,Interstate
+2482,BIG SPRINGS ROAD,2,Paved,County Road
+2483,ORDWAY ROAD,2,Paved,County Road
+2484,I-5,2,Paved,Interstate
+2485,I-5R,2,Paved,Interstate Ramp
+2486,I-5R,2,Paved,Interstate Ramp
+2487,EDGEWOOD ROAD,2,Paved,County Road
+2488,I-5R,2,Paved,Interstate Ramp
+2489,I-5R,2,Paved,Interstate Ramp
+2490,EDGEWOOD ROAD,2,Paved,County Road
+2491,I-5R,2,Paved,Interstate Ramp
+2492,WEED AIRPORT ROAD,2,Paved,County Road
+2493,I-5R,2,Paved,Interstate Ramp
+2494,SLOUGH ROAD,2,Paved,County Road
+2495,I-5R,2,Paved,Interstate Ramp
+2496,I-5R,2,Paved,Interstate Ramp
+2497,I-5,2,Paved,Interstate
+2498,I-5R,2,Paved,Interstate Ramp
+2499,HWY 97,3,Paved,State Highway
+2500,BIG SPRINGS ROAD,2,Paved,County Road
+2501,WEED AIRPORT ROAD,2,Paved,County Road
+2502,I-5R,2,Paved,Interstate Ramp
+2503,I-5,2,Paved,Interstate
+2504,EDGEWOOD ROAD,2,Paved,County Road
+2505,I-5,2,Paved,Interstate
+2506,EDGEWOOD ROAD,2,Paved,County Road
+2507,I-5,2,Paved,Interstate
+2508,EDGEWOOD ROAD,2,Paved,County Road
+2509,JACKSON RANCH ROAD,2,Paved,County Road
+2510,JACKSON RANCH ROAD,2,Paved,County Road
+2511,TELCO WY,2,Paved,City Street
+2512,HWY 3,2,Paved,State Highway
+2513,COLLIER WY,2,Paved,City Street
+2514,INDUSTRIAL PKWY,2,Paved,City Street
+2515,COMMERCIAL ST,2,Paved,City Street
+2516,COMMERCIAL ST,2,Paved,City Street
+2517,TELCO WY,2,Paved,City Street
+2518,HWY 3,2,Paved,State Highway
+2519,INDUSTRIAL PKWY,2,Paved,City Street
+2520,HWY 3,2,Paved,State Highway
+2521,HWY 3,2,Paved,State Highway
+2522,HWY 3,2,Paved,State Highway
+2523,SCOTT ST,2,Paved,City Street
+2524,X,2,Unpaved,City Street
+2525,SCOTT ST,2,Paved,City Street
+2526,HOWELL AV,2,Paved,City Street
+2527,HOWELL AV,2,Paved,City Street
+2528,DIGGLES ST,2,Paved,City Street
+2529,CENTER ST,2,Paved,City Street
+2530,CHARLES ST,2,Paved,City Street
+2531,COLLIER WY,2,Paved,City Street
+2532,CENTER ST,2,Paved,City Street
+2533,SCOTT ST,2,Paved,City Street
+2534,COLLIER WY,2,Paved,City Street
+2535,HWY 3,2,Paved,State Highway
+2536,MAIN ST,2,Paved,City Street
+2537,CHARLES ST,2,Paved,City Street
+2538,HARRISON ST,2,Unpaved,City Street
+2539,HARRISON ST,2,Unpaved,City Street
+2540,HOWELL AV,2,Paved,City Street
+2541,HARRISON ST,2,Paved,City Street
+2542,DIGGLES ST,2,Paved,City Street
+2543,FREDERICK RD,2,Paved,City Street
+2544,COLLIER WY,2,Paved,City Street
+2545,COLLIER WY,2,Paved,City Street
+2546,EASTSIDE ROAD,2,Paved,County Road
+2547,OAK ST,2,Paved,City Street
+2548,HARRISON ST,2,Paved,City Street
+2549,WILCOX AV,2,Paved,City Street
+2550,MAIN ST,2,Paved,City Street
+2551,COLLEGE ST,2,Paved,City Street
+2552,HORN LANE,2,Paved,County Road
+2553,BRYAN ST,2,Paved,City Street
+2554,COLLEGE ST,2,Paved,City Street
+2555,DIGGLES ST,2,Paved,City Street
+2556,HORN LANE,2,Paved,County Road
+2557,EASTSIDE ROAD,2,Paved,County Road
+2558,HORN LANE,2,Paved,County Road
+2559,COLLEGE ST,2,Paved,City Street
+2560,MAIN ST,2,Paved,City Street
+2561,COLLIER WY,2,Paved,City Street
+2562,LOVERS LANE ROAD,2,Paved,County Road
+2563,HOWELL AV,2,Paved,City Street
+2564,COLLEGE ST,2,Paved,City Street
+2565,HWY 3,2,Paved,State Highway
+2566,HOWELL AV,2,Paved,City Street
+2567,WAGNER WY,2,Paved,City Street
+2568,DIGGLES ST,2,Paved,City Street
+2569,CALLAHAN RD,2,Paved,City Street
+2570,OAK ST,2,Paved,City Street
+2571,COLLEGE ST,2,Paved,City Street
+2572,GRAY AVE,2,Paved,City Street
+2573,OAK ST,2,Paved,City Street
+2574,HOWELL AV,2,Paved,City Street
+2575,WAGNER ST,2,Paved,City Street
+2576,HARRISON ST,2,Paved,City Street
+2577,MAIN ST,2,Paved,City Street
+2578,DIGGLES ST,2,Paved,City Street
+2579,HILAND ST,2,Paved,City Street
+2580,BRYAN ST,2,Paved,City Street
+2581,CHURCH ST,2,Paved,City Street
+2582,CLEVELAND ST,2,Paved,City Street
+2583,CHURCH ST,2,Paved,City Street
+2584,WAGNER ST,2,Paved,City Street
+2585,COLLEGE ST,2,Paved,City Street
+2586,CALLAHAN RD,2,Paved,City Street
+2587,CALLAHAN ST,2,Paved,City Street
+2588,HOWELL AV,2,Paved,City Street
+2589,CHURCH ST,2,Paved,City Street
+2590,HOWELL AV,2,Paved,City Street
+2591,STARR ACCESS ROAD,2,Paved,County Road
+2592,HORN LANE,2,Paved,County Road
+2593,HWY 3,2,Paved,State Highway
+2594,WAGNER ST,2,Paved,City Street
+2595,CHURCH ST,2,Paved,City Street
+2596,HILAND ST,2,Paved,City Street
+2597,WOODLAND ST,2,Paved,City Street
+2598,BRYAN ST,2,Paved,City Street
+2599,WOODLAND ST,2,Paved,City Street
+2600,WAGNER ST,2,Paved,City Street
+2601,HOWELL AV,2,Paved,City Street
+2602,CLEVELAND ST,2,Paved,City Street
+2603,WOODLAND ST,2,Paved,City Street
+2604,WOODLAND ST,2,Paved,City Street
+2605,MAIN ST,2,Paved,City Street
+2606,CHURCH ST,2,Paved,City Street
+2607,CALLAHAN ST,2,Paved,City Street
+2608,HOWELL AV,2,Paved,City Street
+2609,MAIN ST,2,Paved,City Street
+2610,CLEVELAND ST,2,Paved,City Street
+2611,HWY 97,3,Paved,State Highway
+2612,HWY 97,3,Paved,State Highway
+2613,SECOND AVENUE,2,Unpaved,County Road
+2614,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+2615,CARRICK AVENUE,2,Paved,County Road
+2616,CENTRAL AVENUE,2,Paved,County Road
+2617,SECOND AVENUE,2,Paved,County Road
+2618,CENTRAL AVENUE,2,Paved,County Road
+2619,CENTRAL AVENUE,2,Paved,County Road
+2620,I-5,2,Paved,Interstate
+2621,CARRICK AVENUE,2,Paved,County Road
+2622,CARRICK AVENUE,2,Paved,County Road
+2623,I-5,2,Paved,Interstate
+2624,SECOND AVENUE,2,Paved,County Road
+2625,BROOKSIDE AVENUE,2,Paved,County Road
+2626,OLD 99 HIGHWAY,2,Paved,County Road
+2627,ANGEL VALLEY ROAD,2,Paved,County Road
+2628,ANGEL VALLEY ROAD,2,Paved,County Road
+2629,HOY ROAD,2,Paved,County Road
+2630,EDGEWOOD ROAD,2,Paved,County Road
+2631,EDGEWOOD ROAD,2,Paved,County Road
+2632,I-5R,2,Paved,Interstate Ramp
+2633,EDGEWOOD ROAD,2,Paved,County Road
+2634,I-5,2,Paved,Interstate
+2635,EDGEWOOD ROAD,2,Paved,County Road
+2636,I-5,2,Paved,Interstate
+2637,EDGEWOOD ROAD,2,Paved,County Road
+2638,I-5R,2,Paved,Interstate Ramp
+2639,EDGEWOOD ROAD,2,Paved,County Road
+2640,STEWART SPRINGS ROAD,2,Paved,County Road
+2641,STEWART SPRINGS ROAD,2,Paved,County Road
+2642,STEWART SPRINGS ROAD,2,Paved,County Road
+2643,I-5R,2,Paved,Interstate Ramp
+2644,HWY 97,3,Paved,State Highway
+2645,HOY RD,2,Paved,City Street
+2646,NORTH OLD STAGE ROAD,2,Paved,County Road
+2647,I-5R,2,Paved,Interstate Ramp
+2648,I-5,2,Paved,Interstate
+2649,CALIFORNIA ST,2,Paved,City Street
+2650,CALIFORNIA ST,2,Paved,City Street
+2651,CALIFORNIA ST,2,Paved,City Street
+2652,ANGEL VALLEY RD,2,Paved,City Street
+2653,CALIFORNIA ST,2,Paved,City Street
+2654,HWY 97,3,Paved,State Highway
+2655,WAKEFIELD AV,2,Paved,City Street
+2656,MORRIS ST,2,Paved,City Street
+2657,CENTER ST,2,Paved,City Street
+2658,JACKSON ST,2,Paved,City Street
+2659,IEKA ST,2,Paved,City Street
+2660,JACKSON ST,2,Paved,City Street
+2661,JACKSON ST,2,Paved,City Street
+2662,UNION ST,2,Paved,City Street
+2663,JACKSON ST,2,Paved,City Street
+2664,I-5,2,Paved,Interstate
+2665,I-5R,2,Paved,Interstate Ramp
+2666,ALAMEDA AV,2,Paved,City Street
+2667,MORRIS ST,2,Paved,City Street
+2668,CENTER ST,2,Paved,City Street
+2669,ARBAUGH ST,2,Paved,City Street
+2670,IEKA ST,2,Paved,City Street
+2671,ARBAUGH ST,2,Paved,City Street
+2672,ARBAUGH ST,2,Paved,City Street
+2673,KENNEDY AV,2,Paved,City Street
+2674,W LINCOLN AV,2,Unpaved,City Street
+2675,W LINCOLN AV,2,Unpaved,City Street
+2676,MORRIS ST,2,Paved,City Street
+2677,ALAMEDA AV,2,Paved,City Street
+2678,W LINCOLN AV,2,Paved,City Street
+2679,CENTER ST,2,Paved,City Street
+2680,PINE ST,2,Paved,City Street
+2681,IEKA ST,2,Paved,City Street
+2682,PINE ST,2,Paved,City Street
+2683,UNION ST,2,Paved,City Street
+2684,PINE ST,2,Paved,City Street
+2685,W LINCOLN AV,2,Paved,City Street
+2686,UNION ST,2,Paved,City Street
+2687,IEKA ST,2,Paved,City Street
+2688,WAKEFIELD AV,2,Paved,City Street
+2689,W LINCOLN AV,2,Paved,City Street
+2690,HWY 97,3,Paved,State Highway
+2691,W LINCOLN AV,2,Paved,City Street
+2692,HWY 97,3,Paved,State Highway
+2693,MORRIS ST,2,Paved,City Street
+2694,OAK ST,2,Paved,City Street
+2695,BROADWAY AV,2,Paved,City Street
+2696,MORRIS ST,2,Paved,City Street
+2697,BROADWAY AV,2,Paved,City Street
+2698,E LINCOLN AV,2,Paved,City Street
+2699,UNION ST,2,Paved,City Street
+2700,BROADWAY AV,2,Paved,City Street
+2701,E LINCOLN AV,2,Paved,City Street
+2702,E LINCOLN AV,2,Paved,City Street
+2703,E LINCOLN AV,2,Paved,City Street
+2704,E LINCOLN AV,2,Paved,City Street
+2705,CHURCH ST,2,Paved,City Street
+2706,GRANT AV,2,Paved,City Street
+2707,CRESTMORE AV,2,Paved,City Street
+2708,CYPRESS AV,2,Paved,City Street
+2709,TENT AV,2,Paved,City Street
+2710,CYPRESS AV,2,Paved,City Street
+2711,OLD EDGEWOOD WEED ROAD,2,Unpaved,County Road
+2712,RAILROAD AV,2,Paved,City Street
+2713,CYPRESS AV,2,Paved,City Street
+2714,MILL ST,2,Paved,City Street
+2715,MILL ST,2,Paved,City Street
+2716,OLD EDGEWOOD WEED ROAD,2,Paved,County Road
+2717,OLD EDGEWOOD WEED ROAD,2,Paved,County Road
+2718,STRINGTOWN AV,2,Paved,City Street
+2719,S STRINGTOWN AV,2,Paved,City Street
+2720,OLD EDGEWOOD WEED ROAD,2,Unpaved,County Road
+2721,ROSEBURG PY,2,Paved,City Street
+2722,MILL ST,2,Paved,City Street
+2723,N DAVIS AV,2,Paved,City Street
+2724,N DAVIS AV,2,Paved,City Street
+2725,SPUR RD,2,Paved,City Street
+2726,STRINGTOWN AV,2,Paved,City Street
+2727,LIBERTY AV,2,Paved,City Street
+2728,N DAVIS AV,2,Paved,City Street
+2729,N DAVIS AV,2,Paved,City Street
+2730,N DAVIS AV,2,Paved,City Street
+2731,N DAVIS AV,2,Paved,City Street
+2732,S STRINGTOWN AV,2,Paved,City Street
+2733,N DAVIS AV,2,Paved,City Street
+2734,N DAVIS AV,2,Paved,City Street
+2735,N DAVIS AV,2,Paved,City Street
+2736,N DAVIS AV,2,Paved,City Street
+2737,DAVIS CT,2,Paved,City Street
+2738,HWY 97,3,Paved,State Highway
+2739,RAILROAD AV,2,Paved,City Street
+2740,ALAMO AV,2,Paved,City Street
+2741,DAVIS CT,2,Paved,City Street
+2742,DAVIS CT,2,Paved,City Street
+2743,HILLSIDE DR,2,Unpaved,City Street
+2744,LIBERTY AV,2,Paved,City Street
+2745,COMO ST,2,Paved,City Street
+2746,WHITE AV,2,Paved,City Street
+2747,SHASTA AV,2,Paved,City Street
+2748,GENOA ST,2,Paved,City Street
+2749,VENICE ST,2,Paved,City Street
+2750,GENOA ST,2,Paved,City Street
+2751,GENOA ST,2,Paved,City Street
+2752,HILLSIDE DR,2,Paved,City Street
+2753,COMO ST,2,Paved,City Street
+2754,WOODRIDGE CT,2,Paved,City Street
+2755,EDGEWOOD ROAD,2,Paved,County Road
+2756,WOODRIDGE WY,2,Paved,City Street
+2757,WOODRIDGE CT,2,Paved,City Street
+2758,HILLSIDE DR,2,Paved,City Street
+2759,CEDAR AV,2,Paved,City Street
+2760,SHASTA AV,2,Paved,City Street
+2761,S DAVIS AV,2,Paved,City Street
+2762,WHITE AV,2,Unpaved,City Street
+2763,SAWYERS BAR ROAD,2,Paved,County Road
+2764,N DAVIS AV,2,Paved,City Street
+2765,ALAMO AV,2,Paved,City Street
+2766,FLORENCE DR,2,Paved,City Street
+2767,LOMBARDI AV,2,Paved,City Street
+2768,MAIN ST,2,Paved,City Street
+2769,S DAVIS AV,2,Paved,City Street
+2770,I-5,2,Paved,Interstate
+2771,HILLSIDE DR,2,Paved,City Street
+2772,SHASTA AV,2,Paved,City Street
+2773,TEBBE ST,2,Paved,City Street
+2774,FLORENCE DR,2,Paved,City Street
+2775,MAIN ST,2,Paved,City Street
+2776,X,2,Paved,City Street
+2777,PARK ST,2,Paved,City Street
+2778,ALAMO AV,2,Paved,City Street
+2779,FLORENCE DR,2,Paved,City Street
+2780,TEBBE ST,2,Paved,City Street
+2781,ALAMO AV,2,Paved,City Street
+2782,MAIN ST,2,Paved,City Street
+2783,GILLMAN AV,2,Paved,City Street
+2784,ELM ST,2,Paved,City Street
+2785,ELM ST,2,Paved,City Street
+2786,STONE WY,2,Unpaved,City Street
+2787,MAIN ST,2,Paved,City Street
+2788,ALAMO AV,2,Paved,City Street
+2789,I-5,2,Paved,Interstate
+2790,COLUMBUS WY,1,Paved,City Street
+2791,OLD EDGEWOOD WEED RD,2,Paved,City Street
+2792,TRAILER LN,2,Paved,City Street
+2793,HILLSIDE DR,2,Paved,City Street
+2794,S DAVIS AV,2,Paved,City Street
+2795,PARK ST,2,Paved,City Street
+2796,S DAVIS AV,2,Paved,City Street
+2797,MAIN ST,2,Paved,City Street
+2798,GILLMAN AV,2,Paved,City Street
+2799,CAMINO AV,2,Paved,City Street
+2800,CAMINO AV,2,Paved,City Street
+2801,PARK ST,2,Paved,City Street
+2802,CLARK LN,2,Unpaved,City Street
+2803,CAMINO ST,2,Paved,City Street
+2804,MAIN ST,2,Paved,City Street
+2805,CAMINO ST,2,Paved,City Street
+2806,PARK ST,2,Paved,City Street
+2807,PARK ST,2,Paved,City Street
+2808,GILLMAN AV,2,Paved,City Street
+2809,E DIVISION ST,2,Paved,City Street
+2810,MAIN ST,2,Paved,City Street
+2811,E DIVISION ST,2,Paved,City Street
+2812,MAIN ST,2,Paved,City Street
+2813,E DIVISION ST,2,Paved,City Street
+2814,W DIVISION ST,2,Paved,City Street
+2815,CHAPARRAL DR,2,Unpaved,City Street
+2816,TRAILER LN,2,Paved,City Street
+2817,I-5R,2,Paved,Interstate Ramp
+2818,PARK ST,2,Paved,City Street
+2819,OLIVE ST,2,Unpaved,City Street
+2820,PARK ST,2,Paved,City Street
+2821,SPRING LN,2,Paved,City Street
+2822,MAIN ST,2,Paved,City Street
+2823,W INEZ ST,2,Paved,City Street
+2824,PARK ST,2,Paved,City Street
+2825,HWY 97,3,Paved,State Highway
+2826,CHAPARRAL DR,2,Paved,City Street
+2827,CLAY ST,2,Paved,City Street
+2828,MONROE WAY,2,Paved,County Road
+2829,LAKE DR,2,Paved,City Street
+2830,BUTTE ST,2,Paved,City Street
+2831,CALDWELL AVE,2,Paved,City Street
+2832,E INEZ ST,2,Paved,City Street
+2833,S MT SHASTA BLVD,2,Paved,City Street
+2834,GILL AVE,2,Paved,City Street
+2835,DEER HAVEN,2,Paved,City Street
+2836,E INEZ ST,2,Paved,City Street
+2837,ALMA ST,2,Paved,City Street
+2838,CEDAR ST,2,Paved,City Street
+2839,I-5,2,Paved,Interstate
+2840,W CASTLE ST,2,Paved,City Street
+2841,SCOTT MOUNTAIN ROAD,2,Paved,County Road
+2842,MCCLOUD AVENUE,2,Unpaved,County Road
+2843,WILDCAT CREEK ROAD,2,Paved,County Road
+2844,MCCLOUD AVENUE,2,Paved,County Road
+2845,SHASTA ACRES ROAD,2,Paved,County Road
+2846,W JESSIE ST,2,Paved,City Street
+2847,LAKE DR,2,Paved,City Street
+2848,MAPLE ST,2,Paved,City Street
+2849,CEDAR ST,2,Paved,City Street
+2850,EAST CALLAHAN ROAD,2,Paved,County Road
+2851,HWY 3,2,Paved,State Highway
+2852,HWY 3,2,Paved,State Highway
+2853,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+2854,WASHINGTON DR,2,Paved,City Street
+2855,MCCLOUD AVE,2,Paved,City Street
+2856,NORTH C ST,2,Paved,City Street
+2857,MCCLOUD AVE,2,Paved,City Street
+2858,MCCLOUD AVE,2,Paved,City Street
+2859,NORTH B ST,2,Paved,City Street
+2860,ADAMS DR,2,Paved,City Street
+2861,MCCLOUD AVE,2,Paved,City Street
+2862,MCCLOUD AVE,2,Paved,City Street
+2863,MCCLOUD AVE,2,Paved,City Street
+2864,NORTH A ST,2,Paved,City Street
+2865,MCCLOUD AVE,2,Paved,City Street
+2866,MCCLOUD AVE,2,Paved,City Street
+2867,CHESTNUT ST,2,Paved,City Street
+2868,JEFFERSON DR,2,Paved,City Street
+2869,MCCLOUD AVE,2,Paved,City Street
+2870,MCCLOUD AVE,2,Paved,City Street
+2871,MADISON DRIVE,2,Paved,County Road
+2872,MCCLOUD AVENUE,2,Paved,County Road
+2873,SHASTA ACRES ROAD,2,Paved,County Road
+2874,MCCLOUD AVENUE,2,Paved,County Road
+2875,LOTUS LANE,2,Paved,County Road
+2876,MCCLOUD AVENUE,2,Paved,County Road
+2877,MCCLOUD AVENUE,2,Paved,County Road
+2878,CHESTNUT ST,2,Paved,City Street
+2879,S MT SHASTA BLVD,2,Paved,City Street
+2880,S MT SHASTA BLVD,2,Paved,City Street
+2881,ALPINE ST,2,Paved,City Street
+2882,MILL ST,2,Paved,City Street
+2883,MAPLE ST,2,Paved,City Street
+2884,COUNTY ROAD,2,Paved,County Road
+2885,HWY 3,2,Paved,State Highway
+2886,LAKE DR,2,Paved,City Street
+2887,PINE ST,2,Paved,City Street
+2888,ADAMS DR,2,Paved,City Street
+2889,SOUTH B ST,2,Paved,City Street
+2890,WASHINGTON DR,2,Paved,City Street
+2891,ACKLEY AVE,2,Paved,City Street
+2892,HWY 3,2,Paved,State Highway
+2893,SOUTH A ST,2,Paved,City Street
+2894,ALLEY,2,Paved,City Street
+2895,SOUTH A ST,2,Paved,City Street
+2896,SHASTA COURT,2,Paved,City Street
+2897,EILER RD,2,Paved,City Street
+2898,WASHINGTON DR,2,Paved,City Street
+2899,SCOTT MOUNTAIN ROAD,2,Unpaved,County Road
+2900,I-5R,2,Paved,Interstate Ramp
+2901,MILL ST,2,Paved,City Street
+2902,WATER ST,2,Paved,City Street
+2903,W JESSIE ST,2,Paved,City Street
+2904,LAKE DR,2,Paved,City Street
+2905,LAKE DR,2,Paved,City Street
+2906,I-5R,2,Paved,Interstate Ramp
+2907,LAKE DR,2,Paved,City Street
+2908,I-5R,2,Paved,Interstate Ramp
+2909,WASHINGTON DR,2,Paved,City Street
+2910,I-5R,2,Paved,Interstate Ramp
+2911,HATCHERY LANE,2,Paved,County Road
+2912,SOUTH A ST,2,Paved,City Street
+2913,SMITH ST,2,Paved,City Street
+2914,HATCHERY LANE,2,Paved,County Road
+2915,HWY 3,2,Paved,State Highway
+2916,SOUTH A ST,2,Paved,City Street
+2917,SMITH ST,2,Paved,City Street
+2918,I-5R,2,Paved,Interstate Ramp
+2919,I-5R,2,Paved,Interstate Ramp
+2920,LAKE DR,2,Paved,City Street
+2921,I-5,2,Paved,Interstate
+2922,LAKE DR,2,Paved,City Street
+2923,I-5,2,Paved,Interstate
+2924,LAKE DR,2,Paved,City Street
+2925,I-5R,2,Paved,Interstate Ramp
+2926,LAKE DR,2,Paved,City Street
+2927,HATCHERY LANE,2,Paved,County Road
+2928,BERRY ST,2,Paved,City Street
+2929,HIGH ST,2,Paved,City Street
+2930,MILL ST,2,Paved,City Street
+2931,HIGH ST,2,Paved,City Street
+2932,S MT SHASTA BLVD,2,Paved,City Street
+2933,HIGH ST,2,Paved,City Street
+2934,I-5,2,Paved,Interstate
+2935,I-5R,2,Paved,Interstate Ramp
+2936,SOUTH A ST,2,Paved,City Street
+2937,GIUADENZIO ST,2,Paved,City Street
+2938,WASHINGTON DR,2,Paved,City Street
+2939,GIUADENZIO ST,2,Paved,City Street
+2940,WILDCAT CREEK ROAD,2,Unpaved,County Road
+2941,S MT SHASTA BLVD,2,Paved,City Street
+2942,SOUTH A ST,2,Paved,City Street
+2943,IDA ST,2,Paved,City Street
+2944,IDA ST,2,Paved,City Street
+2945,SOUTH B ST,2,Paved,City Street
+2946,IDA ST,2,Paved,City Street
+2947,WASHINGTON DR,2,Paved,City Street
+2948,IDA ST,2,Paved,City Street
+2949,RODNEYS,2,Paved,County Road
+2950,NORTH OLD STAGE ROAD,2,Paved,County Road
+2951,HATCHERY LANE,2,Paved,County Road
+2952,SOUTH OLD STAGE ROAD,2,Paved,County Road
+2953,MILL ST,2,Paved,City Street
+2954,BERRY ST,2,Paved,City Street
+2955,FOREST ST,2,Paved,City Street
+2956,FOREST ST,2,Paved,City Street
+2957,FOREST ST,2,Paved,City Street
+2958,RODNEYS,2,Unpaved,County Road
+2959,SOUTH A ST,2,Paved,City Street
+2960,EUGENE AVE,2,Paved,City Street
+2961,SOUTH B ST,2,Paved,City Street
+2962,EUGENE AVE,2,Paved,City Street
+2963,WASHINGTON DR,2,Paved,City Street
+2964,EUGENE AVE,2,Paved,City Street
+2965,SOUTH A ST,2,Paved,City Street
+2966,SOUTH B ST,2,Paved,City Street
+2967,PERRY AVE,2,Paved,City Street
+2968,WASHINGTON DR,2,Paved,City Street
+2969,PERRY AVE,2,Paved,City Street
+2970,HWY 3,2,Paved,State Highway
+2971,MILL ST,2,Paved,City Street
+2972,S MT SHASTA BLVD,2,Paved,City Street
+2973,SISSON ST,2,Paved,City Street
+2974,SISSON ST,2,Paved,City Street
+2975,BERRY ST,2,Paved,City Street
+2976,I-5R,2,Paved,Interstate Ramp
+2977,I-5,2,Paved,Interstate
+2978,BERRY ST,2,Paved,City Street
+2979,SOUTH A ST,2,Paved,City Street
+2980,SOUTH B ST,2,Paved,City Street
+2981,MERRITT AVE,2,Paved,City Street
+2982,WASHINGTON DR,2,Paved,City Street
+2983,MERRITT AVE,2,Paved,City Street
+2984,MILL ST,2,Paved,City Street
+2985,SOUTH A ST,2,Paved,City Street
+2986,SHELDON AVE,2,Paved,City Street
+2987,SOUTH B ST,2,Paved,City Street
+2988,SHELDON AVE,2,Paved,City Street
+2989,WASHINGTON DR,2,Paved,City Street
+2990,SHELDON AVE,2,Paved,City Street
+2991,SOUTH OLD STAGE ROAD,2,Paved,County Road
+2992,SOUTH OLD STAGE ROAD,2,Paved,County Road
+2993,W A BARR ROAD,2,Paved,County Road
+2994,W A BARR ROAD,2,Paved,County Road
+2995,S MT SHASTA BLVD,2,Paved,City Street
+2996,OLD MCCLOUD ROAD,2,Paved,City Street
+2997,WASHINGTON DR,2,Paved,City Street
+2998,SOUTH B ST,2,Paved,City Street
+2999,OLD MCCLOUD ROAD,2,Paved,City Street
+3000,OLD MCCLOUD ROAD,2,Paved,City Street
+3001,REAM AVE,2,Paved,City Street
+3002,SAWYERS BAR ROAD,2,Paved,County Road
+3003,S MT SHASTA BLVD,2,Paved,City Street
+3004,SAWYERS BAR ROAD,2,Paved,County Road
+3005,HOLLY ST,2,Paved,City Street
+3006,OAK ST,2,Paved,City Street
+3007,GLEN MAR DR,2,Paved,City Street
+3008,REAM AVE,2,Paved,City Street
+3009,EDDY DRIVE,2,Paved,County Road
+3010,DARLENE COURT,2,Paved,County Road
+3011,MT VIEW DR,2,Paved,City Street
+3012,MEADOW AVE,2,Paved,City Street
+3013,COURT ST,2,Paved,City Street
+3014,WHITES GULCH ROAD,2,Paved,County Road
+3015,MEADOW AVE,2,Paved,City Street
+3016,SOUTH FORK ROAD,2,Paved,County Road
+3017,MT VIEW DR,2,Paved,City Street
+3018,GLEN MAR DR,2,Paved,City Street
+3019,ROELOFF CT,2,Paved,City Street
+3020,S MT SHASTA BLVD,2,Paved,City Street
+3021,OAK ST,2,Paved,City Street
+3022,EDDYS GULCH ROAD,2,Paved,County Road
+3023,REAM AVE,2,Paved,City Street
+3024,REAM AVE,2,Paved,City Street
+3025,MT VIEW DR,2,Paved,City Street
+3026,S MT SHASTA BLVD,2,Paved,City Street
+3027,SAWYERS BAR ROAD,2,Paved,County Road
+3028,MEADOW AVE,2,Paved,City Street
+3029,MEADOW AVE,2,Paved,City Street
+3030,LE BARON DR,2,Paved,City Street
+3031,GLEN MAR DR,2,Paved,City Street
+3032,GLEN MAR DR,2,Paved,City Street
+3033,OLD MILL RD,2,Paved,City Street
+3034,EDDY DRIVE,2,Paved,County Road
+3035,JAMES COURT,2,Paved,County Road
+3036,PALMER ROAD,2,Paved,County Road
+3037,REAM AVENUE,2,Paved,County Road
+3038,S MT SHASTA BLVD,2,Paved,City Street
+3039,LOVETA LN,2,Paved,City Street
+3040,EDDY DRIVE,2,Paved,County Road
+3041,OLD MCCLOUD ROAD,2,Paved,County Road
+3042,S MT SHASTA BLVD,2,Paved,City Street
+3043,BEAR SPRINGS RD,2,Paved,City Street
+3044,BEAR SPRINGS RD,2,Paved,City Street
+3045,BEAR SPRINGS RD,2,Paved,City Street
+3046,UPLANDS WAY,2,Paved,County Road
+3047,OLD MCCLOUD ROAD,2,Paved,County Road
+3048,SAWYERS BAR ROAD,2,Paved,County Road
+3049,REAM AVENUE,2,Paved,County Road
+3050,I-5,2,Paved,Interstate
+3051,REAM AVENUE,2,Paved,County Road
+3052,I-5,2,Paved,Interstate
+3053,EDDY DRIVE,2,Paved,County Road
+3054,OLD MCCLOUD ROAD,2,Paved,County Road
+3055,OLD MCCLOUD ROAD,2,Paved,County Road
+3056,REAM AVENUE,2,Paved,County Road
+3057,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3058,CECILVILLE ROAD,2,Paved,County Road
+3059,VILLAGE WAY,2,Paved,City Street
+3060,W A BARR ROAD,2,Paved,County Road
+3061,WEST REAM AVENUE,2,Paved,County Road
+3062,WEST REAM AVENUE,2,Paved,County Road
+3063,WEST REAM AVENUE,2,Paved,County Road
+3064,SOUTH FORK ROAD,2,Paved,County Road
+3065,SOUTH FORK ROAD,2,Unpaved,County Road
+3066,S MT SHASTA BLVD,2,Paved,City Street
+3067,SOUTH MT SHASTA BOULEVARD,2,Paved,County Road
+3068,X,2,Paved,City Street
+3069,WHITES GULCH ROAD,2,Unpaved,County Road
+3070,W A BARR ROAD,2,Paved,County Road
+3071,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3072,SISKIYOU LAKE BL,2,Paved,County Road
+3073,CLEA LANE,2,Paved,County Road
+3074,HOLIDAY LANE,2,Paved,County Road
+3075,W A BARR ROAD,2,Paved,County Road
+3076,LAKE COURT,2,Paved,County Road
+3077,SISKIYOU LAKE BL,2,Paved,County Road
+3078,PAULS PLACE,2,Paved,County Road
+3079,CLEA LANE,2,Paved,County Road
+3080,SOUTH MT SHASTA BOULEVARD,2,Paved,County Road
+3081,SISKIYOU LAKE BL,2,Paved,County Road
+3082,CONAN PLACE,2,Paved,County Road
+3083,DEAS WAY,2,Paved,County Road
+3084,CHRISTIAN WAY,2,Paved,County Road
+3085,CONAN PLACE,2,Paved,County Road
+3086,SISKIYOU LAKE BL,2,Paved,County Road
+3087,CONAN COURT,2,Paved,County Road
+3088,I-5,2,Paved,Interstate
+3089,HOLIDAY LANE,2,Paved,County Road
+3090,W A BARR ROAD,2,Paved,County Road
+3091,HOLIDAY COURT,2,Paved,County Road
+3092,CHRISTIAN WAY,2,Paved,County Road
+3093,I-5,2,Paved,Interstate
+3094,NORTH SHORE ROAD,2,Unpaved,County Road
+3095,DEAS WAY,2,Paved,County Road
+3096,DEAS WAY,2,Paved,County Road
+3097,I-5R,2,Paved,Interstate Ramp
+3098,I-5,3,Paved,Interstate
+3099,HOLIDAY LANE,2,Paved,County Road
+3100,I-5R,2,Paved,Interstate Ramp
+3101,I-5,2,Paved,Interstate
+3102,CONESTOGA COURT,2,Paved,County Road
+3103,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3104,WAGON WHEEL ROAD,2,Paved,County Road
+3105,I-5R,2,Paved,Interstate Ramp
+3106,SOUTH MT SHASTA BOULEVARD,2,Paved,County Road
+3107,GRANT ROAD,2,Paved,County Road
+3108,BIG CANYON DRIVE,2,Paved,County Road
+3109,I-5R,2,Paved,Interstate Ramp
+3110,I-5,3,Paved,Interstate
+3111,GATEWAY PARK DRIVE,2,Paved,County Road
+3112,HWY 89,2,Paved,State Highway
+3113,HWY 89,2,Paved,State Highway
+3114,SOUTH MT SHASTA BOULEVARD,2,Paved,County Road
+3115,TWIN VIEW COURT,2,Paved,County Road
+3116,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3117,W A BARR ROAD,2,Paved,County Road
+3118,I-5R,2,Paved,Interstate Ramp
+3119,I-5R,2,Paved,Interstate Ramp
+3120,NORTH SHORE ROAD,2,Paved,County Road
+3121,SISKIYOU LAKE BL,2,Paved,County Road
+3122,VILLA ROAD,2,Paved,County Road
+3123,ANDREW COURT,2,Paved,County Road
+3124,MATTHEW COURT,2,Paved,County Road
+3125,I-5,2,Paved,Interstate
+3126,I-5R,2,Paved,Interstate Ramp
+3127,I-5,2,Paved,Interstate
+3128,I-5,3,Paved,Interstate
+3129,I-5,2,Paved,Interstate
+3130,I-5,2,Paved,Interstate
+3131,I-5,2,Paved,Interstate
+3132,CONESTOGA COURT,2,Paved,County Road
+3133,SAWYERS BAR ROAD,2,Paved,County Road
+3134,CONESTOGA COURT,2,Paved,County Road
+3135,ANDREW COURT,2,Paved,County Road
+3136,BIG CANYON DRIVE,2,Paved,County Road
+3137,VILLA ROAD,2,Paved,County Road
+3138,AZALEA ROAD,2,Paved,County Road
+3139,I-5R,2,Paved,Interstate Ramp
+3140,AZALEA ROAD,2,Paved,County Road
+3141,I-5,3,Paved,Interstate
+3142,AZALEA ROAD,2,Paved,County Road
+3143,I-5,2,Paved,Interstate
+3144,BIG CANYON DRIVE,2,Paved,County Road
+3145,I-5R,2,Paved,Interstate Ramp
+3146,I-5,3,Paved,Interstate
+3147,AZALEA ROAD,2,Paved,County Road
+3148,AZALEA ROAD,2,Paved,County Road
+3149,EDDYS GULCH ROAD,2,Unpaved,County Road
+3150,AZALEA ROAD,2,Paved,County Road
+3151,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3152,SEAN WAY,2,Paved,County Road
+3153,FRYER WAY,2,Paved,County Road
+3154,FRYER WAY,2,Paved,County Road
+3155,BIG CANYON DRIVE,2,Paved,County Road
+3156,W A BARR ROAD,2,Paved,County Road
+3157,CASTLE LAKE ROAD,2,Paved,County Road
+3158,NEY SPRINGS ROAD,2,Paved,County Road
+3159,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3160,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3161,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3162,SHASTA SPR MCCLOUD ROAD,2,Paved,County Road
+3163,I-5,2,Paved,Interstate
+3164,SAWYERS BAR ROAD,2,Paved,County Road
+3165,HWY 89,2,Paved,State Highway
+3166,SALMON RIVER ROAD,2,Paved,County Road
+3167,CECILVILLE ROAD,2,Paved,County Road
+3168,CECILVILLE ROAD,2,Paved,County Road
+3169,WALNUT STREET,2,Paved,County Road
+3170,I-5,3,Paved,Interstate
+3171,FIRENZE STREET,2,Paved,County Road
+3172,MILL ROAD,2,Paved,County Road
+3173,NORTH STREET,2,Paved,County Road
+3174,HWY 89,2,Paved,State Highway
+3175,MILL ROAD,2,Paved,County Road
+3176,I-5,3,Paved,Interstate
+3177,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3178,ORANGE AVENUE,2,Paved,County Road
+3179,ORANGE AVENUE,2,Paved,County Road
+3180,OAK STREET,2,Paved,County Road
+3181,HENNESSY WAY,2,Paved,County Road
+3182,TUCCI AVENUE,2,Paved,County Road
+3183,MOTT AIRPORT ROAD,2,Paved,County Road
+3184,TUCCI AVENUE,2,Paved,County Road
+3185,TUCCI AVENUE,2,Paved,County Road
+3186,QUINCY AVENUE,2,Paved,County Road
+3187,TUCCI AVENUE,2,Paved,County Road
+3188,TUCCI AVENUE,2,Paved,County Road
+3189,TUCCI AVENUE,2,Paved,County Road
+3190,FREEWAY DRIVE,2,Paved,County Road
+3191,I-5R,2,Paved,Interstate Ramp
+3192,I-5R,2,Paved,Interstate Ramp
+3193,FREEWAY DRIVE,2,Paved,County Road
+3194,I-5,3,Paved,Interstate
+3195,OAK STREET,2,Paved,County Road
+3196,FREEWAY DRIVE,2,Paved,County Road
+3197,I-5,3,Paved,Interstate
+3198,MILL ROAD,2,Paved,County Road
+3199,FREEWAY DRIVE,2,Paved,County Road
+3200,I-5R,2,Paved,Interstate Ramp
+3201,OAK STREET,2,Paved,County Road
+3202,FREEWAY DRIVE,2,Paved,County Road
+3203,BERKELEY WAY,2,Paved,County Road
+3204,WEST COLOMBERO DRIVE,2,Paved,County Road
+3205,SISKIYOU AVENUE,2,Paved,County Road
+3206,JUNCTION AVENUE,2,Paved,County Road
+3207,ELM STREET,2,Paved,County Road
+3208,WEST COLOMBERO DRIVE,2,Paved,County Road
+3209,BROADWAY,2,Paved,County Road
+3210,WEST COLOMBERO DRIVE,2,Paved,County Road
+3211,QUINCY AVENUE,2,Paved,County Road
+3212,I-5R,2,Paved,Interstate Ramp
+3213,I-5,3,Paved,Interstate
+3214,EDGEWOOD COURT,2,Paved,County Road
+3215,OAK STREET,2,Paved,County Road
+3216,OAK STREET,2,Paved,County Road
+3217,WEST COLOMBERO DRIVE,2,Paved,County Road
+3218,WEST COLOMBERO DRIVE,2,Paved,County Road
+3219,WEST COLOMBERO DRIVE,2,Paved,County Road
+3220,CALIFORNIA AVENUE,2,Paved,County Road
+3221,WETZEL DRIVE,2,Paved,County Road
+3222,WEST COLOMBERO DRIVE,2,Paved,County Road
+3223,WEST COLOMBERO DRIVE,2,Paved,County Road
+3224,WEST COLOMBERO DRIVE,2,Paved,County Road
+3225,SHASTA AVENUE,2,Paved,County Road
+3226,EAST COLOMBERO DRIVE,2,Paved,County Road
+3227,EAST COLOMBERO DRIVE,2,Paved,County Road
+3228,I-5,3,Paved,Interstate
+3229,I-5R,2,Paved,Interstate Ramp
+3230,DIVISION STREET,2,Paved,County Road
+3231,QUINCY AVENUE,2,Paved,County Road
+3232,DIVISION STREET,2,Paved,County Road
+3233,CALIFORNIA AVENUE,2,Paved,County Road
+3234,DIVISION STREET,2,Paved,County Road
+3235,MAIN STREET,2,Paved,County Road
+3236,HWY 89,2,Paved,State Highway
+3237,SHASTA AVENUE,2,Paved,County Road
+3238,HAMILTON WAY,2,Paved,County Road
+3239,BROADWAY,2,Paved,County Road
+3240,CAMPUS WAY,2,Paved,County Road
+3241,BROADWAY,2,Paved,County Road
+3242,MOTT AIRPORT RD,2,Paved,City Street
+3243,PINE STREET,2,Paved,County Road
+3244,QUINCY AVENUE,2,Paved,County Road
+3245,PINE STREET,2,Paved,County Road
+3246,CALIFORNIA AVENUE,2,Paved,County Road
+3247,PINE STREET,2,Paved,County Road
+3248,CECILVILLE ROAD,2,Paved,County Road
+3249,MODOC AVENUE,2,Paved,County Road
+3250,MODOC AVENUE,2,Paved,County Road
+3251,BROADWAY,2,Paved,County Road
+3252,MAIN STREET,2,Paved,County Road
+3253,WEST MINNESOTA AVENUE,2,Paved,County Road
+3254,WEST MINNESOTA AVENUE,2,Paved,County Road
+3255,QUINCY AVENUE,2,Paved,County Road
+3256,PLUM AVENUE,2,Paved,County Road
+3257,CADORNA AVENUE,2,Paved,County Road
+3258,CALIFORNIA AVENUE,2,Paved,County Road
+3259,WEST MINNESOTA AVENUE,2,Paved,County Road
+3260,WEST MINNESOTA AVENUE,2,Paved,County Road
+3261,HWY 89,2,Paved,State Highway
+3262,SHASTA AVENUE,2,Paved,County Road
+3263,EAST MINNESOTA AVENUE,2,Paved,County Road
+3264,EAST MINNESOTA AVENUE,2,Paved,County Road
+3265,FOREST ROAD,2,Paved,County Road
+3266,MOTT AIRPORT ROAD,2,Paved,County Road
+3267,SHASTA SPR MCCLOUD ROAD,2,Unpaved,County Road
+3268,BROADWAY AVENUE,2,Paved,County Road
+3269,HWY 89,2,Paved,State Highway
+3270,HWY 89,2,Paved,State Highway
+3271,EAST MINNESOTA AVENUE,2,Paved,County Road
+3272,HWY 89,2,Paved,State Highway
+3273,MODOC AVENUE,2,Paved,County Road
+3274,CADORNA AVENUE,2,Paved,County Road
+3275,MODOC AVENUE,2,Paved,County Road
+3276,CASTLE LAKE ROAD,2,Paved,County Road
+3277,SHASTA SPR MCCLOUD ROAD,2,Unpaved,County Road
+3278,SHASTA SPR MCCLOUD ROAD,2,Unpaved,County Road
+3279,SHASTA SPR MCCLOUD ROAD,2,Unpaved,County Road
+3280,I-5,3,Paved,Interstate
+3281,CECILVILLE ROAD,2,Paved,County Road
+3282,I-5,3,Paved,Interstate
+3283,BLACK BEAR ROAD,2,Unpaved,County Road
+3284,MOTT RD,2,Paved,City Street
+3285,DUNSMUIR AVE,2,Paved,City Street
+3286,I-5R,2,Paved,Interstate Ramp
+3287,I-5R,2,Paved,Interstate Ramp
+3288,I-5,2,Paved,Interstate
+3289,PATRICIA WAY,2,Paved,City Street
+3290,PATRICIA WAY,2,Paved,City Street
+3291,I-5,3,Paved,Interstate
+3292,I-5,2,Paved,Interstate
+3293,I-5,3,Paved,Interstate
+3294,I-5,2,Paved,Interstate
+3295,DUNSMUIR AVE,2,Paved,City Street
+3296,LINDA,2,Paved,City Street
+3297,I-5R,2,Paved,Interstate Ramp
+3298,I-5,2,Paved,Interstate
+3299,I-5R,2,Paved,Interstate Ramp
+3300,I-5,2,Paved,Interstate
+3301,PROSPECT AVE,2,Paved,City Street
+3302,ALPINE DR,2,Paved,City Street
+3303,PROSPECT AVE,2,Paved,City Street
+3304,DUNSMUIR AVE,2,Paved,City Street
+3305,PROSPECT AVE,2,Paved,City Street
+3306,PROSPECT AVE,2,Paved,City Street
+3307,CECILVILLE ROAD,2,Paved,County Road
+3308,GLEAVES AVE,2,Paved,City Street
+3309,CALDWELL ST,2,Paved,City Street
+3310,DUNSMUIR AVE,2,Paved,City Street
+3311,NEEDHAM AVE,2,Paved,City Street
+3312,ISGRIGG AVE,2,Paved,City Street
+3313,ALLEY,2,Paved,City Street
+3314,ISGRIGG AVE,2,Paved,City Street
+3315,GLEAVES AVE,2,Paved,City Street
+3316,ISGRIGG AVE,2,Paved,City Street
+3317,ISGRIGG AVE,2,Paved,City Street
+3318,DUNSMUIR AVE,2,Paved,City Street
+3319,I-5R,2,Paved,Interstate Ramp
+3320,I-5,3,Paved,Interstate
+3321,DUNSMUIR AVE,2,Paved,City Street
+3322,CENTER DR,2,Paved,City Street
+3323,I-5,3,Paved,Interstate
+3324,I-5R,2,Paved,Interstate Ramp
+3325,HOLLY AVE,2,Paved,City Street
+3326,DUNSMUIR AVE,2,Paved,City Street
+3327,LINCOLN ST,2,Paved,City Street
+3328,ALLEY,2,Paved,City Street
+3329,GRAY AVE,2,Paved,City Street
+3330,NEEDHAM AVE,2,Paved,City Street
+3331,GLEAVES AVE,2,Paved,City Street
+3332,GRAY AVE,2,Paved,City Street
+3333,HOLLY AVE,2,Paved,City Street
+3334,HOPE LN,2,Paved,City Street
+3335,E INEZ ST,2,Unpaved,City Street
+3336,GLEAVES AVE,2,Paved,City Street
+3337,CHAPARRAL DR,2,Paved,City Street
+3338,ISLAND ROAD,2,Paved,County Road
+3339,I-5,2,Paved,Interstate
+3340,X,2,Unpaved,City Street
+3341,ISLAND ROAD,2,Paved,County Road
+3342,HWY 97,3,Paved,State Highway
+3343,CHAPARRAL DR,2,Paved,City Street
+3344,I-5,2,Paved,Interstate
+3345,GROVE ST,2,Paved,City Street
+3346,NORTH WEED BL,2,Paved,City Street
+3347,MAIN ST,2,Paved,City Street
+3348,GROVE ST,2,Paved,City Street
+3349,NORTH WEED BL,3,Paved,City Street
+3350,EUREKA WY,2,Paved,City Street
+3351,NORTH WEED BL,4,Paved,City Street
+3352,HWY 97 RAMP,2,Paved,State Highway
+3353,MAIN ST,2,Paved,City Street
+3354,W LAKE ST,2,Paved,City Street
+3355,NORTH WEED BL,4,Paved,City Street
+3356,CHAPARRAL DR,2,Paved,City Street
+3357,I-5R,2,Paved,Interstate Ramp
+3358,CLAY ST,2,Paved,City Street
+3359,OLIVE ST,2,Unpaved,City Street
+3360,HWY 97 RAMP,2,Paved,State Highway
+3361,NORTH WEED BL,3,Paved,City Street
+3362,CHAPARRAL DR,2,Paved,City Street
+3363,EUREKA WY,2,Paved,City Street
+3364,NORTH WEED BL,3,Paved,City Street
+3365,I-5R,2,Paved,Interstate Ramp
+3366,I-5,2,Paved,Interstate
+3367,MAIN ST,2,Paved,City Street
+3368,NORTH WEED BL,3,Paved,City Street
+3369,I-5,2,Paved,Interstate
+3370,I-5,2,Paved,Interstate
+3371,I-5R,2,Paved,Interstate Ramp
+3372,STEWART SPRINGS ROAD,2,Paved,County Road
+3373,BOLES ST,2,Paved,City Street
+3374,LAKE ST,2,Paved,City Street
+3375,STEWART SPRINGS ROAD,2,Paved,County Road
+3376,I-5,2,Paved,Interstate
+3377,BOLES ST,2,Paved,City Street
+3378,NORTH WEED BL,3,Paved,City Street
+3379,NORTH WEED BL,4,Paved,City Street
+3380,I-5R,2,Paved,Interstate Ramp
+3381,I-5R,2,Paved,Interstate Ramp
+3382,NORTH WEED BL,4,Paved,City Street
+3383,BELCASTRO DR,2,Paved,City Street
+3384,NORTH WEED BL,5,Paved,City Street
+3385,I-5,2,Paved,Interstate
+3386,NORTH WEED BL,5,Paved,City Street
+3387,I-5,2,Paved,Interstate
+3388,NORTH WEED BL,5,Paved,City Street
+3389,NORTH WEED BL,5,Paved,City Street
+3390,I-5R,2,Paved,Interstate Ramp
+3391,OREGON ST,2,Paved,City Street
+3392,SULLIVAN AV,2,Paved,City Street
+3393,SULLIVAN AV,2,Paved,City Street
+3394,WALNUT ST,2,Paved,City Street
+3395,SULLIVAN AV,2,Paved,City Street
+3396,SULLIVAN AV,2,Paved,City Street
+3397,TERRACE ST,2,Paved,City Street
+3398,SULLIVAN AV,2,Paved,City Street
+3399,SULLIVAN AV,2,Paved,City Street
+3400,SULLIVAN AV,2,Paved,City Street
+3401,DAKOTA CT,2,Paved,City Street
+3402,DAKOTA ST,2,Paved,City Street
+3403,NORTH WEED BL,5,Paved,City Street
+3404,I-5R,2,Paved,Interstate Ramp
+3405,COLLEGE AVE,2,Paved,City Street
+3406,OREGON ST,2,Paved,City Street
+3407,COLLEGE AVE,2,Paved,City Street
+3408,WALNUT ST,2,Paved,City Street
+3409,COLLEGE AVE,2,Paved,City Street
+3410,DAKOTA ST,2,Paved,City Street
+3411,SOUTH WEED BL,5,Paved,City Street
+3412,HWY 3,2,Paved,State Highway
+3413,COLLEGE AVE,2,Paved,City Street
+3414,TERRACE ST,2,Paved,City Street
+3415,COLLEGE AVE,2,Paved,City Street
+3416,DOLLAR AV,2,Paved,City Street
+3417,SOUTH WEED BL,5,Paved,City Street
+3418,SOUTH WEED BL,2,Paved,City Street
+3419,COLLEGE AVE,2,Paved,City Street
+3420,BEL AIR AV,2,Paved,City Street
+3421,PHELPS AV,2,Paved,City Street
+3422,OREGON ST,2,Paved,City Street
+3423,PHELPS AV,2,Paved,City Street
+3424,WALNUT ST,2,Paved,City Street
+3425,I-5R,2,Paved,Interstate Ramp
+3426,I-5,2,Paved,Interstate
+3427,PHELPS AV,2,Paved,City Street
+3428,SAWYERS BAR ROAD,2,Paved,County Road
+3429,I-5,2,Paved,Interstate
+3430,I-5R,2,Paved,Interstate Ramp
+3431,SOUTH WEED BL,2,Paved,City Street
+3432,WALNUT ST,2,Paved,City Street
+3433,SISKIYOU WY,2,Paved,City Street
+3434,SISKIYOU WY,2,Paved,City Street
+3435,OREGON ST,2,Paved,City Street
+3436,SISKIYOU WY,2,Paved,City Street
+3437,SISKIYOU WY,2,Paved,City Street
+3438,SISKIYOU WY,2,Paved,City Street
+3439,I-5,3,Paved,Interstate
+3440,SISKIYOU WY,2,Paved,City Street
+3441,I-5,2,Paved,Interstate
+3442,SISKIYOU WY,2,Paved,City Street
+3443,SISKIYOU WY,2,Paved,City Street
+3444,OREGON ST,2,Paved,City Street
+3445,MEADOW LANE,2,Paved,County Road
+3446,WALNUT ST,2,Paved,City Street
+3447,HIDDEN MEADOW DRIVE,2,Paved,County Road
+3448,HEATHER PLACE,2,Paved,County Road
+3449,SHASTINA DR,2,Paved,City Street
+3450,GLENHAVEN COURT,2,Paved,County Road
+3451,HIDDEN MEADOW DRIVE,2,Paved,County Road
+3452,COLLEGE AVE,2,Paved,City Street
+3453,HIDDEN MEADOW DRIVE,2,Paved,County Road
+3454,HIDDEN MEADOW DRIVE,2,Paved,County Road
+3455,EAST CALLAHAN ROAD,2,Paved,County Road
+3456,EAST CALLAHAN ROAD,2,Paved,County Road
+3457,HIDDEN MEADOW DRIVE,2,Paved,County Road
+3458,FRENCH CREEK ROAD,2,Paved,County Road
+3459,I-5,2,Paved,Interstate
+3460,SHASTINA DR,2,Paved,City Street
+3461,COLLEGE AVENUE,2,Paved,County Road
+3462,COLLEGE AVENUE,2,Paved,County Road
+3463,NORTH OLD STAGE ROAD,2,Paved,County Road
+3464,I-5,3,Paved,Interstate
+3465,KELLOGG DR,2,Paved,City Street
+3466,BLACK BUTTE DR,2,Paved,City Street
+3467,COLLEGE AVENUE,2,Paved,County Road
+3468,NORTH OLD STAGE ROAD,2,Paved,County Road
+3469,NORTH OLD STAGE ROAD,2,Paved,County Road
+3470,BLACK BUTTE DR,2,Paved,City Street
+3471,VISTA DR,2,Paved,City Street
+3472,BLACK BUTTE DR,2,Paved,City Street
+3473,HWY 3,2,Paved,State Highway
+3474,EAST CALLAHAN ROAD,2,Paved,County Road
+3475,FAY LANE,2,Paved,County Road
+3476,VISTA DR,5,Paved,City Street
+3477,SHASTINA DR,2,Paved,City Street
+3478,VISTA DR,5,Paved,City Street
+3479,SHASTINA DR,2,Paved,City Street
+3480,BLACK BUTTE DR,2,Paved,City Street
+3481,VISTA DR,3,Paved,City Street
+3482,I-5R,2,Paved,Interstate Ramp
+3483,I-5R,2,Paved,Interstate Ramp
+3484,VISTA DR,3,Paved,City Street
+3485,I-5,2,Paved,Interstate
+3486,COMMERCE CT,2,Paved,City Street
+3487,SHASTINA DR,3,Paved,City Street
+3488,VISTA DR,3,Paved,City Street
+3489,I-5,3,Paved,Interstate
+3490,VISTA DR,3,Paved,City Street
+3491,VISTA DR,2,Paved,City Street
+3492,I-5R,2,Paved,Interstate Ramp
+3493,VISTA DR,2,Paved,City Street
+3494,HWY 96,2,Paved,State Highway
+3495,VISTA DR,2,Paved,City Street
+3496,SOUTH WEED BL,2,Paved,City Street
+3497,BLACK BUTTE DR,2,Paved,City Street
+3498,I-5R,2,Paved,Interstate Ramp
+3499,I-5,2,Paved,Interstate
+3500,BLACK BUTTE RD,2,Unpaved,City Street
+3501,BLACK BUTTE,2,Unpaved,City Street
+3502,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3503,HWY 96,2,Paved,State Highway
+3504,I-5,3,Paved,Interstate
+3505,I-5R,2,Paved,Interstate Ramp
+3506,HWY 96,2,Paved,State Highway
+3507,BLACK BUTTE RD,2,Unpaved,City Street
+3508,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3509,BLACK BUTTE DR,2,Paved,City Street
+3510,SAWYERS BAR ROAD,2,Paved,County Road
+3511,NOYES VALLEY ROAD,2,Unpaved,County Road
+3512,ISHI PISHI ROAD,2,Paved,County Road
+3513,HWY 96,2,Paved,State Highway
+3514,RAIL CREEK ROAD,2,Paved,County Road
+3515,I-5,3,Paved,Interstate
+3516,TRUCK VILLAGE DRIVE,2,Unpaved,County Road
+3517,RAIL CREEK ROAD,2,Paved,County Road
+3518,NORTH OLD STAGE ROAD,2,Paved,County Road
+3519,TWIN HILLS COURT,2,Paved,County Road
+3520,NORTH OLD STAGE ROAD,2,Paved,County Road
+3521,NORTH OLD STAGE ROAD,2,Paved,County Road
+3522,DOGWOOD DRIVE,2,Paved,County Road
+3523,LINVILLE DRIVE,2,Paved,County Road
+3524,NORTH OLD STAGE ROAD,2,Paved,County Road
+3525,I-5,2,Paved,Interstate
+3526,I-5,2,Paved,Interstate
+3527,SAWYERS BAR ROAD,2,Paved,County Road
+3528,MINERS CREEK ROAD,2,Unpaved,County Road
+3529,MINERS CREEK ROAD,2,Unpaved,County Road
+3530,SUGAR CREEK ROAD,2,Unpaved,County Road
+3531,SUGAR CREEK ROAD,2,Paved,County Road
+3532,SALMON RIVER ROAD,2,Paved,County Road
+3533,TRUCK VILLAGE DRIVE,2,Paved,County Road
+3534,I-5R,2,Paved,Interstate Ramp
+3535,TRUCK VILLAGE DRIVE,2,Paved,County Road
+3536,I-5,2,Paved,Interstate
+3537,TRUCK VILLAGE DRIVE,2,Paved,County Road
+3538,I-5,2,Paved,Interstate
+3539,TRUCK VILLAGE DRIVE,2,Paved,County Road
+3540,I-5R,2,Paved,Interstate Ramp
+3541,DEETZ ROAD,2,Paved,County Road
+3542,TRUCK VILLAGE DRIVE,2,Paved,County Road
+3543,SUMMIT DRIVE,2,Paved,County Road
+3544,FRENCH CREEK ROAD,2,Paved,County Road
+3545,WOODSIDE DRIVE,2,Paved,County Road
+3546,MINERS CREEK ROAD,2,Unpaved,County Road
+3547,FRENCH CREEK ROAD,2,Paved,County Road
+3548,I-5R,2,Paved,Interstate Ramp
+3549,I-5,2,Paved,Interstate
+3550,DEETZ ROAD,2,Paved,County Road
+3551,I-5,2,Paved,Interstate
+3552,I-5,3,Paved,Interstate
+3553,I-5R,2,Paved,Interstate Ramp
+3554,EDDYS CIRCLE,2,Paved,County Road
+3555,RAMONA DRIVE,2,Paved,County Road
+3556,WOODSIDE COURT,2,Paved,County Road
+3557,SUMMIT DRIVE,2,Paved,County Road
+3558,NORTH OLD STAGE ROAD,2,Paved,County Road
+3559,DEETZ ROAD,2,Paved,County Road
+3560,DEETZ ROAD,2,Paved,County Road
+3561,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3562,I-5,2,Paved,Interstate
+3563,FRENCH CREEK ROAD,2,Paved,County Road
+3564,SUNSET DRIVE,2,Paved,County Road
+3565,SKYVIEW ROAD,2,Paved,County Road
+3566,SKYVIEW ROAD,2,Paved,County Road
+3567,NORTH OLD STAGE ROAD,2,Paved,County Road
+3568,SPRING HILL DRIVE,2,Unpaved,County Road
+3569,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3570,NOYES VALLEY ROAD,2,Unpaved,County Road
+3571,SUMMIT DRIVE,2,Paved,County Road
+3572,SPRING HILL DRIVE,2,Paved,County Road
+3573,I-5,3,Paved,Interstate
+3574,MT SHASTA DUMP RD,2,Paved,City Street
+3575,SPRING HILL DR,2,Paved,City Street
+3576,SUMMIT DRIVE,2,Paved,County Road
+3577,I-5,3,Paved,Interstate
+3578,I-5,3,Paved,Interstate
+3579,SUNRISE DRIVE,2,Paved,County Road
+3580,SAND FLAT ROAD,2,Unpaved,County Road
+3581,SPRING HILL DR,2,Paved,City Street
+3582,ABRAMS LAKE ROAD,2,Paved,County Road
+3583,I-5R,2,Paved,Interstate Ramp
+3584,SAND FLAT ROAD,2,Unpaved,County Road
+3585,ABRAMS LAKE ROAD,2,Paved,County Road
+3586,I-5,3,Paved,Interstate
+3587,NORTH OLD STAGE ROAD,2,Paved,County Road
+3588,NORTH OLD STAGE ROAD,2,Paved,County Road
+3589,ABRAMS LAKE ROAD,2,Paved,County Road
+3590,I-5,2,Paved,Interstate
+3591,ABRAMS LAKE ROAD,2,Paved,County Road
+3592,I-5R,2,Paved,Interstate Ramp
+3593,PONY TRAIL,2,Paved,County Road
+3594,ABRAMS LAKE ROAD,2,Paved,County Road
+3595,SUMMIT DRIVE,2,Paved,County Road
+3596,SALMON RIVER ROAD,2,Paved,County Road
+3597,HWY 3,2,Paved,State Highway
+3598,ABRAMS LAKE ROAD,2,Paved,County Road
+3599,ABRAMS LAKE ROAD,2,Paved,County Road
+3600,NORTH OLD STAGE ROAD,2,Paved,County Road
+3601,UPTON ROAD,2,Paved,County Road
+3602,I-5R,2,Paved,Interstate Ramp
+3603,I-5,3,Paved,Interstate
+3604,NORTH OLD STAGE ROAD,2,Paved,County Road
+3605,DAVIS PLACE ROAD,2,Paved,County Road
+3606,I-5,2,Paved,Interstate
+3607,I-5R,2,Paved,Interstate Ramp
+3608,DAVIS PLACE ROAD,2,Paved,County Road
+3609,FRENCH CREEK ROAD,2,Unpaved,County Road
+3610,DAVIS PLACE ROAD,2,Paved,County Road
+3611,DAVIS PLACE ROAD,2,Paved,County Road
+3612,FREDERICK STREET,2,Paved,County Road
+3613,AMY COURT,2,Paved,County Road
+3614,I-5,2,Paved,Interstate
+3615,DAVIS PLACE ROAD,2,Paved,County Road
+3616,DAVIS PLACE ROAD,2,Paved,County Road
+3617,PINE GROVE DRIVE,2,Paved,County Road
+3618,NORTH OLD STAGE ROAD,2,Paved,County Road
+3619,AUDUBON ROAD,2,Paved,County Road
+3620,SUGAR CREEK ROAD,2,Paved,County Road
+3621,NORTH OLD STAGE ROAD,2,Paved,County Road
+3622,WISNER ROAD,2,Paved,County Road
+3623,NORTH OLD STAGE ROAD,2,Paved,County Road
+3624,AUDUBON ROAD,2,Paved,County Road
+3625,BOBCAT TRAIL,2,Paved,County Road
+3626,AUDUBON ROAD,2,Paved,County Road
+3627,AUDUBON ROAD,2,Paved,County Road
+3628,TIMBER HILLS ROAD,2,Paved,County Road
+3629,I-5,2,Paved,Interstate
+3630,I-5R,2,Paved,Interstate Ramp
+3631,AUDUBON ROAD,2,Paved,County Road
+3632,I-5,3,Paved,Interstate
+3633,I-5R,2,Paved,Interstate Ramp
+3634,TANAGER LANE,2,Paved,County Road
+3635,SPRING HILL DR,2,Paved,City Street
+3636,I-5R,2,Paved,Interstate Ramp
+3637,I-5,3,Paved,Interstate
+3638,X,2,Unpaved,City Street
+3639,S MT SHASTA BLVD,2,Paved,City Street
+3640,HIGHLAND DRIVE,2,Paved,County Road
+3641,X,2,Paved,City Street
+3642,SAWYERS BAR ROAD,2,Paved,County Road
+3643,SKI VILLAGE DR,2,Paved,City Street
+3644,S MT SHASTA BLVD,2,Paved,City Street
+3645,SKI VILLAGE DR,2,Paved,City Street
+3646,SKI VILLAGE DRIVE,2,Paved,County Road
+3647,SKI VILLAGE DRIVE,2,Paved,County Road
+3648,MASTERSON ROAD,2,Paved,County Road
+3649,HIGHLAND DRIVE,2,Paved,County Road
+3650,NORTH OLD STAGE ROAD,2,Paved,County Road
+3651,EAST CALLAHAN ROAD,2,Paved,County Road
+3652,BLACK BUTTE DRIVE,2,Paved,County Road
+3653,SHASTA ALPINE DRIVE,2,Paved,County Road
+3654,BLACK BUTTE DRIVE,2,Paved,County Road
+3655,HWY 3,2,Paved,State Highway
+3656,S MT SHASTA BLVD,2,Paved,City Street
+3657,REGINATO RD,2,Paved,City Street
+3658,CALLAHAN DUMP ROAD,2,Unpaved,County Road
+3659,HWY 3,2,Paved,State Highway
+3660,RAINBOW DRIVE,2,Paved,County Road
+3661,SCHILLING WAY,2,Paved,County Road
+3662,HIGHLAND DRIVE,2,Paved,County Road
+3663,SCHILLING WAY,2,Paved,County Road
+3664,SCHILLING WAY,2,Paved,County Road
+3665,CRESCENT DRIVE,2,Paved,County Road
+3666,SCHILLING WAY,2,Paved,County Road
+3667,NORTH OLD STAGE ROAD,2,Paved,County Road
+3668,PINE GROVE DRIVE,2,Paved,County Road
+3669,SCHILLING WAY,2,Paved,County Road
+3670,SCHILLING WAY,2,Paved,County Road
+3671,NIXON RD,2,Paved,City Street
+3672,BUTTE AVENUE,2,Paved,County Road
+3673,BUTTE AVENUE,2,Paved,County Road
+3674,NORTH OLD STAGE ROAD,2,Paved,County Road
+3675,WAYEHKA WY,2,Paved,County Road
+3676,MORRIS STREET,2,Paved,County Road
+3677,SHASTA AVENUE,2,Paved,County Road
+3678,SHASTA AVENUE,2,Paved,County Road
+3679,CAROLINE AVE,2,Paved,City Street
+3680,SHASTA AVENUE,2,Paved,County Road
+3681,SHASTA AVENUE,2,Paved,County Road
+3682,SHASTA AVENUE,2,Paved,County Road
+3683,NORTH OLD STAGE ROAD,2,Paved,County Road
+3684,WOODLAND PARK DRIVE,2,Paved,County Road
+3685,SKI BOWL DR,2,Paved,City Street
+3686,TERRY LYNN AVE,2,Paved,City Street
+3687,PINE RIDGE AVE,2,Paved,City Street
+3688,TERRY LYNN AVE,2,Paved,City Street
+3689,SCENIC DRIVE,2,Paved,County Road
+3690,WEST SCENIC DRIVE,2,Paved,County Road
+3691,WOODLAND PARK DRIVE,2,Paved,County Road
+3692,SKI BOWL DR,2,Paved,City Street
+3693,KENNEDY DR,2,Paved,City Street
+3694,WILDCAT CREEK ROAD,2,Unpaved,County Road
+3695,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3696,KELLY GULCH ROAD,2,Unpaved,County Road
+3697,MARJORIE ST,2,Paved,City Street
+3698,MARGIE CT,2,Paved,City Street
+3699,MASTERSON ROAD,2,Unpaved,County Road
+3700,PINE RIDGE AVE,2,Paved,City Street
+3701,SKI BOWL DR,2,Paved,City Street
+3702,PINE RIDGE AVE,2,Paved,City Street
+3703,PINE RIDGE AVE,2,Paved,City Street
+3704,BUENA VISTA CT,2,Paved,City Street
+3705,GALLETTI PL,2,Paved,City Street
+3706,MARJORIE ST,2,Paved,City Street
+3707,KENNETH WAY,2,Paved,City Street
+3708,LASSEN LANE,2,Paved,County Road
+3709,SCENIC DRIVE,2,Paved,County Road
+3710,PINE GROVE DRIVE,2,Paved,County Road
+3711,LASSEN LANE,2,Paved,County Road
+3712,CARMEN AVE,2,Paved,City Street
+3713,CAROLINE AVE,2,Paved,City Street
+3714,E IVY ST,2,Paved,City Street
+3715,MTN OAK DR,2,Paved,City Street
+3716,ROCKFELLOW DR,2,Paved,City Street
+3717,ROCKFELLOW DR,2,Paved,City Street
+3718,SKI BOWL DR,2,Paved,City Street
+3719,E IVY ST,2,Paved,City Street
+3720,LASSEN LANE,2,Paved,County Road
+3721,E IVY ST,2,Paved,City Street
+3722,E IVY ST,2,Paved,City Street
+3723,KENNETH WAY,2,Paved,City Street
+3724,ROCKFELLOW DR,2,Paved,City Street
+3725,EVERETT MEMORIAL HWY,2,Paved,City Street
+3726,E IVY ST,2,Paved,City Street
+3727,ROCKFELLOW DR,2,Paved,City Street
+3728,LASSEN LANE,2,Paved,County Road
+3729,I-5,2,Paved,Interstate
+3730,PINE ST,2,Paved,City Street
+3731,I-5,2,Paved,Interstate
+3732,MADISON DRIVE,2,Paved,County Road
+3733,PINE ST,2,Paved,City Street
+3734,LASSEN LANE,2,Paved,County Road
+3735,LASSEN LANE,2,Paved,County Road
+3736,MADISON DRIVE,2,Paved,County Road
+3737,LASSEN LANE,2,Paved,County Road
+3738,NORTH OLD STAGE ROAD,2,Paved,County Road
+3739,S MT SHASTA BLVD,2,Paved,City Street
+3740,E IVY ST,2,Paved,City Street
+3741,ALPINE DRIVE,2,Paved,County Road
+3742,KINGSTON RD,2,Paved,City Street
+3743,PINE ST,2,Paved,City Street
+3744,CHESTNUT ST,2,Paved,City Street
+3745,E IVY ST,2,Paved,City Street
+3746,FIELD ST,2,Paved,City Street
+3747,S MT SHASTA BLVD,2,Paved,City Street
+3748,SMITH ROAD,2,Paved,County Road
+3749,BIRCH ST,2,Paved,City Street
+3750,ALMA ST,2,Paved,City Street
+3751,SPRUCE ST,2,Paved,City Street
+3752,EVERETT MEMORIAL HWY,2,Paved,City Street
+3753,LAKE DR,2,Paved,City Street
+3754,E IVY ST,2,Paved,City Street
+3755,CHESTNUT ST,2,Paved,City Street
+3756,ALPINE DRIVE,2,Paved,County Road
+3757,E JESSIE ST,2,Paved,City Street
+3758,ALDER ST,2,Paved,City Street
+3759,WILDCAT CREEK ROAD,2,Paved,County Road
+3760,E IVY ST,2,Paved,City Street
+3761,S MT SHASTA BLVD,2,Paved,City Street
+3762,MOUNTAIN VIEW LANE,2,Paved,County Road
+3763,MEADOW VALLEY DRIVE,2,Paved,County Road
+3764,LAKE DR,2,Paved,City Street
+3765,MAGNOLIA ST,2,Paved,City Street
+3766,E JESSIE ST,2,Paved,City Street
+3767,CHESTNUT ST,2,Paved,City Street
+3768,ALMA ST,2,Paved,City Street
+3769,DOUGLAS LANE,2,Paved,County Road
+3770,MAGNOLIA ST,2,Paved,City Street
+3771,E JESSIE ST,2,Paved,City Street
+3772,S MT SHASTA BLVD,2,Paved,City Street
+3773,CEDAR ST,2,Paved,City Street
+3774,W IVY ST,2,Paved,City Street
+3775,PINE ST,2,Paved,City Street
+3776,ALMA ST,2,Paved,City Street
+3777,CHESTNUT ST,2,Paved,City Street
+3778,WEST FIELD ST,2,Paved,City Street
+3779,SHASTA WAY,2,Paved,County Road
+3780,LOTUS LANE,2,Paved,County Road
+3781,E CASTLE ST,2,Paved,City Street
+3782,ALDER ST,2,Paved,City Street
+3783,LAKE DR,2,Paved,City Street
+3784,SHASTA WAY,2,Paved,County Road
+3785,ALPINE DRIVE,2,Paved,County Road
+3786,SHASTA WAY,2,Paved,County Road
+3787,ALMA ST,2,Paved,City Street
+3788,S MT SHASTA BLVD,2,Paved,City Street
+3789,W IVY ST,2,Paved,City Street
+3790,CEDAR ST,2,Paved,City Street
+3791,BIRCH ST,2,Paved,City Street
+3792,CHESTNUT ST,2,Paved,City Street
+3793,PINE ST,2,Paved,City Street
+3794,E CASTLE ST,2,Paved,City Street
+3795,CHESTNUT ST,2,Paved,City Street
+3796,CHESTNUT ST,2,Paved,City Street
+3797,MORMAN WAY,2,Paved,City Street
+3798,ADAMS DR,2,Paved,City Street
+3799,W IVY ST,2,Paved,City Street
+3800,ALLEY,2,Paved,City Street
+3801,LAKE DR,2,Paved,City Street
+3802,ALDER ST,2,Paved,City Street
+3803,MEADOW VALLEY DRIVE,2,Paved,County Road
+3804,NORTH OLD STAGE ROAD,2,Paved,County Road
+3805,W IVY ST,2,Paved,City Street
+3806,E CASTLE ST,2,Paved,City Street
+3807,S MT SHASTA BLVD,2,Paved,City Street
+3808,LOTUS LANE,2,Paved,County Road
+3809,WILDCAT CREEK ROAD,2,Unpaved,County Road
+3810,S MT SHASTA BLVD,2,Paved,City Street
+3811,NORTH C ST,2,Paved,City Street
+3812,ALDER ST,2,Paved,City Street
+3813,E CASTLE ST,2,Paved,City Street
+3814,S MT SHASTA BLVD,2,Paved,City Street
+3815,WASHINGTON DR,2,Paved,City Street
+3816,RUSSELL ST,2,Paved,City Street
+3817,W JESSIE ST,2,Paved,City Street
+3818,CEDAR ST,2,Paved,City Street
+3819,ALMA ST,2,Paved,City Street
+3820,PINE ST,2,Paved,City Street
+3821,LAKE DR,2,Paved,City Street
+3822,CHESTNUT ST,2,Paved,City Street
+3823,I-5,2,Paved,Interstate
+3824,SHASTA ACRES ROAD,2,Paved,County Road
+3825,GAZELLE CALLAHAN ROAD,2,Paved,County Road
+3826,OREM ST,2,Paved,City Street
+3827,NORTH A ST,2,Paved,City Street
+3828,CHESTNUT ST,2,Paved,City Street
+3829,OREM ST,2,Paved,City Street
+3830,NORTH C ST,2,Paved,City Street
+3831,OREM ST,2,Paved,City Street
+3832,WASHINGTON DR,2,Paved,City Street
+3833,OREM ST,2,Paved,City Street
+3834,W JESSIE ST,2,Paved,City Street
+3835,BLACKBEAR DR,2,Paved,City Street
+3836,LOVERS LANE ROAD,2,Paved,County Road
+3837,SISKIYOU AVE,2,Paved,City Street
+3838,WOODSIDE DRIVE,2,Paved,County Road
+3839,WOODSIDE DRIVE,2,Paved,County Road
+3840,EDDYS CIRCLE,2,Paved,County Road
+3841,BIG MEADOWS ROAD,2,Unpaved,County Road
+3842,BUCKHORN ROAD,2,Paved,County Road
+3843,BUCKHORN ROAD,2,Paved,County Road
+3844,BUCKHORN ROAD,2,Paved,County Road
+3845,BUCKHORN ROAD,2,Paved,County Road
+3846,BUCKHORN ROAD,2,Paved,County Road
+3847,BUCKHORN ROAD,2,Paved,County Road
+3848,CANTARA LOOP ROAD,2,Paved,County Road
+3849,CANTARA LOOP ROAD,2,Unpaved,County Road
+3850,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3851,COTTONWOOD CREEK ROAD,2,Unpaved,County Road
+3852,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3853,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3854,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3855,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3856,COTTONWOOD CREEK ROAD,2,Paved,County Road
+3857,DANNY DRIVE,2,Paved,County Road
+3858,DANNY DRIVE,2,Paved,County Road
+3859,DANNY DRIVE,2,Paved,County Road
+3860,DITCH CREEK ROAD,2,Paved,County Road
+3861,DITCH CREEK ROAD,2,Paved,County Road
+3862,DITCH CREEK ROAD,2,Paved,County Road
+3863,DITCH CREEK ROAD,2,Paved,County Road
+3864,DITCH CREEK ROAD,2,Paved,County Road
+3865,DITCH CREEK ROAD,2,Paved,County Road
+3866,DITCH CREEK ROAD,2,Paved,County Road
+3867,DITCH CREEK ROAD,2,Unpaved,County Road
+3868,DITCH CREEK ROAD,2,Unpaved,County Road
+3869,EVERETT MEMORIAL HWY,2,Paved,County Road
+3870,EVERETT MEMORIAL HWY,2,Paved,County Road
+3871,EVERETT MEMORIAL HWY,2,Paved,County Road
+3872,EVERETT MEMORIAL HWY,2,Paved,County Road
+3873,EVERETT MEMORIAL HWY,2,Paved,County Road
+3874,EVERETT MEMORIAL HWY,2,Paved,County Road
+3875,EVERETT MEMORIAL HWY,2,Paved,County Road
+3876,EVERETT MEMORIAL HWY,2,Paved,County Road
+3877,GLENDENNING ROAD,2,Paved,County Road
+3878,GREGORY MOUNTAIN ROAD,2,Paved,County Road
+3879,GREGORY MOUNTAIN ROAD,2,Paved,County Road
+3880,GREGORY MOUNTAIN ROAD,2,Paved,County Road
+3881,KIDDER CREEK ROAD,2,Paved,County Road
+3882,KIDDER CREEK ROAD,2,Paved,County Road
+3883,KIDDER CREEK ROAD,2,Unpaved,County Road
+3884,MCCONAUGHY GULCH ROAD,2,Paved,County Road
+3885,MCCONAUGHY GULCH ROAD,2,Unpaved,County Road
+3886,MCCONAUGHY GULCH ROAD,2,Paved,County Road
+3887,MCCONAUGHY GULCH ROAD,2,Paved,County Road
+3888,MCCONAUGHY GULCH ROAD,2,Paved,County Road
+3889,MCCONAUGHY GULCH ROAD,2,Unpaved,County Road
+3890,NEY SPRINGS ROAD,2,Unpaved,County Road
+3891,OAKWOOD LANE,2,Paved,County Road
+3892,SHADY DELL ROAD,2,Unpaved,County Road
+3893,SLOUGH ROAD,2,Unpaved,County Road
+3894,SOUTH INDIAN CREEK ROAD,2,Paved,County Road
+3895,SOUTH KIDDER CREEK ROAD,2,Paved,County Road
+3896,WEED AIRPORT ROAD,2,Paved,County Road
+3897,MOTT ROAD,2,Paved,City Street
+3898,MOTT ROAD,2,Paved,County Road
+3899,ROOSTER DRIVE,2,Unpaved,County Road
+3900,NORTH SHORE ROAD,2,Unpaved,County Road
+3901,RED ROCK ROAD,2,Paved,County Road
+3902,RED ROCK ROAD,2,Paved,County Road
+3903,RED ROCK ROAD,2,Paved,County Road
+3904,RED ROCK ROAD,2,Paved,County Road
+3905,RED ROCK ROAD,2,Paved,County Road
+3906,RED ROCK ROAD,2,Paved,County Road
+3907,PARK WAY,2,Paved,County Road
+3908,PARK WAY,2,Paved,County Road
+3909,PARK WAY,2,Paved,County Road
+3910,FIRST AVENUE,2,Paved,County Road
+3911,FIRST AVENUE,2,Paved,County Road
+3912,FIRST AVENUE,2,Paved,County Road
+3913,FIRST AVENUE,2,Paved,County Road
+3914,FIRST AVENUE,2,Paved,County Road
+3915,HORSE CREEK ROAD,2,Unpaved,County Road
+3916,MOTT ROAD,2,Paved,County Road
+3917,SOUTH OLD STAGE ROAD,2,Paved,County Road
+3918,EAST STREET,2,Unpaved,City Street
+3919,EAST STREET,2,Unpaved,County Road
+3920,THRUSH DRIVE,0,UNPAVED,County Road
+3921,DESEVADO ROAD,2,Paved,County Road
+3922,DESEVADO ROAD,2,Paved,County Road
+3923,DESEVADO ROAD,2,Paved,County Road
+3924,DESEVADO ROAD,2,Paved,County Road
+3925,DESEVADO ROAD,0,UNPAVED,County Road
+3926,DESEVADO ROAD,0,UNPAVED,County Road
+3927,DESEVADO ROAD,0,UNPAVED,County Road
+3928,WHITE ROCK ROAD,0,Paved,County Road
+3929,BRADLEY HENLEY ROAD,2,Paved,County Road
+3930,BRADLEY HENLEY ROAD,2,Paved,County Road
+3931,BRADLEY HENLEY ROAD,2,Unpaved,County Road
+3932,BRADLEY HENLEY ROAD,2,Paved,County Road
+3933,BRADLEY HENLEY ROAD,2,Paved,County Road
+3934,W A BARR ROAD,2,Paved,County Road
+3935,HWY 3,2,Paved,State Highway
+3936,HWY 3,2,Paved,State Highway
+3937,I-5,2,Paved,Interstate
+3938,I-5,2,Paved,Interstate
+3939,I-5R,2,Paved,Interstate Ramp
+3940,I-5R,2,Paved,Interstate Ramp
+3941,I-5,2,Paved,Interstate
+3942,I-5,2,Paved,Interstate
+3943, ,0, ,City Street
+3944, ,0, ,City Street
+3945, ,0, ,City Street
+3946, ,0, ,City Street
+3947, ,0, ,City Street
+3948, ,0, ,City Street
+3949, ,0, ,City Street
+3950, ,0, ,City Street
+3951,I-5,2,Paved,Interstate
+3952,I-5,2,Paved,Interstate
+3953, ,0, ,City Street
+3954, ,0, ,City Street
+3955, ,0, ,City Street
+3956, ,0, ,City Street
+3957, ,0, ,City Street
+3958, ,0, ,City Street
+3959, ,0, ,City Street
+3960, ,0, ,City Street
+3961, ,0, ,City Street
+3962,RAILROAD PARK ROAD,2,Paved,County Road
+3963,SCALA LANE,2,Paved,County Road
+3964,AGER ROAD,2,Paved,County Road
+3965,AGER ROAD,2,Paved,County Road
+3966,OAK ST,2,Paved,City Street
+3967,OAK STREET,2,Paved,County Road
+3968,OAK STREET,2,Paved,County Road
+3969,OAK STREET,2,Paved,County Road
+3970,OAK & WILLOW STREET CONNECTION ROAD,2,Paved,City Street
+3971,OAK & WILLOW STREET CONNECTION ROAD,2,Paved,City Street
+3972,OAK & WILLOW STREET CONNECTION ROAD,2,Paved,City Street
+3973,WILLOW CREEK AND RED ROCK ROAD,2,Unpaved,County Road
+3974,WILLOW CREEK AND RED ROCK ROAD,2,Unpaved,County Road
+3975,WILLOW CREEK AND RED ROCK ROAD,2,Unpaved,County Road
+3976,WILLOW CREEK AND RED ROCK ROAD,2,Paved,County Road
+3977,WILLOW CREEK AND RED ROCK ROAD,2,Paved,County Road
+3978,WILLOW CREEK AND RED ROCK ROAD,2,Unpaved,County Road
+3979,WILLOW CREEK AND RED ROCK ROAD,2,Paved,County Road
+3980,SCOTT MOUNTAIN ROAD,2,Unpaved,County Road
+3981,SCALA LANE,2,Unpaved,County Road
+3982,RESERVOIR ROAD,2,Paved,County Road
+3983,LICHENS ROAD,2,Unpaved,County Road
+3984,TABLEROCK ROAD,2,Unpaved,County Road
+3985,COPCO ROAD,2,Paved,County Road
+3986,COPCO ROAD,2,Paved,County Road
+3987,RANCHERIA CREEK ROAD,2,Unpaved,County Road
+3988,YREKA STREET,2,Paved,County Road
+3989,YREKA STREET,2,Unpaved,County Road
+3990,AGER BESWICK ROAD,2,Paved,County Road
+3991,AGER BESWICK ROAD,2,Paved,County Road
+3992,JOSEPH PLACE,0,Unpaved,County Road
+3993,99-97 CUTOFF,2,Paved,County Road
+3994,99-97 CUTOFF,2,Paved,County Road
+3995,YELLOW BUTTE ROAD,2,Unpaved,County Road
+3996,YELLOW BUTTE ROAD,2,Unpaved,County Road
+3997, ,2,Unpaved,City Street
+3998,CURLY JACK ROAD,2,Paved,County Road
+3999,BUCKHORN ROAD,2,Paved,County Road
+4000,NUGGET STREET,2,Paved,County Road
+4001,AIRPORT ROAD,2,Paved,County Road
+4002,HWY 96,2,Paved,State Highway
+4003,HWY 96,2,Paved,State Highway
+4004,JACKSON RANCH ROAD,2,Paved,County Road
+4005,HILL ROAD,2,Paved,County Road
+4006,HART AVE,2,Paved,City Street
+4007,WELLS AVE,2,Paved,City Street
+4008,NEEDHAM AVE,2,Paved,City Street
+4009,WELLS AVE,2,Paved,City Street
+4010,ALLEY,2,Paved,City Street
+4011,GLEAVES AVE,2,Paved,City Street
+4012,WELLS AVE,2,Paved,City Street
+4013,WELLS AVE,2,Paved,City Street
+4014,DUNSMUIR AVE,2,Paved,City Street
+4015,WELLS AVE,2,Paved,City Street
+4016,HAVEN AVE,2,Paved,City Street
+4017,SIMPSON ST,2,Paved,City Street
+4018,GOODCELL AVE,2,Paved,City Street
+4019,BLACKBEAR DR,2,Paved,City Street
+4020,CASTLE LAKE ROAD,2,Paved,County Road
+4021,SIMPSON ST,2,Paved,City Street
+4022,SISKIYOU AVE,2,Paved,City Street
+4023,SHASTA VIEW AV,2,Paved,City Street
+4024,HART AVE,2,Paved,City Street
+4025,HEMLOCK ST,2,Paved,City Street
+4026,SHASTA VIEW AV,2,Paved,City Street
+4027,HEMLOCK ST,2,Paved,City Street
+4028,FOREST LN,2,Paved,City Street
+4029,FOREST LN,2,Paved,City Street
+4030,FOREST LN,2,Paved,City Street
+4031,SIMPSON ST,2,Paved,City Street
+4032,SHASTA VIEW AV,2,Paved,City Street
+4033,FAWN COURT,2,Paved,City Street
+4034,SPRING ST,2,Paved,City Street
+4035,CAVE AVE,2,Paved,City Street
+4036,SISKIYOU AVE,2,Paved,City Street
+4037,DEER HAVEN,2,Paved,City Street
+4038,TIMBER DR,2,Paved,City Street
+4039,TIMBER DR,2,Paved,City Street
+4040,CAVE AVE,2,Paved,City Street
+4041,CECILVILLE ROAD,2,Paved,County Road
+4042,DUNSMUIR AVE,2,Paved,City Street
+4043,SCARLETT AVE,2,Paved,City Street
+4044,I-5,3,Paved,Interstate
+4045,I-5,3,Paved,Interstate
+4046,I-5,2,Paved,Interstate
+4047,BUCKBOARD LANE,2,Paved,City Street
+4048,DUNSMUIR AVE,2,Paved,City Street
+4049,SISKIYOU AVE,2,Paved,City Street
+4050,I-5,2,Paved,Interstate
+4051,SISKIYOU AVE,2,Paved,City Street
+4052,I-5,2,Paved,Interstate
+4053,SISKIYOU AVE,2,Paved,City Street
+4054,I-5R,2,Paved,Interstate Ramp
+4055,SISKIYOU AVE,2,Paved,City Street
+4056,DUNSMUIR AVE,2,Paved,City Street
+4057,CECILVILLE ROAD,2,Paved,County Road
+4058,SISKIYOU AVE,2,Paved,City Street
+4059,MC CLOUD AVE,2,Paved,City Street
+4060,MASSON AVE,2,Paved,City Street
+4061,PIONEER WAY,2,Paved,City Street
+4062,DUNSMUIR AVE,2,Paved,City Street
+4063,PIONEER WAY,2,Paved,City Street
+4064,MASSON AVE,2,Paved,City Street
+4065,DUNSMUIR AVE,2,Paved,City Street
+4066,STAGECOACH RD,2,Paved,City Street
+4067,I-5R,2,Paved,Interstate Ramp
+4068,DUNSMUIR AVE,2,Paved,City Street
+4069,I-5,2,Paved,Interstate
+4070,DUNSMUIR AVE,2,Paved,City Street
+4071,UPPER SODA RD,2,Paved,City Street
+4072,RIVER AVE,2,Paved,City Street
+4073,UPPER SODA RD,2,Paved,City Street
+4074,I-5R,2,Paved,Interstate Ramp
+4075,UPPER SODA RD,2,Paved,City Street
+4076,I-5,2,Paved,Interstate
+4077,I-5,2,Paved,Interstate
+4078,UPPER SODA RD,2,Paved,City Street
+4079,UPPER SODA RD,2,Paved,City Street
+4080,DUNSMUIR AVE,2,Paved,City Street
+4081,FLORENCE LOOP,2,Paved,City Street
+4082,I-5,2,Paved,Interstate
+4083,I-5R,2,Paved,Interstate Ramp
+4084,I-5,2,Paved,Interstate
+4085,DUNSMUIR AVE,2,Paved,City Street
+4086,I-5,2,Paved,Interstate
+4087,DUNSMUIR AVE,2,Paved,City Street
+4088,FLORENCE LOOP,2,Paved,City Street
+4089,DUNSMUIR AVE,2,Paved,City Street
+4090,RIVER AVE,2,Paved,City Street
+4091,FLORENCE LOOP,2,Paved,City Street
+4092,I-5R,2,Paved,Interstate Ramp
+4093,FLORENCE LOOP,2,Paved,City Street
+4094,DUNSMUIR AVE,2,Paved,City Street
+4095,FLORENCE LOOP,2,Paved,City Street
+4096,I-5R,2,Paved,Interstate Ramp
+4097,FLORENCE LOOP,2,Paved,City Street
+4098,DUNSMUIR AVE,2,Paved,City Street
+4099,SHASTA AVE,2,Paved,City Street
+4100,DUNSMUIR AVE,2,Paved,City Street
+4101,SACRAMENTO AVE,2,Paved,City Street
+4102,SACRAMENTO AVE,2,Paved,City Street
+4103,DUNSMUIR AVE,2,Paved,City Street
+4104,SPRING ST,2,Paved,City Street
+4105,SHASTA AVE,2,Paved,City Street
+4106,SACRAMENTO AVE,2,Paved,City Street
+4107,SHASTA AVE,2,Paved,City Street
+4108,SHASTA AVE,2,Paved,City Street
+4109,ASH ST,2,Paved,City Street
+4110,DUNSMUIR AVE,2,Paved,City Street
+4111,ASH ST,2,Paved,City Street
+4112,SHASTA AVE,2,Paved,City Street
+4113,ASH ST,2,Paved,City Street
+4114,CLARK ST,2,Paved,City Street
+4115,RIVER AVE,2,Paved,City Street
+4116,SACRAMENTO AVE,2,Paved,City Street
+4117,WILLOW ST,2,Paved,City Street
+4118,DUNSMUIR AVE,2,Paved,City Street
+4119,WILLOW ST,2,Paved,City Street
+4120,SHASTA AVE,2,Paved,City Street
+4121,I-5R,2,Paved,Interstate Ramp
+4122,I-5,2,Paved,Interstate
+4123,WILLOW ST,2,Paved,City Street
+4124,CASTLE AVE,2,Paved,City Street
+4125,CECILVILLE ROAD,2,Paved,County Road
+4126,CASTLE AVE,2,Paved,City Street
+4127,SHASTA AVE,2,Paved,City Street
+4128,SPRUCE ST,2,Paved,City Street
+4129,DUNSMUIR AVE,2,Paved,City Street
+4130,SPRUCE ST,2,Paved,City Street
+4131,I-5,2,Paved,Interstate
+4132,WILLOW ST,2,Paved,City Street
+4133,I-5,2,Paved,Interstate
+4134,WILLOW ST,2,Paved,City Street
+4135,SHASTA TERRACE ST,2,Paved,City Street
+4136,CASTLE AVE,2,Paved,City Street
+4137,DUNSMUIR AVE,2,Paved,City Street
+4138,SHASTA AVE,2,Paved,City Street
+4139,PINE ST,2,Paved,City Street
+4140,SHASTA AVE,2,Paved,City Street
+4141,DUNSMUIR AVE,2,Paved,City Street
+4142,PINE ST,2,Paved,City Street
+4143,CASTLE AVE,2,Paved,City Street
+4144,VISTA ST,2,Paved,City Street
+4145,SACRAMENTO AVE,2,Paved,City Street
+4146,PINE ST,2,Paved,City Street
+4147,CASTLE AVE,2,Paved,City Street
+4148,FREEWAY AVE,2,Paved,City Street
+4149,SHASTA AVE,2,Paved,City Street
+4150,CEDAR ST,2,Paved,City Street
+4151,CASTLE AVE,2,Paved,City Street
+4152,OLIVE ST,2,Paved,City Street
+4153,DUNSMUIR AVE,2,Paved,City Street
+4154,FREEWAY AVE,2,Paved,City Street
+4155,CASTLE AVE,2,Paved,City Street
+4156,ORANGE ST,2,Paved,City Street
+4157,SACRAMENTO AVE,2,Paved,City Street
+4158,CEDAR ST,2,Paved,City Street
+4159,SACRAMENTO AVE,2,Paved,City Street
+4160,CASTLE AVE,2,Paved,City Street
+4161,GILLIS ST,2,Paved,City Street
+4162,BUTTERFLY AVE,2,Paved,City Street
+4163,I-5,2,Paved,Interstate
+4164,I-5,2,Paved,Interstate
+4165,DALY ST,2,Paved,City Street
+4166,OAK ST,2,Paved,City Street
+4167,CASTLE AVE,2,Paved,City Street
+4168,OAK ST,2,Paved,City Street
+4169,SHASTA AVE,2,Paved,City Street
+4170,OAK ST,2,Paved,City Street
+4171,DUNSMUIR AVE,2,Paved,City Street
+4172,OAK ST,2,Paved,City Street
+4173,OAK ST,2,Paved,City Street
+4174,OAK ST,2,Paved,City Street
+4175,MOUNTAIN AVE,2,Paved,City Street
+4176,WOODEN ST,2,Paved,City Street
+4177,GILLIS ST,2,Paved,City Street
+4178,SHASTA AVE,2,Paved,City Street
+4179,SACRAMENTO AVE,2,Paved,City Street
+4180,BRANSTETTER ST,2,Paved,City Street
+4181,SNOW AV,2,Paved,City Street
+4182,BRANSTETTER ST,2,Paved,City Street
+4183,BRANSTETTER ST,2,Paved,City Street
+4184,DUNSMUIR AVE,2,Paved,City Street
+4185,BRANSTETTER ST,2,Paved,City Street
+4186,SHASTA AVE,2,Paved,City Street
+4187,SACRAMENTO AVE,2,Paved,City Street
+4188,BRANSTETTER ST,2,Paved,City Street
+4189,SACRAMENTO AVE,2,Paved,City Street
+4190,WALNUT ST,2,Paved,City Street
+4191,DUNSMUIR AVE,2,Paved,City Street
+4192,WOOD ST,2,Paved,City Street
+4193,WOOD ST,2,Paved,City Street
+4194,ELINORE AVE,2,Paved,City Street
+4195,HILL AVE,2,Paved,City Street
+4196,DUNSMUIR AVE,2,Paved,City Street
+4197,ALLEY,2,Paved,City Street
+4198,ELINORE AVE,2,Paved,City Street
+4199,GROVER ST,2,Paved,City Street
+4200,ELINORE AVE,2,Paved,City Street
+4201,ALLEN ST,2,Paved,City Street
+4202,DUNSMUIR AVE,2,Paved,City Street
+4203,SACRAMENTO AVE,2,Paved,City Street
+4204,GROVER ST,2,Paved,City Street
+4205,DUNSMUIR AVE,2,Paved,City Street
+4206,HILL AVE,2,Paved,City Street
+4207,SOUTH ST,2,Paved,City Street
+4208,SACRAMENTO AVE,2,Paved,City Street
+4209,EDYTH ST,2,Paved,City Street
+4210,SACRAMENTO AVE,2,Paved,City Street
+4211,VERNIE ST,2,Paved,City Street
+4212,DUNSMUIR AVE,2,Paved,City Street
+4213,HILL AVE,2,Paved,City Street
+4214,SQUAW VALLEY ROAD,2,Paved,County Road
+4215,ELINORE AVE,2,Paved,City Street
+4216,BEVERLEY WAY,2,Paved,City Street
+4217,DUNSMUIR AVE,2,Paved,City Street
+4218,SCHERRER AVE,2,Paved,City Street
+4219,GILLIS ST,2,Paved,City Street
+4220,FOURTH ST,2,Paved,City Street
+4221,DUNSMUIR AVENUE,2,Paved,County Road
+4222,BRIDGE STREET,2,Paved,County Road
+4223,FOURTH STREET,2,Paved,County Road
+4224,GILLIS STREET,2,Paved,County Road
+4225,BRIDGE STREET,2,Paved,County Road
+4226,SIXTH STREET,2,Paved,County Road
+4227,KATHERINE STREET,2,Paved,County Road
+4228,FOURTH STREET,2,Paved,County Road
+4229,FIRST STREET RIVER ROAD,2,Paved,County Road
+4230,RITA STREET,2,Paved,County Road
+4231,FIFTH STREET,2,Paved,County Road
+4232,MARION STREET,2,Paved,County Road
+4233,MARION STREET,2,Paved,County Road
+4234,SECOND STREET,2,Paved,County Road
+4235,FOURTH STREET,2,Paved,County Road
+4236,KATHERINE STREET,2,Paved,County Road
+4237,SECOND STREET,2,Paved,County Road
+4238,FIRST STREET RIVER ROAD,2,Paved,County Road
+4239,WELSH LANE,2,Paved,County Road
+4240,THIRD STREET,2,Paved,County Road
+4241,PONDOSA WAY,2,Unpaved,County Road
+4242,I-5,2,Paved,Interstate
+4243,PANORAMA ROAD,2,Paved,County Road
+4244,I-5,2,Paved,Interstate
+4245,PANORAMA ROAD,2,Paved,County Road
+4246,DUNSMUIR AVENUE,2,Paved,County Road
+4247,FIRST STREET RIVER ROAD,2,Paved,County Road
+4248,SOUTH SECOND STREET,2,Paved,County Road
+4249,MICAN STREET,2,Paved,County Road
+4250,MICAN STREET,2,Paved,County Road
+4251,FRANCIS STREET,2,Paved,County Road
+4252,PANORAMA ROAD,2,Paved,County Road
+4253,DUNSMUIR AVENUE,2,Paved,County Road
+4254,FIRST STREET RIVER ROAD,2,Paved,County Road
+4255,SOUTH SECOND STREET,2,Paved,County Road
+4256,PONDOSA WAY,2,Paved,County Road
+4257,I-5,2,Paved,Interstate
+4258,WEST LAVA ROAD,2,Paved,County Road
+4259,PONDOSA WAY,2,Paved,County Road
+4260,DUNSMUIR AVENUE,2,Paved,County Road
+4261,ELIZABETH STREET,2,Paved,County Road
+4262,I-5,2,Paved,Interstate
+4263,CECILVILLE ROAD,2,Paved,County Road
+4264,PONDOSA WAY,2,Paved,County Road
+4265,DUNSMUIR AVENUE,2,Paved,County Road
+4266,I-5,2,Paved,Interstate
+4267,I-5,2,Paved,Interstate
+4268,I-5R,2,Paved,Interstate Ramp
+4269,I-5,2,Paved,Interstate
+4270,I-5,2,Paved,Interstate
+4271,I-5,2,Paved,Interstate
+4272,I-5,2,Paved,Interstate
+4273,I-5,2,Paved,Interstate
+4274,I-5R,2,Paved,Interstate Ramp
+4275,I-5,2,Paved,Interstate
+4276,I-5R,2,Paved,Interstate Ramp
+4277,I-5R,2,Paved,Interstate Ramp
+4278,SQUAW VALLEY ROAD,2,Paved,County Road
+4279,I-5R,2,Paved,Interstate Ramp
+4280,I-5,2,Paved,Interstate
+4281,I-5,2,Paved,Interstate
+4282,I-5R,2,Paved,Interstate Ramp
+4283,SQUAW VALLEY ROAD,2,Paved,County Road
+4284,SQUAW VALLEY LOOP ROAD,2,Unpaved,County Road
+4285,I-5,2,Paved,Interstate
+4286,CRAG VIEW DRIVE,2,Paved,County Road
+4287,FIRST STREET RIVER ROAD,2,Paved,County Road
+4288,HWY 89,2,Paved,State Highway
+4289,PONDOSA WAY,2,Paved,County Road
+4290,SQUAW VALLEY ROAD,2,Paved,County Road
+4291,CECILVILLE ROAD,2,Paved,County Road
+4292,CECILVILLE ROAD,2,Paved,County Road
+4293,CECILVILLE ROAD,2,Paved,County Road
+4294,CECILVILLE ROAD,2,Paved,County Road
+4295,EDDYS GULCH ROAD,2,Paved,County Road
+4296,EDDYS GULCH ROAD,2,Unpaved,County Road
+4297,CECILVILLE ROAD,2,Paved,County Road
+4298,EDDYS GULCH ROAD,2,Paved,County Road
+4299,CECILVILLE ROAD,2,Paved,County Road
+4300,CECILVILLE ROAD,2,Paved,County Road
+4301,CECILVILLE ROAD,2,Paved,County Road
+4302,PETERSBURG ROAD,2,Paved,County Road
+4303,CARIBOU ROAD,2,Paved,County Road
+4304,CARIBOU ROAD,2,Unpaved,County Road
+4305,N RAILROAD AV,2,Unpaved,City Street
+4306,OLD STATE HWY,2,Paved,County Road
+4307,OLD STATE HWY,2,Paved,County Road
+4308,EAST BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4309,ISLAND ROAD,2,Paved,County Road
+4310,ISLAND ROAD,2,Paved,County Road
+4311,MCADAMS CREEK ROAD,2,Unpaved,County Road
+4312,MCADAMS CREEK ROAD,2,Unpaved,County Road
+4313,GREENHORN ROAD,2,Unpaved,County Road
+4314,EDDYS GULCH ROAD,2,Unpaved,County Road
+4315,BLACK BEAR ROAD,2,Unpaved,County Road
+4316,PARK WAY,2,Paved,County Road
+4317,PARK WAY,2,Paved,County Road
+4318,REEVES STREET,2,Paved,County Road
+4319,REEVES STREET,2,Paved,County Road
+4320,CRUMPTON STREET,2,Paved,County Road
+4321,LIVE OAK DRIVE,2,Paved,County Road
+4322,LIVE OAK DRIVE,2,Paved,County Road
+4323,ORCHARD STREET,2,Paved,County Road
+4324,GROVE AVENUE,2,Paved,County Road
+4325,GROVE AVENUE,2,Paved,County Road
+4326,EAST MINNESOTA AVENUE,2,Paved,County Road
+4327,MAIN STREET,2,Paved,County Road
+4328,MAIN STREET,2,Paved,County Road
+4329,LAWNDALE COURT,2,Paved,County Road
+4330,MILL ROAD,2,Paved,County Road
+4331,MILL ROAD,2,Paved,County Road
+4332,BEAUMONT AVENUE,2,Paved,County Road
+4333,EDGEWOOD ROAD,2,Paved,County Road
+4334,EDGEWOOD ROAD,2,Paved,County Road
+4335,OLD EDGEWOOD WEED ROAD,2,Paved,County Road
+4336,EDGEWOOD ROAD,2,Paved,County Road
+4337,EDGEWOOD ROAD,2,Paved,County Road
+4338,CREAMERY LANE,2,Paved,County Road
+4339,EDGEWOOD ROAD,2,Paved,County Road
+4340,EDGEWOOD ROAD,2,Paved,County Road
+4341,FIRST STREET,2,Paved,County Road
+4342,EDGEWOOD ROAD,2,Paved,County Road
+4343,EDGEWOOD ROAD,2,Paved,County Road
+4344,SLOUGH ROAD,2,Paved,County Road
+4345,OLD EDGEWOOD WEED ROAD,2,Unpaved,County Road
+4346,I-5R,2,Paved,Interstate Ramp
+4347,I-5R,2,Paved,Interstate Ramp
+4348,I-5R,2,Paved,Interstate Ramp
+4349,I-5R,2,Paved,Interstate Ramp
+4350,I-5R,2,Paved,Interstate Ramp
+4351,NORTH SHORE ROAD,2,Paved,County Road
+4352,S MT SHASTA BLVD,2,Paved,City Street
+4353,S MT SHASTA BLVD,2,Paved,City Street
+4354,REAM AVE,2,Paved,City Street
+4355,S MT SHASTA BLVD,2,Paved,City Street
+4356,S MT SHASTA BLVD,2,Paved,City Street
+4357,WATER ST,2,Paved,City Street
+4358,NORTH B ST,2,Paved,City Street
+4359,NORTH B ST,2,Paved,City Street
+4360,RUSSELL ST,2,Paved,City Street
+4361,PONY TRAIL,2,Paved,County Road
+4362,ELINORE AVE,2,Paved,City Street
+4363,SURREY ST,2,Paved,City Street
+4364,ELINORE AVE,2,Paved,City Street
+4365,ELINORE AVE,2,Paved,City Street
+4366,BEVERLEY WAY,2,Paved,City Street
+4367,ROSE AVE,2,Paved,City Street
+4368,ROSE AVE,2,Paved,City Street
+4369,ROSE AVE,2,Paved,City Street
+4370,CHERRY AVE,2,Paved,City Street
+4371,WALNUT ST,2,Paved,City Street
+4372,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+4373,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4374,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4375,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4376,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4377,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4378,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4379,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4380,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4381,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Paved,County Road
+4382,TOWNSEND ROAD,2,Paved,County Road
+4383,BIG SPRINGS ROAD,2,Paved,County Road
+4384,JUNIPER LANE,2,Paved,County Road
+4385,BIG SPRINGS ROAD,2,Paved,County Road
+4386,BIG SPRINGS ROAD,2,Paved,County Road
+4387,MAYTEN ROAD,2,Paved,County Road
+4388,BIG SPRINGS ROAD,2,Paved,County Road
+4389,BIG SPRINGS ROAD,2,Paved,County Road
+4390,MAYTEN ROAD,2,Paved,County Road
+4391,BALL MOUNTAIN LITTLE SHASTA ROAD,2,Unpaved,County Road
+4392,WEST MACDOEL DISTRICT ROAD,2,Unpaved,County Road
+4393,LONG PRAIRIE ROAD,2,Unpaved,County Road
+4394,SECOND AVENUE,2,Paved,County Road
+4395,SECOND AVENUE,2,Paved,County Road
+4396,INDIAN CREEK ROAD,2,Paved,County Road
+4397,HWY 96,2,Paved,State Highway
+4398,HWY 96,2,Paved,State Highway
+4399,OLD HIGHWAY,2,Paved,County Road
+4400,CHINA GRADE ROAD,2,Paved,County Road
+4401,INDIAN CREEK ROAD,2,Paved,County Road
+4402,INDIAN CREEK ROAD,2,Paved,County Road
+4403,INDIAN MEADOWS DRIVE,2,Paved,County Road
+4404,HWY 96,2,Paved,State Highway
+4405,HWY 96,2,Paved,State Highway
+4406,ELK CREEK ROAD,2,Paved,County Road
+4407,CHINA GRADE ROAD,2,Paved,County Road
+4408,INDIAN CREEK ROAD,2,Unpaved,County Road
+4409,YREKA WALKER ROAD,2,Unpaved,County Road
+4410,LONG GULCH ROAD,2,Paved,County Road
+4411,LONG GULCH ROAD,2,Paved,County Road
+4412,HAWKINSVILLE ROAD,2,Paved,County Road
+4413,HAWKINSVILLE ROAD,2,Paved,County Road
+4414,HAWKINSVILLE ROAD,0, ,City Street
+4415,ELLER LANE,2,Paved,County Road
+4416,ELLER LANE,2,Paved,County Road
+4417,SCOTT VALLEY ROAD,2,Paved,County Road
+4418,HUROADS GULCH RD,2,Unpaved,County Road
+4419,EAST MOFFETT CREEK ROAD,2,Unpaved,County Road
+4420,SOAP CREEK ROAD,2,Unpaved,County Road
+4421,SUGAR CREEK ROAD,2,Unpaved,County Road
+4422,SUGAR CREEK ROAD,2,Unpaved,County Road
+4423,SALMON RIVER ROAD,2,Paved,County Road
+4424,SALMON RIVER ROAD,2,Paved,County Road
+4425,SALMON RIVER ROAD,2,Paved,County Road
+4426,EDDYS GULCH ROAD,2,Unpaved,County Road
+4427,HWY 97,2,Paved,State Highway
+4428,HWY 97,2,Paved,State Highway
+4429,4TH ST,2,Paved,City Street
+4430,S RAILROAD AV,2,Unpaved,City Street
+4431,SCHOOLHOUSE ROAD,2,Unpaved,County Road
+4432,BITTER WAY,2,Paved,County Road
+4433,BITTER WAY,2,Paved,County Road
+4434,MAPLE AVENUE,2,Paved,County Road
+4435,MAPLE AVENUE,2,Paved,County Road
+4436,BITTER WAY,2,Paved,County Road
+4437,MAPLE AVENUE,2,Paved,County Road
+4438,HWY 97,3,Paved,State Highway
+4439,HWY 97,3,Paved,State Highway
+4440,BROOKSIDE AVENUE,2,Paved,County Road
+4441,HWY 97,3,Paved,State Highway
+4442,HWY 97,3,Paved,State Highway
+4443,ANGEL VALLEY ROAD,2,Paved,County Road
+4444,MILL ST,2,Paved,City Street
+4445,MILL ST,2,Paved,City Street
+4446,ROME ST,2,Paved,City Street
+4447,LAKE ST,2,Paved,City Street
+4448,PARK ST,2,Paved,City Street
+4449,MICHELLE DRIVE,2,Paved,County Road
+4450,CASTLE LAKE ROAD,2,Paved,County Road
+4451,CASTLE LAKE ROAD,2,Paved,County Road
+4452,GOODCELL AVE,2,Paved,City Street
+4453,I-5R,2,Paved,Interstate Ramp
+4454,LEMOS ROAD,2,Paved,County Road
+4455,LEMOS ROAD,2,Paved,County Road
+4456,I-5R,2,Paved,Interstate Ramp
+4457,LEMOS ROAD,2,Paved,County Road
+4458,LEMOS ROAD,2,Paved,County Road
+4459,I-5R,2,Paved,Interstate Ramp
+4460,HORNBROOK ROAD,2,Paved,County Road
+4461,HORNBROOK ROAD,2,Paved,County Road
+4462,I-5R,2,Paved,Interstate Ramp
+4463,I-5R,2,Paved,Interstate Ramp
+4464,I-5R,2,Paved,Interstate Ramp
+4465,COPCO ROAD,2,Paved,County Road
+4466,COPCO ROAD,2,Paved,County Road
+4467,I-5R,2,Paved,Interstate Ramp
+4468,I-5R,2,Paved,Interstate Ramp
+4469,KLEAVER DR,2,Paved,City Street
+4470,HERZOG BLVD,2,Paved,City Street
+4471,FOOTHILL DR,2,Paved,City Street
+4472,FOOTHILL DR,2,Paved,City Street
+4473,KLEAVER DR,2,Paved,City Street
+4474,MOONLIT OAKS AV,2,Paved,City Street
+4475,MOONLIT OAKS AV,2,Paved,City Street
+4476,I-5R,2,Paved,Interstate Ramp
+4477,I-5R,2,Paved,Interstate Ramp
+4478,MOONLIT OAKS AV,2,Paved,City Street
+4479,MOONLIT OAKS AV,2,Paved,City Street
+4480,I-5R,2,Paved,Interstate Ramp
+4481,EASY STREET,2,Paved,County Road
+4482,EASY STREET,2,Paved,County Road
+4483,SCHULMEYER ROAD,2,Paved,County Road
+4484,ACCESS ROAD,2,Paved,County Road
+4485,ACCESS ROAD,2,Paved,County Road
+4486,I-5R,2,Paved,Interstate Ramp
+4487,99-97 CUTOFF,2,Paved,County Road
+4488,I-5R,2,Paved,Interstate Ramp
+4489,99-97 CUTOFF,2,Paved,County Road
+4490,99-97 CUTOFF,2,Paved,County Road
+4491,I-5R,2,Paved,Interstate Ramp
+4492,OLD 99 HIGHWAY,2,Paved,County Road
+4493,OLD 99 HIGHWAY,2,Paved,County Road
+4494,TIMMONS ROAD,2,Paved,County Road
+4495,EAST LOUIE ROAD,2,Paved,County Road
+4496,EAST LOUIE ROAD,2,Paved,County Road
+4497,CHAPARRAL DR,2,Paved,City Street
+4498,ISGRIGG AVE,2,Paved,City Street

@@ -1,0 +1,274 @@
+---
+title: "The Assumptions of Bigfoot"
+author: "Melody Lui"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(messages = FALSE, cache = FALSE) #how to display info from chunks
+
+# remotes::install_deps()
+library(tmap)      #interactive maps, raster + vector layers
+library(terra)       # Successor to the raster library
+library(tidyverse)   # our old friend
+library(sf)          # to work with simple features (vector) data
+library(stars)     # to work with raster
+library(rstac)
+library(gdalcubes)
+gdalcubes::gdalcubes_options(parallel = TRUE)
+```
+
+## Objectives
+
+To collect all the thoughts and knowledge from the past semester and tie it into a single assignment. As well as grow out knowledge on the tools of R. 
+
+## Introduction
+
+Journalist, Laura Krantz, wrote an article for *High Country News* in 2019 titled ['Even if Bigfoot isn't real, we still need him'] (<https://www.hcn.org/articles/essays-even-if-bigfoot-isnt-real-we-still-need-him>) after spending two years researching and tracking down the ins and outs of Bigfoot.
+
+An interesting claim that Laura makes, considering that Bigfoot is 'just a myth' in American society.
+
+As the article progresses, Laura eludes to the idea of how American culture is dissociated from nature and the Earth. Humans, especially Americans, have had a decreased sense of engagement with the environment as technology continues to increase and society continues to move towards a complete isolation from all things natural.
+
+Laura continues to explain her cause, even talking to several biologists and researchers about Bigfoot. The main reason for trying to discover such a myth as Bigfoot is to preserve the area its concentrated around. John Kirk, President of the British Columbia Scientific Cryptozoology Club, said to Laura, "I think habitat's worth preserving plain and simple, but if you can put a biological rarity into that equation like they did with the spotted owl..." then preservation becomes even more important.
+
+Therefore the hunt for Bigfoot is vaguely about catching a rare and mythical creature that has yet to be proven real, but moreso about preserving the little nature that remains on our Earth. It is moreso about rekindling our relationship with nature, organisms, and the Earth and being able to connect with what we keep diminishing. 
+
+```{r}
+bigfoot_sightings <- read_csv("data/bfro_reports_geocoded.csv", col_types = "ccccccddDdccdddddddddcdccdddd")
+bigfoot_sightings
+
+```
+
+## Part 1
+
+Bigfeet are the most seen in the Pacific Northwest near the western coast of the United States. We want to focus all of our data into the Pacific Northwest to make things easier to run. After creating smaller data frames, we will want to determine the best, most ideal conditions that Bigfeet live in. Assume that the Bigfoot Sightings are the exact location of Bigfoot habitat.
+
+```{r pnw dataframe}
+bigfoot_wo <- filter(bigfoot_sightings, state == "Washington" | state == "Oregon") 
+
+bigfoot_cal <- filter(bigfoot_sightings, state == "California")
+                      
+bigfoot_pnwcal <- filter(bigfoot_cal, county == "Siskiyou County"| county == "Del Norte County"| county == "Humboldt County") 
+
+bigfoot_pnw <- bind_rows(bigfoot_wo, bigfoot_pnwcal)
+
+```
+
+```{r seasons}
+pnw_sum <- filter(bigfoot_pnw, season == "Summer")
+pnw_fall <- filter(bigfoot_pnw, season == "Fall")
+pnw_winter <- filter(bigfoot_pnw, season == "Winter")
+pnw_spring <- filter(bigfoot_pnw, season == "Spring")
+
+pnw_count <- bigfoot_pnw %>% count(season)
+
+szn_graph <- ggplot(bigfoot_pnw) + geom_bar(aes(x = season))
+szn_graph
+```
+
+Bigfoot are usually seen in the Summer seasons in the Pacific Northwest. This may be because it is usually more clear and more daylight impedes on the forests of the PNW in the summertime, however plots of the weather conditions in the summer show that it is actually almost equally likely that it will be clear or partially cloudy.
+
+This graph is important as it can also be explained by the amount of CO2 in the atmosphere during these times. CO2 is in abundance more often in the Springtime as the CO2 has accumulated during the winter seasons. During the summertime, the CO2 is slowly escaping and is at its all time low around October after the summer. As Bigfeet are mammals, they could lack oxygen even in highly forested areas. Bigfeet are seen to be large mammalian creatures, they would need to intake a lot of oxygen just to survive. The high amounts of CO2 during the Winter could lead to hibernation like bears. As the Spring and Summer roll around, they are able to breathe and find energy to fight through the several months.
+
+```{r moon graph}
+moon_phase_sum <- ggplot(pnw_sum) + geom_bar(aes(x = moon_phase))
+moon_phase_sum
+
+moon_phase <- ggplot(bigfoot_pnw) + geom_bar(aes(x = moon_phase))
+moon_phase
+```
+
+Moon phase could be important in figuring out when Bigfoot come out the most if they are more supernatural like Werewolves. Werewolves are most often known to come out during full moons. However, we see that the Bigfoot are usually spotted during the third quarter of the moon phase, also known as the Waning Gibbous. I am performing both summer only Bigfoot sightings as well as all the PNW sightings as this will help see if there is a pattern between ALL Bigfoot sightings or just the summer months.
+
+```{r weather conditions}
+weather_sum <- ggplot(pnw_sum) + geom_bar(aes(x = conditions)) +
+    theme(text = element_text(size=10),
+        axis.text.x = element_text(angle=45, hjust=1)) 
+weather_sum
+
+weather <- ggplot(bigfoot_pnw) + geom_bar(aes(x = conditions)) +
+    theme(text = element_text(size=10),
+        axis.text.x = element_text(angle=45, hjust=1)) 
+weather
+```
+
+```{r visibility}
+vis_sum <- ggplot(pnw_sum) + geom_bar(aes(x = visibility))
+vis_sum
+
+visibility <- ggplot(bigfoot_pnw) + geom_bar(aes(x = visibility))
+visibility
+
+```
+
+Visibility is the amount of light and how clear the day was during each Bigfoot sighting. The higher the visibility, the more clear of a day it was. Fog, precipitation, and cloudiness can all lower the visibility. Although most summer days were clear, there were not too many high visibility days, even throughout the year. Most of the visibility was around the 9 range, indicating cloudiness or precipitation. This is evident in the abundance of sightings during cloudy conditions in the graphs above.
+
+```{r}
+county_graph <- ggplot(pnw_sum, aes(x= moon_phase)) + geom_bar() + facet_wrap(~ county) +
+    theme(text = element_text(size=7),
+        axis.text.x = element_text(angle=90, hjust=1)) 
+county_graph
+
+```
+
+```{r}
+group <- pnw_sum %>% count(county)
+group
+
+```
+
+## Part 2
+
+The top 30% of Bigfoot sightings are within only 6 counties in the Pacific Northwest: Skamania (Washington), Humboldt (California), Pierce (Washington), Snohomish (Washington), Siskiyou (California), and Clackamas (Oregon). The top 25% is within the first 5 counties out of 55 total counties in the Pacific Northwest. Since these sightings are not evenly distributed among all 55 counties, there should ideally be a common theme between the top 6 counties with the most Bigfoot sightings.
+
+As we progress further into our Bigfoot research, California officials are also looking for Bigfoot as well. The northern-most part of California has some of the richest biodiversity in the country. Especially in Siskiyou, the terrain and geography are so unique that the flora and organisms that reside here are among the most biodiverse. Siskiyou county, California houses organisms that cannot be found anywhere else. These organisms must be protected in order to preserve the Siskiyou county landscape and food webs. Finding a Bigfoot in the Siskiyou area will garner even more protection and preservation. 
+
+The following will focus on California Bigfoot sightings in Humboldt County (22 Sightings) and Siskiyou County (18 Sightings).
+
+```{r humboldt + siskiyou}
+temp <- tempfile()
+download.file("https://humboldtgov.org/DocumentCenter/View/570", temp)
+unzip(temp)
+hum_sf <- read_sf("CNTYOUTL.SHP")
+
+temp2 <- tempfile()
+download.file("https://www2.census.gov/geo/tiger/TIGER2020/FACES/tl_2020_06093_faces.zip", temp2)
+unzip(temp2)
+sis_sf <- read_sf("tl_2020_06093_faces.shp")
+
+```
+
+```{r humboldt sightings}
+humboldt_sightings <- filter(pnw_sum, county == "Humboldt County")
+
+hum_latlong <- humboldt_sightings %>% select(longitude, latitude) %>% na.omit()
+
+my_sf <- st_as_sf(hum_latlong, coords = c('longitude', 'latitude'))
+
+hum_plot2 <- ggplot(my_sf) + 
+  geom_sf(aes()) + labs(title = "Humboldt Sightings", x = "Longitude", y = "Latitude") + theme(text = element_text(size=10),
+        axis.text.x = element_text(angle=45, hjust=1)) 
+
+hum_plot2
+
+```
+
+```{r humboldt outline}
+plot_hum <- ggplot() + 
+  geom_sf(data = hum_sf, size = 1.5, color = "black", fill = "green4") + 
+  ggtitle("Humboldt Outline") + 
+  coord_sf() + theme(text = element_text(size=10),
+        axis.text.x = element_text(angle=45, hjust=1)) + labs(x = "Longitude", y = "Latitude")
+plot_hum
+
+```
+
+
+```{r humboldt ndvi}
+hum_start <- "2022-06-01"
+  
+hum_end <- "2022-08-31"
+
+hum_box <- st_bbox(c(xmin = 123.4, xmax = 124.6, ymax = 41.6, ymin = 39.8))
+
+hum_items <- 
+  stac("https://earth-search.aws.element84.com/v0/") |>
+  stac_search(collections = "sentinel-s2-l2a-cogs", bbox = c(hum_box), 
+              datetime = paste(hum_start, hum_end, sep="/"),
+              limit = 100) |> post_request()
+
+hum_col <- stac_image_collection(hum_items$features, asset_names = c("B02", "B03", "B04","B08", "SCL"), property_filter = \(x) {x[["eo:cloud_cover"]] < 20})
+
+hum_cube <- cube_view(srs = "EPSG:4326",  
+                  extent = list(t0 = hum_start, t1 = hum_end,
+                                left = hum_box[1], right = hum_box[3],
+                                top = hum_box[4], bottom = hum_box[2]),
+                  nx = 1000, ny = 1000, dt = "P1M",
+                  aggregation = "median", resampling = "average")
+
+S2.mask <- image_mask("SCL", values=c(3,8,9)) # mask clouds and cloud shadows
+
+hum_ndvi <- 
+  raster_cube(hum_col, hum_cube, mask = S2.mask) |>
+  select_bands(c("B08", "B04")) |>
+  apply_pixel("(B08-B04)/(B08+B04)", "NDVI") |> aggregate_time("P3M")
+
+hum_ndvi_plot <- hum_ndvi |> st_as_stars()
+
+tm_shape(hum_ndvi_plot) + tm_raster(style = "quantile") + tm_shape(hum_sf) + tm_polygons()
+```
+
+# Humboldt
+Humboldt County hugs the Pacific Ocean and is one county away from the Oregon-California border, separated by Del Norte County. Humboldt is home to cities like Eureka and Arcata which are beautiful and extremely abundant on Redwood trees. The California Redwoods are amongst the tallest in the world and Humboldt coutny is home to the home to them all, making it an easy target for Bigfeet to reside. 
+
+Humboldt's NDVI is concentrated up North and more inland. Our Bigfoot sightings did not have a lot of specific Longitudes and Latitudes, but from the data we do have, it is prevalent that there is no distinct correlation between Greeness in Humboldt with Bigfoot Sightings. It seems more likely that Bigfoot Sightings are more concentrated Southwest bound. 
+
+
+```{r siskiyou sightings}
+siskiyou_sightings <- filter(pnw_sum, county == "Siskiyou County")
+
+sis_latlong <- siskiyou_sightings %>% select(longitude, latitude) %>% na.omit()
+
+sis_sf2 <- st_as_sf(sis_latlong, coords = c('longitude', 'latitude'))
+
+sis_plot2 <- ggplot(sis_sf2) + 
+  geom_sf(aes()) + labs(title = "Siskiyou Sightings", x = "Longitude", y = "Latitude")
+
+sis_plot2
+```
+
+```{r siskiyou}
+plot_sis <- ggplot() + 
+  geom_sf(data = sis_sf, size = 1.5, color = "black", fill = "lightblue") + 
+  ggtitle("Siskiyou Outline + Census Data") + 
+  coord_sf() + labs(x = "Longitude", y = "Latitude")
+plot_sis
+```
+
+```{r Siskiyou ndvi}
+sis_start <- "2022-06-01"
+  
+sis_end <- "2022-08-31"
+
+sis_box <- st_bbox(c(xmin = 121, xmax = 124, ymax = 42.2, ymin = 40.8))
+
+sis_items <- 
+  stac("https://earth-search.aws.element84.com/v0/") |>
+  stac_search(collections = "sentinel-s2-l2a-cogs", bbox = c(sis_box), 
+              datetime = paste(sis_start, sis_end, sep="/"),
+              limit = 100) |> post_request()
+
+sis_col <- stac_image_collection(sis_items$features, asset_names = c("B02", "B03", "B04","B08", "SCL"), property_filter = \(x) {x[["eo:cloud_cover"]] < 20})
+
+sis_cube <- cube_view(srs = "EPSG:4326",  
+                  extent = list(t0 = sis_start, t1 = sis_end,
+                                left = sis_box[1], right = sis_box[3],
+                                top = sis_box[4], bottom = sis_box[2]),
+                  nx = 1000, ny = 1000, dt = "P1M",
+                  aggregation = "median", resampling = "average")
+
+S2.mask <- image_mask("SCL", values=c(3,8,9)) # mask clouds and cloud shadows
+
+sis_ndvi <- 
+  raster_cube(sis_col, sis_cube, mask = S2.mask) |>
+  select_bands(c("B08", "B04")) |>
+  apply_pixel("(B08-B04)/(B08+B04)", "NDVI") |> aggregate_time("P3M")
+
+sis_ndvi_plot <- sis_ndvi |> st_as_stars()
+
+tm_shape(sis_ndvi_plot) + tm_raster(style = "quantile") + tm_shape(sis_sf) + tm_polygons()
+
+```
+# Siskiyou 
+
+Siskiyou County is home to the most biodiverse organisms in California. They are very important and different as the Siskiyou land is home to past volcanic ash and erosion. Therefore the soil here is very different from other Californian soil and Mediterranean climate as it touches the border of Oregon. 
+
+As we can see, the Bigfeet sightings in Siskiyou are concentrated in the upper and lower left hand side of the coutny as well as one in the deep forests of the lower right region. These areas are more consistently green than the left side, however nothing truly stands out as a connection between those areas and Bigfeet sightings. 
+
+## Conclusion
+
+Bigfeet are rare and seen to be scary beasts that are seen lurking at night, but as Laura Krantz has figured out: it doesn't matter if Bigfoot is real or not because either way, the Earth has been in need of some love from its inhabitants. We have drifted too far into the world of technology, that the environment no longer suits our needs, as long as we can advance in technology. 
+
+If Bigfoot is discovered, there would be a triumphant roar for many of us. Especially conservationists as they try and figure out more ways that humans can be proactive in the conservation of the Earth. A rare organism and identity like Bigfoot would likely cause the areas of the Pacific Northwest to reign in government protection. 
+
+Bigfoot are mammals like humans, they may outlive us without ever being discovered, but their organism peers deserve a suitable home and foundation away from chaos just like humans. 
